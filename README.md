@@ -4,7 +4,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 0 TILs so far. 
 
-[![Visits Badge](https://badges.pufler.dev/visits/crazyuploader/crazyuploader)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/crazyuploader/TIL)](https://badges.pufler.dev)
 
 ---
 
