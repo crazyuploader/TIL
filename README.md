@@ -15,3 +15,8 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Pipe Password to Sudo](linux/pipe-password-to-sudo.md)
 - [Remove User Password](linux/remove-user-password.md)
 - [Check Open Port](linux/check-open-port.md)
+
+~ Misc
+---
+
+- [Useful Sites](useful-sites.md)
