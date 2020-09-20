@@ -6,4 +6,4 @@
 sysbench cpu --threads=4 run
 ```
 
-Source: [AskUbuntu](https://askubuntu.com/questions/634513/cpu-benchmarking-utility-for-linux)
+***Source:*** [AskUbuntu](https://askubuntu.com/questions/634513/cpu-benchmarking-utility-for-linux)
