@@ -16,5 +16,5 @@ And that was all, for me to pass the password to `sudo` without actually writing
 
 Thing to note here is that passing `-S` makes `sudo` to read password from *stdin*.
 
-***Original Question on*** [StackOverFlow here](https://unix.stackexchange.com/questions/391796/pipe-password-to-sudo-and-other-data-to-sudoed-command).
+***Original Question on [StackOverFlow here](https://unix.stackexchange.com/questions/391796/pipe-password-to-sudo-and-other-data-to-sudoed-command)***.
 

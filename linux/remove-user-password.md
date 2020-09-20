@@ -34,5 +34,5 @@ And what's left for us to remove the password of the current user is to run:
 sudo passwd -d `whoami`
 ```
 
-***Original Question on*** [StackOverFlow here](https://askubuntu.com/questions/281074/can-i-set-my-user-account-to-have-no-password).
+***Original Question on [StackOverFlow here](https://askubuntu.com/questions/281074/can-i-set-my-user-account-to-have-no-password)***.
 
