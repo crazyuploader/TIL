@@ -31,7 +31,7 @@ sudo apt install update-manager-core
 sudo do-release-upgrade
 ```
 
-***Note*** If it shows `There is no development version of an LTS available.`, run `sudo do-release-upgrade -d`
+***Note:*** If it shows `There is no development version of an LTS available.`, run `sudo do-release-upgrade -d`
 
 **System Restart**
 
