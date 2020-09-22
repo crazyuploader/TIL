@@ -1,31 +1,31 @@
 # System Upgrade
 
-### Ugrade all installed packages
+**Ugrade all installed packages**
 
 ```bash
 sudo apt-get update
 sudo apt-get upgrade -y
 ```
 
-### Reboot
+**Reboot**
 
 ```bash
 sudo reboot
 ```
 
-### Remove unused packages and old kernel versions
+**Remove unused packages and old kernel versions**
 
 ```bash
 sudo apt --purge autoremove
 ```
 
-### Install Ubuntu update tool
+**Install Ubuntu update tool**
 
 ```bash
 sudo apt install update-manager-core
 ```
 
-### Start Upgrade
+**Start Upgrade**
 
 ```bash
 sudo do-release-upgrade
@@ -33,19 +33,19 @@ sudo do-release-upgrade
 
 ***Note*** If it shows `There is no development version of an LTS available.`, run `sudo do-release-upgrade -d`
 
-### System Restart
+**System Restart**
 
 ```bash
 sudo reboot
 ```
 
-### Verify Distro
+**Verify Distro**
 
 ```bash
 lsb_release -a
 ```
 
-### Enabled disabled 3rd party repo
+**Enabled disabled 3rd party repo**
 
 While upgrading distro 3rd party repositories can be disabled by Ubuntu for system stability, and these can be enabled again by looking into `/etc/apt/sources.list` file.
 
