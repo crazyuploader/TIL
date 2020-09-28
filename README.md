@@ -1,4 +1,6 @@
-# Today I Learned
+# TIL
+
+> Today I Learned
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
@@ -19,6 +21,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Root Check in Scripts](linux/root-check.md)
 - [Show Public IP](linux/show-public-ip.md)
 - [System Ugprade](linux/system-upgrade.md)
+
+### ~ Bash
+
+- [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
 
 ~ Docker
 ---
