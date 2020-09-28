@@ -20,6 +20,6 @@ else
     git diff README.md
     git add README.md
     git commit -m "Auto Update [skip ci]"
-    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:${BRANCH}
+    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:${TRAVIS_BRANCH}
     echo -e "${YELLOW}Updates Pushed to https://${GH_REF}"
 fi
