@@ -16,4 +16,4 @@ Add the following to the end of `~/.bashrc`:
 eval "$(starship init bash)"
 ```
 
-***Source: [StarShip](https://starship.rs/)***
+**_Source: [StarShip](https://starship.rs/)_**

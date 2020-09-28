@@ -31,7 +31,7 @@ sudo apt install update-manager-core
 sudo do-release-upgrade
 ```
 
-***Note:*** If it shows `There is no development version of an LTS available.`, run `sudo do-release-upgrade -d`
+**_Note:_** If it shows `There is no development version of an LTS available.`, run `sudo do-release-upgrade -d`
 
 **System Restart**
 
@@ -49,4 +49,4 @@ lsb_release -a
 
 While upgrading distro 3rd party repositories can be disabled by Ubuntu for system stability, and these can be enabled again by looking into `/etc/apt/sources.list` file.
 
-***Source: [CyberCiti](https://www.cyberciti.biz/faq/upgrade-ubuntu-18-04-to-20-04-lts-using-command-line/)***
+**_Source: [CyberCiti](https://www.cyberciti.biz/faq/upgrade-ubuntu-18-04-to-20-04-lts-using-command-line/)_**

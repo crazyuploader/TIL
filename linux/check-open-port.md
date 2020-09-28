@@ -7,4 +7,3 @@ nmap -Pn {IP_ADDRESS}
 ```
 
 Replace `IP_ADDRESS` with the IP to be scanned.
-

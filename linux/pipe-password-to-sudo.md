@@ -14,7 +14,6 @@ echo "SECRET" | sudo -S service docker start
 
 And that was all, for me to pass the password to `sudo` without actually writing the password again!
 
-Thing to note here is that passing `-S` makes `sudo` to read password from *stdin*.
+Thing to note here is that passing `-S` makes `sudo` to read password from _stdin_.
 
-***Original Question on [StackOverFlow here](https://unix.stackexchange.com/questions/391796/pipe-password-to-sudo-and-other-data-to-sudoed-command)***.
-
+**_Original Question on [StackOverFlow here](https://unix.stackexchange.com/questions/391796/pipe-password-to-sudo-and-other-data-to-sudoed-command)_**.
