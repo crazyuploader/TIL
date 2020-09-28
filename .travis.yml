@@ -2,4 +2,4 @@ os: linux
 dist: bionic
 language: bash
 script: |
-  echo "Test"
+  ./script.sh
