@@ -1,0 +1,7 @@
+os: linux
+dist: focal
+language: bash
+git:
+  depth: false
+script: |
+  ./script.sh
