@@ -1,5 +1,7 @@
 os: linux
 dist: bionic
 language: bash
+git:
+  depth: false
 script: |
   ./script.sh
