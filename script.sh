@@ -11,7 +11,7 @@ BRANCH="$(git rev-parse --abbrev-ref HEAD)"
 
 ./count.sh
 echo ""
-echo "${GREEN}Run Prettier...${NC}"
+echo -e "${GREEN}Run Prettier...${NC}"
 npx prettier --write .
 git config user.email "49350241+crazyuploader@users.noreply.github.com"
 git config user.name "crazyuploader"
