@@ -10,6 +10,7 @@ NC="\033[0m"
 BRANCH="$(git rev-parse --abbrev-ref HEAD)"
 
 ./count.sh
+npx prettier --write .
 git config user.email "49350241+crazyuploader@users.noreply.github.com"
 git config user.name "crazyuploader"
 
