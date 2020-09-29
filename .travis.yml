@@ -1,6 +1,8 @@
 os: linux
 dist: focal
-language: bash
+language: node_js
+node_js:
+  - 12
 git:
   depth: false
 script: |
