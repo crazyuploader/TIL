@@ -17,4 +17,4 @@ To install OpenVPN, run:
 ./openvpn-install.sh
 ```
 
-***Source: [GitHub](https://github.com/angristan/openvpn-install)***
+**_Source: [GitHub](https://github.com/angristan/openvpn-install)_**
