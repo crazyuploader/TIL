@@ -31,6 +31,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Docker Exec](docker/docker-exec.md)
 - [Remove Unused Data](docker/remove-unused-data.md)
 
+## ~ Git
+
+- [Delete Tag](git/delete-tag.md)
+
 ## ~ Misc
 
 - [Useful Sites](misc/useful-sites.md)
