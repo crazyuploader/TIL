@@ -12,4 +12,4 @@ To also delete the local tag, use:
 git tag --delete {TAG_NAME}
 ```
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/5480292)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/5480292)_**
