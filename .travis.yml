@@ -6,5 +6,7 @@ node_js:
 cache: npm
 git:
   depth: false
+before_script: |
+  npm install -g prettier
 script: |
   ./script.sh
