@@ -22,6 +22,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Show Public IP](linux/show-public-ip.md)
 - [System Ugprade](linux/system-upgrade.md)
 
+### ~ APT
+
+- [APT Fix Broken Packages](linux/apt/apt-fix-broken-packages.md)
+
 ### ~ Bash
 
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
