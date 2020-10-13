@@ -2,7 +2,7 @@
 
 Since, WSL2 Ubuntu is a trimmed down version of Ubuntu, it doesn't come with systemd support. However, we can make it work using systemd hack.
 
-***NOTE:*** WSL 2 Only
+**_NOTE:_** WSL 2 Only
 
 **Usage**
 
@@ -30,4 +30,4 @@ jungle@DESKTOP-B73I3A0:~$ ps 1
 
 Enjoy systemd hack on WSL2!
 
-***Source: [GitHub](https://github.com/DamionGans/ubuntu-wsl2-systemd-script)***
+**_Source: [GitHub](https://github.com/DamionGans/ubuntu-wsl2-systemd-script)_**
