@@ -12,4 +12,4 @@ sudo apt install bashtop
 
 _Python version of the same can be found at: [GitHub](https://github.com/aristocratos/bpytop)_
 
-***Source: [GitHub](https://github.com/aristocratos/bashtop)***
+**_Source: [GitHub](https://github.com/aristocratos/bashtop)_**
