@@ -23,6 +23,12 @@ wsl --shutdown
 Test systemd by running:
 
 ```bash
+ps 1
+```
+
+You should see something like this:
+
+```bash
 jungle@DESKTOP-B73I3A0:~$ ps 1
     PID TTY      STAT   TIME COMMAND
       1 ?        Ss     0:02 /lib/systemd/systemd --system-unit=basic.target
