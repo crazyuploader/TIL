@@ -44,3 +44,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Useful Sites](misc/useful-sites.md)
 - [Must Read Sites](misc/must-read-sites.md)
+
+## ~ WSL
+
+- [Enable Systemd Support in WSL2](wsl/enable-systemd-support-in-wsl2.md)
