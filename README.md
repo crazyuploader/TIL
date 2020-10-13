@@ -28,6 +28,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ### ~ Bash
 
+- [BashTOP Resource Monitor](linux/bash/bashtop-resource-monitor.md)
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
 
 ## ~ Docker
