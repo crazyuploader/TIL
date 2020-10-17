@@ -11,7 +11,7 @@ NC="\033[0m"
 sed -i '7d' README.md
 FILES=-1
 FNAME="$(find . -name '*.md')"
-for f in "${FNAME}"; do 
+for f in ${FNAME}; do 
     ((FILES = FILES + 1)) 
 done
 TEXT="***${FILES} TILs so far.***"
