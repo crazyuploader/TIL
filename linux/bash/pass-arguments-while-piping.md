@@ -9,7 +9,7 @@ bash -s -- <ARG>
 ## Example
 
 ```bash
-curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
+curl -s http://wget.racing/nench.sh | bash -s -- -q
 ```
 
 ***Source: https://stackoverflow.com/a/53605439***
