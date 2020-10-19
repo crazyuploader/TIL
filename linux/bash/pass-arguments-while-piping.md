@@ -12,4 +12,4 @@ bash -s -- <ARG>
 curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
 ```
 
-***Source: https://stackoverflow.com/a/53605439***
+**_Source: https://stackoverflow.com/a/53605439_**
