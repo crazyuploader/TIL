@@ -12,4 +12,4 @@ bash -s -- <ARG>
 curl -s http://wget.racing/nench.sh | bash -s -- -q
 ```
 
-***Source: https://stackoverflow.com/a/53605439***
+**_Source: https://stackoverflow.com/a/53605439_**
