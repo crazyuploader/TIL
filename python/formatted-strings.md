@@ -26,4 +26,4 @@ In Python language, formatting of strings and inserting of variables in a string
 'Hey there Jugal!'
 ```
 
-***Source: [RealPython](https://realpython.com/python-f-strings/)***
+**_Source: [RealPython](https://realpython.com/python-f-strings/)_**
