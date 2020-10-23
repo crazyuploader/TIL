@@ -13,8 +13,8 @@ BRANCH="$(git rev-parse --abbrev-ref HEAD)"
 echo ""
 echo -e "${YELLOW}Run Prettier...${NC}"
 prettier --write .
-git config user.email "49350241+crazyuploader@users.noreply.github.com"
-git config user.name "crazyuploader"
+git config user.email "travis@travis-ci.com"
+git config user.name "Junglee CI"
 
 echo ""
 if [[ -z $(git status --porcelain) ]]; then
