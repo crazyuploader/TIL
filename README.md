@@ -11,11 +11,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 ---
 
 - [Linux](#-linux)
-
-> [APT](#-apt)
-
-> [Bash](#-bash)
-
 - [Docker](#-docker)
 - [Git](#-git)
 - [Markdown](#-markdown)
