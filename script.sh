@@ -22,6 +22,6 @@ if [[ -z $(git status --porcelain) ]]; then
 else
     git add .
     git commit -m "Auto Update [skip ci]" -m "" -m "Update TIL number, and run Prettier"
-    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:${GITHUB_REF}
+    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:${TRAVIS_BRANCH}
     echo -e "${YELLOW}Updates Pushed to https://${GH_REF}"
 fi
