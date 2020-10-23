@@ -17,4 +17,6 @@ jobs:
       - run: npm i -g prettier
       - run: ./script.sh
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REF: ${{ secrets.GH_REF }}
           CI: true
