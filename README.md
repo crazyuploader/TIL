@@ -24,6 +24,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [WSL](#-wsl)
 
 ---
+
 ## ~ Linux
 
 - [Benchmark System](linux/benchmark-system.md)
