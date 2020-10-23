@@ -14,7 +14,7 @@ echo ""
 echo -e "${YELLOW}Run Prettier...${NC}"
 prettier --write .
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-git config user.name "GitHub Actions"
+git config user.name "github-actions"
 
 echo ""
 if [[ -z $(git status --porcelain) ]]; then
