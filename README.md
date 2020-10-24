@@ -65,6 +65,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## ~ Python
 
+- [Check If a Variable is Empty](python/check-if-a-variable-is-empty.md)
 - [Formatted Strings](python/formatted-strings.md)
 
 ## ~ WSL
