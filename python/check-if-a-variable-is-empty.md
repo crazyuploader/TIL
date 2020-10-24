@@ -24,4 +24,4 @@ else:
     print("Variable is empty!") # True when an empty string is found
 ```
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/9926466)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/9926466)_**
