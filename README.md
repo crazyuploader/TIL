@@ -72,6 +72,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Check If a String is Empty](python/check-if-a-string-is-empty.md)
 - [Formatted Strings](python/formatted-strings.md)
+- [Run Python Script in Background](python/run-python-script-in-background.md)
 
 ## ~ WSL
 
