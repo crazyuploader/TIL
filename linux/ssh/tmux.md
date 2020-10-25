@@ -34,6 +34,6 @@ After logging into the system, run:
 tmux attach
 ```
 
-***Real Cheatsheet: [TmuxCheatsheet](http://tmuxcheatsheet.com/)***
+**_Real Cheatsheet: [TmuxCheatsheet](http://tmuxcheatsheet.com/)_**
 
-***Alternative(s): [TecMint](https://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/)***
+**_Alternative(s): [TecMint](https://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/)_**
