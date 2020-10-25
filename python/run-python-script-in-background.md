@@ -18,4 +18,4 @@ By default `nuhup` writes to `nuhup` writes to `nohup.out` which can be changed 
 nuhup ./run.py > log.txt &
 ```
 
-***Source: [Janakiev](https://janakiev.com/blog/python-background/)***
+**_Source: [Janakiev](https://janakiev.com/blog/python-background/)_**
