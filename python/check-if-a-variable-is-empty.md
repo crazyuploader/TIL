@@ -1,6 +1,6 @@
-# Check If a Variable is Empty
+# Check If a String is Empty
 
-A variable can be checked if it's empty or not by following ways -
+A string can be checked if it's empty or not by following ways -
 
 ## Simple Way
 
