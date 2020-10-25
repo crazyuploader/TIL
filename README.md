@@ -29,7 +29,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [OpenVPN Server](linux/openvpn-server.md)
 - [Pipe Password to Sudo](linux/pipe-password-to-sudo.md)
 - [Remove User Password](linux/remove-user-password.md)
-- [Reconnect To a Disconnected SSH Session](linux/reconnect-to-a-disconnected-ssh-session.md)
+- [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
 - [Root Check in Scripts](linux/root-check.md)
 - [Show Public IP](linux/show-public-ip.md)
 - [System Ugprade](linux/system-upgrade.md)
