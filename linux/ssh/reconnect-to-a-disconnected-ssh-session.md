@@ -10,7 +10,7 @@ Run it on Remote -
 screen
 ```
 
-Upon Disconnection use to reconnect to previous session by -
+Upon Disconnection, reconnect to previous session by -
 
 ```bash
 screen -d -r
