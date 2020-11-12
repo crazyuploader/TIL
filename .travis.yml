@@ -1,0 +1,10 @@
+os: linux
+dist: focal
+language: node_js
+node_js: 14
+before_script:
+  - npm install broken-link-checker -g
+script:
+  - blc --version
+  - sleep 30
+  - blc https://til.jugalkishore.me -ro
