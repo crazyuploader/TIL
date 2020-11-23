@@ -4,7 +4,7 @@
 
 ## Installation
 
-Firstly make sure `tcptraceroute` is installed on the system by running
+Firstly we have to make sure `tcptraceroute` is installed by running -
 
 ```bash
 apt-get install -y tcptraceroute
@@ -17,7 +17,7 @@ wget http://www.vdberg.org/~richard/tcpping -O /usr/bin/tcping
 chmod 755 /usr/bin/tcping
 ```
 
-**_Note:_** I am saving tcpping as tcping here
+**_Note:_** I am saving `tcpping` as `tcping` here
 
 ### Example
 
