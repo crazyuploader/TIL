@@ -27,6 +27,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Check Open Port](linux/check-open-port.md)
 - [Increase Limit of Inotify Watchers](linux/increase-limit-of-inotify-watchers.md)
 - [OpenVPN Server](linux/openvpn-server.md)
+- [Ping over TCP](linux/ping-over-tcp.md)
 - [Pipe Password to Sudo](linux/pipe-password-to-sudo.md)
 - [Remove User Password](linux/remove-user-password.md)
 - [Root Check in Scripts](linux/root-check.md)
