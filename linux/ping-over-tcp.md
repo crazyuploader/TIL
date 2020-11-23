@@ -17,7 +17,7 @@ wget http://www.vdberg.org/~richard/tcpping -O /usr/bin/tcping
 chmod 755 /usr/bin/tcping
 ```
 
-***Note:*** I am saving tcpping as tcping here
+**_Note:_** I am saving tcpping as tcping here
 
 ### Example
 
@@ -30,4 +30,4 @@ seq 3: tcp response from del11s07-in-f14.1e100.net (216.58.200.206) [open]  53.0
 seq 4: tcp response from del11s07-in-f14.1e100.net (216.58.200.206) [open]  48.375 ms
 ```
 
-***Source: [GitHub Gist](https://gist.github.com/cnDelbert/5fb06ccf10c19dbce3a7)***
+**_Source: [GitHub Gist](https://gist.github.com/cnDelbert/5fb06ccf10c19dbce3a7)_**
