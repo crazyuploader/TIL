@@ -24,4 +24,4 @@ fi
 
 Which pretty much worked for me the way I intended it to.
 
-**_See the original question on [StackOverFlow here](https://stackoverflow.com/questions/18215973/how-to-check-if-running-as-root-in-a-bash-script)_**.
+**_See the original question on [StackOverFlow here](https://stackoverflow.com/questions/18215973/how-to-check-if-running-as-root-in-a-bash-script)_**
