@@ -67,8 +67,9 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## ~ Misc
 
-- [Useful Sites](misc/useful-sites.md)
+- [Good Reads](misc/good-reads.md)
 - [Must Read Sites](misc/must-read-sites.md)
+- [Useful Sites](misc/useful-sites.md)
 
 ## ~ Python
 
