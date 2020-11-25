@@ -6,5 +6,4 @@ before_script:
   - npm install broken-link-checker -g
 script:
   - blc --version
-  - sleep 30
   - blc https://til.jugalkishore.me -ro
