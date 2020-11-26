@@ -51,6 +51,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Screen](linux/ssh/screen.md)
 - [Tmux](linux/ssh/tmux.md)
 
+## ~ Cheatsheets
+
+- [Bash Cheatsheet](cheatsheets/bash-cheatsheet.md)
+- [Markdown Cheatsheet](cheatsheets/markdown-cheatsheet.md)
+
 ## ~ Docker
 
 - [Docker Exec](docker/docker-exec.md)
@@ -63,7 +68,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## ~ Markdown
 
-- [Markdown Cheatsheet](markdown/markdown-cheatsheet.md)
 
 ## ~ Misc
 
