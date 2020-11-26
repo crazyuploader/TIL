@@ -4,7 +4,7 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_32 TILs so far._**
+**_33 TILs so far._**
 
 [![Visits Badge](https://badges.pufler.dev/visits/crazyuploader/TIL)](https://badges.pufler.dev)
 
@@ -67,7 +67,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Delete Tag](git/delete-tag.md)
 
 ## ~ Markdown
-
 
 ## ~ Misc
 
