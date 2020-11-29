@@ -33,6 +33,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Remove User Password](linux/remove-user-password.md)
 - [Root Check in Scripts](linux/root-check.md)
 - [Show Public IP](linux/show-public-ip.md)
+- [Show Size of Current Directory](linux/show-size-of-current-directory.md)
 - [System Ugprade](linux/system-upgrade.md)
 
 ### ~ APT
