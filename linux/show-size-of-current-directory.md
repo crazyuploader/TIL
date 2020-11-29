@@ -18,4 +18,4 @@ $ du -sh /var
 
 `/var` is the path to the directory you want to see the size of
 
-***Source: [Linuxize](https://linuxize.com/post/how-get-size-of-file-directory-linux/)***
+**_Source: [Linuxize](https://linuxize.com/post/how-get-size-of-file-directory-linux/)_**
