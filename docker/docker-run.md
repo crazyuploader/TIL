@@ -2,6 +2,8 @@
 
 `docker run`
 
+> Run a command in a new container
+
 ## Usage
 
 ```bash
