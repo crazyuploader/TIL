@@ -57,6 +57,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Bash Cheatsheet](cheatsheets/bash-cheatsheet.md)
 - [Markdown Cheatsheet](cheatsheets/markdown-cheatsheet.md)
+- [Python Cheatsheet](cheatsheets/python-cheatsheet.md)
 - [ReactJS Cheatsheet](cheatsheets/reactjs-cheatsheet.md)
 
 ## ~ Docker
