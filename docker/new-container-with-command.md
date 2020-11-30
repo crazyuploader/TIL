@@ -15,4 +15,4 @@ azureuser@Azure:~$ docker run ubuntu echo "Hi there!"
 Hi there!
 ```
 
-***Source: [Docker Docs](https://docs.docker.com/engine/reference/commandline/run/)***
+**_Source: [Docker Docs](https://docs.docker.com/engine/reference/commandline/run/)_**
