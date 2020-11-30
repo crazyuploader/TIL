@@ -63,6 +63,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Docker Exec](docker/docker-exec.md)
 - [Install Ping in Docker](docker/install-ping-in-docker.md)
+- [New Container with Command](docker/new-container-with-command.md)
 - [Remove Unused Data](docker/remove-unused-data.md)
 
 ## ~ Git
