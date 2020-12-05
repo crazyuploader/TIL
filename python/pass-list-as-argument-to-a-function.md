@@ -14,4 +14,4 @@ fruits = ["Apple", "Banana", "Papaya"]
 some_function(fruits)
 ```
 
-***Source: [W3Schools](https://www.w3schools.com/python/gloss_python_function_passing_list.asp)***
+**_Source: [W3Schools](https://www.w3schools.com/python/gloss_python_function_passing_list.asp)_**
