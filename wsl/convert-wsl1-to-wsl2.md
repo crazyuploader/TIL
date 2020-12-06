@@ -24,4 +24,4 @@ Then to actually convert WSL1 Linux Distro to WSL2, run -
 wsl --set-version {DISTRO_NAME} 2
 ```
 
-***Source: [Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10)***
+**_Source: [Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10)_**
