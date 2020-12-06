@@ -24,7 +24,7 @@ wsl --set-default-version 2
 wsl --set-version {DISTRO_NAME} 2
 ```
 
-WSL1 Distro should now be converted to WSL2, you can verify the same by runnig -
+### WSL1 Distro should now be converted to WSL2, you can verify the same by runnig -
 
 ```shell
 wsl --list --verbose
