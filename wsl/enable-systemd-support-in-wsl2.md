@@ -20,7 +20,7 @@ Then run (in Windows):
 wsl --shutdown
 ```
 
-Test systemd by running:
+Run WSL again and test systemd by running:
 
 ```bash
 ps 1
