@@ -90,4 +90,5 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## ~ WSL
 
+- [Convert WSL1 to WSL2](wsl/convert-wsl1-to-wsl2.md)
 - [Enable Systemd Support in WSL2](wsl/enable-systemd-support-in-wsl2.md)
