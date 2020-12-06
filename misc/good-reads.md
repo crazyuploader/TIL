@@ -9,6 +9,11 @@
 - [Using and and or in Bash Scripts](https://kyleshevlin.com/using-and-and-or-in-bash-scripts/)
 - [What is GRUB in Linux?](https://itsfoss.com/what-is-grub/)
 
+### 12/06/2020
+
+- [17 Interesting JavaScript Tricks](https://hackernoon.com/17-interesting-javascript-tricks-4i283133)
+- [A react table that includes all the CRUD operations](https://reactjsexample.com/a-react-table-that-includes-all-the-crud-operations/)
+
 ### 11/28/2020
 
 - [10 Awesome Github Repos Every Web Developer Should Know](https://blog.simonholdorf.com/10-awesome-github-repos-every-web-developer-should-know)
