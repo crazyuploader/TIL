@@ -48,6 +48,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Shell Formatter](linux/bash/shell-formatter.md)
 - [Yes](linux/bash/yes.md)
 
+### ~ GPG
+
+- [GPG Import Keys](linux/gpg/gpg-import-keys.md)
+
 ### ~ SSH
 
 - [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
