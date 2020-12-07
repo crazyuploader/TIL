@@ -3,7 +3,7 @@ name: Prettify
 on: [push]
 
 jobs:
-  build:
+  prettier:
     runs-on: ubuntu-latest
 
     steps:
