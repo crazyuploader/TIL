@@ -52,6 +52,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Fix "Inappropriate ioctl for device" Error](linux/gpg/fix-inappropriate-ioctl-for-device-error.md)
 - [GPG Import Keys](linux/gpg/gpg-import-keys.md)
+- [GPG Trust Key](linux/gpg/gpg-trust-key.md)
 
 ### ~ SSH
 
