@@ -1,9 +1,8 @@
 os: linux
 dist: focal
-language: node_js
-node_js: 14
+language: ruby
 before_script:
-  - npm install broken-link-checker -g
+  - gem install awesome_bot
 script:
-  - blc --version
-  - blc https://til.jugalkishore.me -ro
+  - awesome_bot --version
+  - awesome_bot --allow-redirect --allow-dupe `find . -name "*.md"`
