@@ -14,3 +14,7 @@ echo "Size of variable 'VAR' is = ${#VAR}"
 ```
 
 ***Source: [StackOverFlow](https://stackoverflow.com/a/17368090)***
+
+**Reference(s)**
+
+- [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Shell-Parameter-Expansion)
