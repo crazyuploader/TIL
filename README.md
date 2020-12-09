@@ -45,6 +45,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [BashTOP Resource Monitor](linux/bash/bashtop-resource-monitor.md)
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
+- [Length of String in Variable](linux/bash/length-of-string-in-variable.md)
 - [Pass Arguments while Piping](linux/bash/pass-arguments-while-piping.md)
 - [Shell Formatter](linux/bash/shell-formatter.md)
 - [Yes](linux/bash/yes.md)
