@@ -19,4 +19,4 @@ Also, for customs delimiters we can do something like -
 re.split(" |\n")
 ```
 
-***Source: [W3Resource](https://www.w3resource.com/python-exercises/re/python-re-exercise-47.php)***
+**_Source: [W3Resource](https://www.w3resource.com/python-exercises/re/python-re-exercise-47.php)_**
