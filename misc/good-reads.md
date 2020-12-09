@@ -9,6 +9,11 @@
 - [Using and and or in Bash Scripts](https://kyleshevlin.com/using-and-and-or-in-bash-scripts/)
 - [What is GRUB in Linux?](https://itsfoss.com/what-is-grub/)
 
+### 12/09/2020
+
+- [5 Things I Didn’t Know About JavaScript Operators](https://medium.com/javascript-in-plain-english/5-things-i-didnt-know-about-javascript-operators-44bb1d03c71a)
+- [100% Decentralized & Secure P2P File Sharing Client](https://surge.rule110.io/)
+
 ### 12/06/2020
 
 - [17 Interesting JavaScript Tricks](https://hackernoon.com/17-interesting-javascript-tricks-4i283133)
