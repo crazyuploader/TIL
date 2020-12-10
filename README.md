@@ -57,6 +57,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [GPG Test](linux/gpg/gpg-test.md)
 - [GPG Trust Key](linux/gpg/gpg-trust-key.md)
 
+### ~ Grep
+
+- [Grep Case Insensitive Search](linux/grep/grep-case-insensitive-search.md)
+
 ### ~ SSH
 
 - [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
