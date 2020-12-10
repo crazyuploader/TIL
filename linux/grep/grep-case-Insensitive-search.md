@@ -11,4 +11,4 @@ Hey There
 
 Here, even if we're searching for lowered case "hey", we still get "Hey There".
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#case-insensitive-search)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#case-insensitive-search)_**
