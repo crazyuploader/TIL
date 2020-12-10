@@ -11,6 +11,8 @@
 
 ### 12/10/2020
 
+- [Top React libraries you need to know in 2021](https://blog.graphqleditor.com/react-libs-2021/)
+- [Top 33 JavaScript Projects on GitHub](https://trekhleb.hashnode.dev/top-33-javascript-projects-on-github-december-2020)
 - [How I Learned to Code and Built a Real Software Product in 6 Months](https://www.freecodecamp.org/news/how-i-learned-to-code-in-6-months/)
 - [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 
