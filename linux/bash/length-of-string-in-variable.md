@@ -13,7 +13,7 @@ VAR="String"
 echo "Size of variable 'VAR' is = ${#VAR}"
 ```
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/17368090)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/17368090)_**
 
 **Reference(s)**
 
