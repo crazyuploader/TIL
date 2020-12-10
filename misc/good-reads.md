@@ -9,6 +9,10 @@
 - [Using and and or in Bash Scripts](https://kyleshevlin.com/using-and-and-or-in-bash-scripts/)
 - [What is GRUB in Linux?](https://itsfoss.com/what-is-grub/)
 
+### 12/10/2020
+
+- [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
+
 ### 12/09/2020
 
 - [5 Things I Didn’t Know About JavaScript Operators](https://medium.com/javascript-in-plain-english/5-things-i-didnt-know-about-javascript-operators-44bb1d03c71a)
