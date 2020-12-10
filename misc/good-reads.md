@@ -11,6 +11,7 @@
 
 ### 12/10/2020
 
+- [How I Learned to Code and Built a Real Software Product in 6 Months](https://www.freecodecamp.org/news/how-i-learned-to-code-in-6-months/)
 - [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 
 ### 12/09/2020
