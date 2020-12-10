@@ -74,6 +74,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Docker Exec](docker/docker-exec.md)
 - [Docker Run](docker/docker-run.md)
+- [Install Docker](docker/install-docker.md)
 - [Install Ping in Docker](docker/install-ping-in-docker.md)
 - [Remove Unused Data](docker/remove-unused-data.md)
 
