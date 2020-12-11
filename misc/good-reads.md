@@ -9,6 +9,14 @@
 - [Using and and or in Bash Scripts](https://kyleshevlin.com/using-and-and-or-in-bash-scripts/)
 - [What is GRUB in Linux?](https://itsfoss.com/what-is-grub/)
 
+## FreeCodeCamp
+
+- [Kubernetes VS Docker: What's the Difference? Explained With Examples](https://www.freecodecamp.org/news/kubernetes-vs-docker-whats-the-difference-explained-with-examples/)
+- [What is a Software Post-Mortem and How Do You Write One?](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
+- [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
+- [What is Static Site Generation? How Next.js Uses SSG for Dynamic Web Apps](https://www.freecodecamp.org/news/static-site-generation-with-nextjs/)
+- [A Brief History of the Internet – Who Invented It, How it Works, and How it Became the Web We Use Today](https://www.freecodecamp.org/news/brief-history-of-the-internet/)
+
 ### 12/10/2020
 
 - [Top React libraries you need to know in 2021](https://blog.graphqleditor.com/react-libs-2021/)
