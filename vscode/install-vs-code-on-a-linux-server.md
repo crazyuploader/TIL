@@ -6,13 +6,13 @@ To install VS Code on a Remote/Local Linux Server and access it over browser, we
 
 ### Step 1
 
-Firstly, we have to install `code-server`, we can use their automated script to do, run -
+Firstly, we have to install `code-server`, we can use their automated script to do that, run -
 
 ```bash
 curl -fsSL https://code-server.dev/install.sh | sh
 ```
 
-**Note:** We can also add `code-server` to systemctl by running `sudo systemctl enable --now code-server@$USER`
+**Note:** We can also add `code-server` to systemctl by running `sudo systemctl enable --now code-server@$USER` to automatically run at boot.
 
 ### Step 2
 
@@ -41,9 +41,11 @@ Reload `caddy` server by running -
 sudo systemctl reload caddy
 ```
 
+Code Server should now be live at `https://yourdomain.com`
+
 **_Source: [HowtoForge](https://www.howtoforge.com/tutorial/how-to-install-code-server-ide-on-ubuntu-2004/)_**
 
 **Reference(s)**
 
-- [Code Server - GitHub](https://github.com/cdr/code-server)
+- [Code Server](https://github.com/cdr/code-server)
 - [Caddy Server](https://caddyserver.com/docs/download#debian-ubuntu-raspbian)
