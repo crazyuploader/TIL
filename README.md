@@ -18,6 +18,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Misc](#-misc)
 - [Python](#-python)
 - [ReactJS](#-reactjs)
+- [VSCode](#-vscode)
 - [WSL](#-wsl)
 
 ---
