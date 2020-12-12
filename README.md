@@ -108,6 +108,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [ReactJS Resources](reactjs/reactjs-resources.md)
 
+## ~ VSCode
+
+- [Install VS Code on a Linux Server](vscode/install-vs-code-on-a-linux-server.md)
+
 ## ~ WSL
 
 - [Convert WSL1 to WSL2](wsl/convert-wsl1-to-wsl2.md)
