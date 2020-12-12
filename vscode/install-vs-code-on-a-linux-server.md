@@ -41,7 +41,7 @@ Reload `caddy` server by running -
 sudo systemctl reload caddy
 ```
 
-Code Server should now be live at `https://yourdomain.com`
+Code Server should now be live at `https://example.com`
 
 **_Source: [HowtoForge](https://www.howtoforge.com/tutorial/how-to-install-code-server-ide-on-ubuntu-2004/)_**
 
