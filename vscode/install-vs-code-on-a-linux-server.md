@@ -41,7 +41,7 @@ Reload `caddy` server by running -
 sudo systemctl reload caddy
 ```
 
-***Source: [HowtoForge](https://www.howtoforge.com/tutorial/how-to-install-code-server-ide-on-ubuntu-2004/)***
+**_Source: [HowtoForge](https://www.howtoforge.com/tutorial/how-to-install-code-server-ide-on-ubuntu-2004/)_**
 
 **Reference(s)**
 
