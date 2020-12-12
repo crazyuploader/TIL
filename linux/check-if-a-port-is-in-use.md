@@ -2,7 +2,6 @@
 
 We can check if a port is in use or not, by following ways in Linux.
 
-
 ## Option 1
 
 `lsof`
@@ -33,4 +32,4 @@ sudo netstat -tulpn | grep LISTEN
 sudo nmap -sTU -O {IP_ADDRESS}
 ```
 
-***Source: [CyberCiti](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)***
+**_Source: [CyberCiti](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)_**
