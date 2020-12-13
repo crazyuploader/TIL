@@ -17,6 +17,12 @@
 - [What is Static Site Generation? How Next.js Uses SSG for Dynamic Web Apps](https://www.freecodecamp.org/news/static-site-generation-with-nextjs/)
 - [A Brief History of the Internet – Who Invented It, How it Works, and How it Became the Web We Use Today](https://www.freecodecamp.org/news/brief-history-of-the-internet/)
 
+## Timeline
+
+### 12/13/2020
+
+- [Benchmarking the Raspberry Pi 4](https://medium.com/@ghalfacree/benchmarking-the-raspberry-pi-4-73e5afbcd54b)
+
 ### 12/10/2020
 
 - [Top React libraries you need to know in 2021](https://blog.graphqleditor.com/react-libs-2021/)
