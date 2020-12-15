@@ -19,6 +19,11 @@
 
 ## Timeline
 
+### 12/15/2020
+
+- [Free hosting services for web developers](https://josiasdev.best/free-hosting-services-for-web-developers)
+- [6 container concepts you need to understand](https://opensource.com/article/20/12/containers-101)
+
 ### 12/13/2020
 
 - [Benchmarking the Raspberry Pi 4](https://medium.com/@ghalfacree/benchmarking-the-raspberry-pi-4-73e5afbcd54b)
