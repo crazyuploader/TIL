@@ -19,6 +19,10 @@
 
 ## Timeline
 
+### 12/16/2020
+
+- [9 things to do in your first 10 minutes on a Linux server](https://opensource.com/article/20/12/linux-server)
+
 ### 12/15/2020
 
 - [Free hosting services for web developers](https://josiasdev.best/free-hosting-services-for-web-developers)
