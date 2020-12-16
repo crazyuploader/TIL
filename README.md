@@ -31,6 +31,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Check Open Port](linux/check-open-port.md)
 - [Increase Limit of Inotify Watchers](linux/increase-limit-of-inotify-watchers.md)
 - [Kill A Process In Linux](linux/kill-a-process-in-linux.md)
+- [Mount Partition On System Startup](linux/mount-partition-on-system-startup.md)
 - [OpenVPN Server](linux/openvpn-server.md)
 - [Ping over TCP](linux/ping-over-tcp.md)
 - [Pipe Password to Sudo](linux/pipe-password-to-sudo.md)
