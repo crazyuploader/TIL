@@ -29,6 +29,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Change Default Shell](linux/change-default-shell.md)
 - [Check If A Port Is In Use](linux/check-if-a-port-is-in-use.md)
 - [Check Open Port](linux/check-open-port.md)
+- [Fix Windows And Linux Different Time Issue](fix-windows-and-linux-different-time-issue.md)
 - [Increase Limit of Inotify Watchers](linux/increase-limit-of-inotify-watchers.md)
 - [Kill A Process In Linux](linux/kill-a-process-in-linux.md)
 - [Mount Partition On System Startup](linux/mount-partition-on-system-startup.md)
