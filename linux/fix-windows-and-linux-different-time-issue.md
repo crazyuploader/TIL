@@ -18,4 +18,4 @@ Check current settings by running -
 timedatectl
 ```
 
-***Source: [HowToGeek](https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/)***
+**_Source: [HowToGeek](https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/)_**
