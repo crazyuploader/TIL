@@ -19,6 +19,10 @@
 
 ## Timeline
 
+### 12/18/2020
+
+- [The 3 Biggest Wins When Using Alpine as a Base Docker Image](https://nickjanetakis.com/blog/the-3-biggest-wins-when-using-alpine-as-a-base-docker-image)
+
 ### 12/16/2020
 
 - [9 things to do in your first 10 minutes on a Linux server](https://opensource.com/article/20/12/linux-server)
