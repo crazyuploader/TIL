@@ -22,6 +22,7 @@
 ### 12/19/2020
 
 - [React Hooks: useState and useEffect](https://medium.com/swlh/reactjs-hooks-usestate-and-useeffect-795f46a27042)
+- [7 Progressive Web App Development Frameworks to Know in 2021](https://www.geeksforgeeks.org/7-progressive-web-app-development-frameworks-to-know-in-2021/)
 
 ### 12/18/2020
 
