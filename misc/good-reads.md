@@ -19,6 +19,10 @@
 
 ## Timeline
 
+### 12/19/2020
+
+- [React Hooks: useState and useEffect](https://medium.com/swlh/reactjs-hooks-usestate-and-useeffect-795f46a27042)
+
 ### 12/18/2020
 
 - [The 3 Biggest Wins When Using Alpine as a Base Docker Image](https://nickjanetakis.com/blog/the-3-biggest-wins-when-using-alpine-as-a-base-docker-image)
