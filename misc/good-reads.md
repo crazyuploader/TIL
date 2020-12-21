@@ -19,6 +19,10 @@
 
 ## Timeline
 
+### 12/21/2020
+
+- [Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura](https://www.smashingmagazine.com/2020/12/stocks-price-notifier-app-react-apollo-graphql-hasura/)
+
 ### 12/19/2020
 
 - [React Hooks: useState and useEffect](https://medium.com/swlh/reactjs-hooks-usestate-and-useeffect-795f46a27042)
