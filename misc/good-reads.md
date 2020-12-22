@@ -26,7 +26,6 @@
 - [React Server Components](https://addyosmani.com/blog/react-server-components/)
 - [We rendered a million web pages to find out what makes the web slow](https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96)
 
-
 ### 12/21/2020
 
 - [Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura](https://www.smashingmagazine.com/2020/12/stocks-price-notifier-app-react-apollo-graphql-hasura/)
