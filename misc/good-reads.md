@@ -19,6 +19,10 @@
 
 ## Timeline
 
+### 12/25/2020
+
+- [2 months of Learning React.js and The project I worked on](https://favouritejome.hashnode.dev/2-months-of-learning-reactjs-and-the-project-i-worked-on)
+
 ### 12/22/2020
 
 - [Speed up your coding using Emmet — a really powerful tool](https://medium.com/javascript-in-plain-english/speed-up-your-coding-using-emmet-a-really-powerful-tool-6b0b2b16032d)
