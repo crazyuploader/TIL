@@ -107,6 +107,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Execute Python Code in Command Shell](python/execute-python-code-in-command-shell.md)
 - [Formatted Strings](python/formatted-strings.md)
 - [Get IP Address From Hostname](python/get-ip-address-from-hostname.md)
+- [Limit Floating Point To Two Decimal Places](python/limit-floating-point-to-two-decimal-places.md)
 - [Pass List as Argument to a Function](python/pass-list-as-argument-to-a-function.md)
 - [Python Padding Strings](python/python-padding-strings.md)
 - [Remove A File](python/remove-a-file.md)
