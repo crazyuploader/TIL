@@ -19,6 +19,10 @@
 
 ## Timeline
 
+### 12/29/2020
+
+- [Let's Build a Simple Bulletin Board React App](https://lo-victoria.com/lets-build-a-simple-bulletin-board-react-app)
+
 ### 12/25/2020
 
 - [2 months of Learning React.js and The project I worked on](https://favouritejome.hashnode.dev/2-months-of-learning-reactjs-and-the-project-i-worked-on)
