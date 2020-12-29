@@ -1,6 +1,6 @@
 # Get IP Address From Hostname
 
-In Python we can get IP Address for a hostname by using `gethostbyname` from `socket` module, which is in built in Python.
+In Python, we can get IP Address for a hostname by using `gethostbyname` function from `socket` module, which is in built in Python.
 
 ## Example
 
