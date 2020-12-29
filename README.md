@@ -82,6 +82,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 ## ~ Docker
 
 - [Docker Exec](docker/docker-exec.md)
+- [Docker Publish Port](docker/docker-publish-port.md)
 - [Docker Run](docker/docker-run.md)
 - [Install Docker](docker/install-docker.md)
 - [Install Ping in Docker](docker/install-ping-in-docker.md)
