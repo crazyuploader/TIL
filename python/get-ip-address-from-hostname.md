@@ -10,4 +10,4 @@ In Python we can get IP Address for a hostname by using `gethostbyname` from `so
 '172.217.166.4'
 ```
 
-***Source: [Simplified Guide](https://www.simplified.guide/python/hostname-to-ip)***
+**_Source: [Simplified Guide](https://www.simplified.guide/python/hostname-to-ip)_**
