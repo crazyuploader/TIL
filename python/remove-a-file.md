@@ -2,7 +2,7 @@
 
 To remove a file in Python, we can use `os` module and use its `os.remove()` function to do that.
 
-### Example
+## Example
 
 ```python
 import os
