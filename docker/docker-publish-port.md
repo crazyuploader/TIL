@@ -11,6 +11,6 @@ docker run -d -it \
            crazyuploader/bombsquad
 ```
 
-Here, we're exposing UDP Port `43210` to the Host.
+Here, we're exposing `UDP Port 43210` to the Host.
 
 **_Source: [Docker Docs](https://docs.docker.com/config/containers/container-networking/#published-ports)_**
