@@ -9,4 +9,4 @@ $ python3 -c "print('Hello World')"
 Hello World
 ```
 
-***Source: [Python Docs](https://docs.python.org/3/using/cmdline.html#cmdoption-c)***
+**_Source: [Python Docs](https://docs.python.org/3/using/cmdline.html#cmdoption-c)_**
