@@ -104,6 +104,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Check If a String is Empty](python/check-if-a-string-is-empty.md)
 - [Formatted Strings](python/formatted-strings.md)
+- [Get IP Address From Hostname](python/get-ip-address-from-hostname.md)
 - [Pass List as Argument to a Function](python/pass-list-as-argument-to-a-function.md)
 - [Python Padding Strings](python/python-padding-strings.md)
 - [Remove A File](python/remove-a-file.md)
