@@ -119,6 +119,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Formatted Strings](python/formatted-strings.md)
 - [Get IP Address From Hostname](python/get-ip-address-from-hostname.md)
 - [Limit Floating Point To Two Decimal Places](python/limit-floating-point-to-two-decimal-places.md)
+- [Measure Latency Using TCP](python/measure-latency-using-tcp.md)
 - [Pass List as Argument to a Function](python/pass-list-as-argument-to-a-function.md)
 - [Python Padding Strings](python/python-padding-strings.md)
 - [Remove A File](python/remove-a-file.md)
