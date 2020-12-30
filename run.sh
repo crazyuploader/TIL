@@ -16,12 +16,11 @@ function count() {
 }
 
 function recent() {
-    sed -i '/<!--RECENT-->/,+5d' README.md
+    sed -i '15,19d' README.md
     RECENT_FILES="$(git log -n 20 | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | sort -u)"
     STRING=""
     NUM=0
-    sed -i "15i <!--RECENT-->" README.md
-    LINE=16
+    LINE=15
     for FILE in $RECENT_FILES; do
         if [[ "${NUM}" -eq "5" ]]; then
             break

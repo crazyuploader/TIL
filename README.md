@@ -12,8 +12,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 > Recent TILs
 
-<!--RECENT-->
-
 - [Docker Publish Port](docker/docker-publish-port.md)
 - [Execute Python Code In Command Shell](python/execute-python-code-in-command-shell.md)
 - [Get IP Address From Hostname](python/get-ip-address-from-hostname.md)
