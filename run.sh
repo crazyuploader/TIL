@@ -16,7 +16,7 @@ function count() {
 }
 
 function recent() {
-    RECENT_FILES="$(git log -n 20 | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep -v "README.md" | grep -v "misc" | sort -u)"
+    RECENT_FILES="$(git log -n 20 | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | sort -u)"
     STRING=""
     NUM=0
     for FILE in $RECENT_FILES; do
