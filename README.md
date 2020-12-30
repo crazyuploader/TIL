@@ -4,7 +4,7 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-***60 TILs so far.***
+**_60 TILs so far._**
 
 [![Visits Badge](https://badges.pufler.dev/visits/crazyuploader/TIL)](https://badges.pufler.dev)
 
@@ -13,6 +13,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 > Recent TILs
 
 <!--RECENT-->
+
 - [Docker Publish Port](docker/docker-publish-port.md)
 - [Execute Python Code In Command Shell](python/execute-python-code-in-command-shell.md)
 - [Get IP Address From Hostname](python/get-ip-address-from-hostname.md)
