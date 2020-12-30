@@ -7,9 +7,9 @@ GREEN="\033[1;32m"
 YELLOW="\033[1;33m"
 NC="\033[0m"
 
-BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+# BRANCH="$(git rev-parse --abbrev-ref HEAD)"
 
-./count.sh
+./run.sh
 echo ""
 echo -e "${YELLOW}Run Prettier...${NC}"
 prettier --write .
@@ -22,6 +22,6 @@ if [[ -z $(git status --porcelain) ]]; then
 else
     git add .
     git commit -m "Auto Update [skip ci]" -m "" -m "Update TIL number, and run Prettier"
-    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:${GITHUB_REF}
+    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${GITHUB_REF}"
     echo -e "${YELLOW}Updates Pushed to https://${GH_REF}"
 fi
