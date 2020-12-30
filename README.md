@@ -4,7 +4,7 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_60 TILs so far._**
+**_61 TILs so far._**
 
 [![Visits Badge](https://badges.pufler.dev/visits/crazyuploader/TIL)](https://badges.pufler.dev)
 
@@ -16,6 +16,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Execute Python Code In Command Shell](python/execute-python-code-in-command-shell.md)
 - [Get IP Address From Hostname](python/get-ip-address-from-hostname.md)
 - [Limit Floating Point To Two Decimal Places](python/limit-floating-point-to-two-decimal-places.md)
+- [Measure Latency Using TCP](python/measure-latency-using-tcp.md)
 
 ---
 
