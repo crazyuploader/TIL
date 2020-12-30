@@ -20,6 +20,8 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ---
 
+### Categories
+
 - [Linux](#-linux)
 - [Cheatsheets](#-cheatsheets)
 - [Docker](#-docker)
