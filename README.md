@@ -20,7 +20,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ---
 
-### Categories
+## Categories
 
 - [Linux](#-linux)
 - [Cheatsheets](#-cheatsheets)
