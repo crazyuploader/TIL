@@ -16,6 +16,8 @@
 - [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
 - [What is Static Site Generation? How Next.js Uses SSG for Dynamic Web Apps](https://www.freecodecamp.org/news/static-site-generation-with-nextjs/)
 - [A Brief History of the Internet – Who Invented It, How it Works, and How it Became the Web We Use Today](https://www.freecodecamp.org/news/brief-history-of-the-internet/)
+- [How HTTP Works and Why it's Important – Explained in Plain English](https://www.freecodecamp.org/news/how-the-internet-works/)
+- [What is the TCP/IP Model? Layers and Protocols Explained](https://www.freecodecamp.org/news/what-is-tcp-ip-layers-and-protocols-explained/)
 
 ## Timeline
 
