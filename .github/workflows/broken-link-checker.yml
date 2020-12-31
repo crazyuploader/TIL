@@ -6,7 +6,7 @@ on:
     branches: ["*"]
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 jobs:
   site_link_check:
     runs-on: ubuntu-latest
