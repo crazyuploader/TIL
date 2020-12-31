@@ -34,7 +34,7 @@ function recent() {
 }
 
 count
-recent
+# recent
 echo -e "${YELLOW}Update README.md OK${NC}"
 echo ""
 echo -e "${GREEN}Number of TIL Markdown File(s):${NC} ${FILES}"
