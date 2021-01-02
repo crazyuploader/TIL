@@ -21,5 +21,4 @@ jobs:
       - name: Check for Broken Links
         run: |
           blc --version
-          sleep 15
           blc https://til.jugalkishore.me -ro
