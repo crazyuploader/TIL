@@ -20,7 +20,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Cheatsheets](#-cheatsheets)
 - [Docker](#-docker)
 - [Git](#-git)
-<!--- [Markdown](#-markdown)-->
 - [Misc](#-misc)
 - [Python](#-python)
 - [ReactJS](#-reactjs)
@@ -98,8 +97,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 ## ~ Git
 
 - [Delete Tag](git/delete-tag.md)
-
-<!--## ~ Markdown-->
 
 ## ~ Misc
 
