@@ -24,6 +24,7 @@
 ### 01/03/2020
 
 - [How to Simulate Network Outages](https://netbeez.net/blog/how-to-simulate-network-outages/)
+- [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
 
 ### 12/29/2020
 
