@@ -21,6 +21,10 @@
 
 ## Timeline
 
+### 01/03/2020
+
+- [How to Simulate Network Outages](https://netbeez.net/blog/how-to-simulate-network-outages/)
+
 ### 12/29/2020
 
 - [Let's Build a Simple Bulletin Board React App](https://lo-victoria.com/lets-build-a-simple-bulletin-board-react-app)
