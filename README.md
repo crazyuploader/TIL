@@ -20,6 +20,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Cheatsheets](#-cheatsheets)
 - [Docker](#-docker)
 - [Git](#-git)
+- [Learning Resources](#-learning-resources)
 - [Misc](#-misc)
 - [Python](#-python)
 - [ReactJS](#-reactjs)
