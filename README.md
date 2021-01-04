@@ -98,6 +98,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Delete Tag](git/delete-tag.md)
 
+## ~ Learning Resources
+
+- [Programming Languages](learning-resources/programming-languages.md)
+
 ## ~ Misc
 
 - [Good Reads](misc/good-reads.md)
