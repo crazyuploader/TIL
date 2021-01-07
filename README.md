@@ -74,6 +74,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Grep Case Insensitive Search](linux/grep/grep-case-insensitive-search.md)
 - [Grep Invert Search](linux/grep/grep-invert-search.md)
+- [Grep Quiet Mode](linux/grep/grep-quiet-mode.md)
 
 ### ~ SSH
 
