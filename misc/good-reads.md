@@ -22,6 +22,10 @@
 
 ## Timeline
 
+### 01/07/2020
+
+- [9 cheat sheets for Linux and open source](https://opensource.com/article/19/1/cheat-sheets)
+
 ### 01/03/2020
 
 - [How to Simulate Network Outages](https://netbeez.net/blog/how-to-simulate-network-outages/)
