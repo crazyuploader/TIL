@@ -16,4 +16,4 @@ $ seq 5 | grep -v 3
 
 Here, we are asking `grep` to hide pattern, which is "3" in this case, and display everything else.
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#invert-match-exclude)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#invert-match-exclude)_**
