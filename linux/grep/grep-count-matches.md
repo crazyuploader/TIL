@@ -9,4 +9,4 @@ $ seq 100 | grep -c 5
 19
 ```
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#count-matches)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#count-matches)_**

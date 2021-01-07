@@ -20,4 +20,4 @@ $ echo $?
 
 Here, `grep` had non-zero exit code since pattern "6" could not be found.
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#quiet-mode)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#quiet-mode)_**

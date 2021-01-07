@@ -26,4 +26,4 @@ Humans
 
 **Note:** We don't have to escape `|` using `-E` option.
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#search-for-multiple-strings-patterns)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/#search-for-multiple-strings-patterns)_**
