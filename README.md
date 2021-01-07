@@ -119,6 +119,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Measure Latency Using TCP](python/measure-latency-using-tcp.md)
 - [Pass List as Argument to a Function](python/pass-list-as-argument-to-a-function.md)
 - [Python Padding Strings](python/python-padding-strings.md)
+- [Read A File Line By Line](python/read-a-file-line-by-line.md)
 - [Remove A File](python/remove-a-file.md)
 - [Run Python Script in Background](python/run-python-script-in-background.md)
 - [Split String with Delimiter](python/split-string-with-delimiter.md)
