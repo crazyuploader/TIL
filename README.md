@@ -34,6 +34,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Benchmark System](linux/benchmark-system.md)
 - [Change Default Shell](linux/change-default-shell.md)
 - [Check If A Port Is In Use](linux/check-if-a-port-is-in-use.md)
+- [Check If A User Exists](linux/check-if-a-user-exists.md)
 - [Check Open Port](linux/check-open-port.md)
 - [Fix Windows And Linux Different Time Issue](linux/fix-windows-and-linux-different-time-issue.md)
 - [Increase Limit of Inotify Watchers](linux/increase-limit-of-inotify-watchers.md)
@@ -52,7 +53,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [APT Fix Broken Packages](linux/apt/apt-fix-broken-packages.md)
 
-### ~ Bash
+### ~ BASH
 
 - [BashTOP Resource Monitor](linux/bash/bashtop-resource-monitor.md)
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
