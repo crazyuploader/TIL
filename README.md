@@ -49,6 +49,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Show Size of Current Directory](linux/show-size-of-current-directory.md)
 - [System Ugprade](linux/system-upgrade.md)
 - [Tar Exclude Directories](linux/tar-exclude-directories.md)
+- [Tar Retain File Permissions](linux/tar-retain-file-permissions.md)
 
 ### ~ APT
 
