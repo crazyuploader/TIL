@@ -10,7 +10,7 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  test:
+  awesome_bot:
 
     runs-on: ubuntu-latest
 
@@ -19,6 +19,8 @@ jobs:
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.0
 
     - name: Installing awesome_bot
       run: gem install awesome_bot
