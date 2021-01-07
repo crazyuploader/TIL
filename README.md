@@ -48,6 +48,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Show Public IP](linux/show-public-ip.md)
 - [Show Size of Current Directory](linux/show-size-of-current-directory.md)
 - [System Ugprade](linux/system-upgrade.md)
+- [Tar Exclude Directories](linux/tar-exclude-directories.md)
 
 ### ~ APT
 
