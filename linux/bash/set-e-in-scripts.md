@@ -12,4 +12,4 @@ set -e
 
 > Exit immediately if a command exits with a non-zero status.
 
-***Source: [ServerFault](https://serverfault.com/a/416097)***
+**_Source: [ServerFault](https://serverfault.com/a/416097)_**
