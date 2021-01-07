@@ -19,7 +19,7 @@ Humans
 Using Extended Regular Expressions option `-E`
 
 ```bash
-echo -e "Hi\nThere\nHumans" | grep -E "Hi|Humans"
+$ echo -e "Hi\nThere\nHumans" | grep -E "Hi|Humans"
 Hi
 Humans
 ```
