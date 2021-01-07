@@ -11,6 +11,7 @@
 
 ## FreeCodeCamp
 
+- [How to Learn React in 2021: The 7 Skills You Need To Know](https://www.freecodecamp.org/news/how-to-learn-react-skills-you-need-to-know/)
 - [Kubernetes VS Docker: What's the Difference? Explained With Examples](https://www.freecodecamp.org/news/kubernetes-vs-docker-whats-the-difference-explained-with-examples/)
 - [What is a Software Post-Mortem and How Do You Write One?](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
 - [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
