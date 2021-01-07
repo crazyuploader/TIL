@@ -58,6 +58,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
 - [Length of String in Variable](linux/bash/length-of-string-in-variable.md)
 - [Pass Arguments while Piping](linux/bash/pass-arguments-while-piping.md)
+- ["set -e" In Scripts](linux/bash/set-e-in-scripts.md)
 - [Shell Formatter](linux/bash/shell-formatter.md)
 - [Yes](linux/bash/yes.md)
 
