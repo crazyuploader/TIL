@@ -106,6 +106,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## ~ Git
 
+- [Change Last Commit Message](git/change-last-commit-message.md)
 - [Delete Tag](git/delete-tag.md)
 
 ## ~ Learning Resources
