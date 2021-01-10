@@ -21,4 +21,4 @@ $ git push --force
 
 **Note:** Force Pushes can break things, so warnings ahead!
 
-***Source: [Linuxize](https://linuxize.com/post/change-git-commit-message/)***
+**_Source: [Linuxize](https://linuxize.com/post/change-git-commit-message/)_**
