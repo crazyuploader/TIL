@@ -11,6 +11,9 @@
 
 ## FreeCodeCamp
 
+- [Build an Instagram Clone with React Native, Firebase Firestore, Redux, and Expo](https://www.freecodecamp.org/news/build-an-instagram-clone-with-react-native-firebase-firestore-redux-and-expo/)
+- [The OSI Model – The 7 Layers of Networking Explained in Plain English](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
+- [30+ Free Online Programming & Computer Science Courses You Can Start This January](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 - [How to Learn React in 2021: The 7 Skills You Need To Know](https://www.freecodecamp.org/news/how-to-learn-react-skills-you-need-to-know/)
 - [Kubernetes VS Docker: What's the Difference? Explained With Examples](https://www.freecodecamp.org/news/kubernetes-vs-docker-whats-the-difference-explained-with-examples/)
 - [What is a Software Post-Mortem and How Do You Write One?](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
