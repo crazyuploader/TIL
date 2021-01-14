@@ -25,15 +25,19 @@
 
 ## Timeline
 
-### 01/13/2020
+### 01/14/2021
+
+- [8 DevOps YouTube Channels to Follow in 2021](https://microtica.com/blog/8-devops-youtube-channels-to-follow-in-2021/)
+
+### 01/13/2021
 
 - [22 Best React Portfolio Page Templates In 2021](https://reactjsexample.com/22-best-react-portfolio-page-templates-in-2021/)
 
-### 01/07/2020
+### 01/07/2021
 
 - [9 cheat sheets for Linux and open source](https://opensource.com/article/19/1/cheat-sheets)
 
-### 01/03/2020
+### 01/03/2021
 
 - [How to Simulate Network Outages](https://netbeez.net/blog/how-to-simulate-network-outages/)
 - [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
