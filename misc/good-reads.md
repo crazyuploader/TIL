@@ -24,6 +24,10 @@
 
 ## Timeline
 
+### 01/17/2021
+
+- [Top 10 JavaScript Frameworks to Learn in 2021](https://www.geeksforgeeks.org/top-10-javascript-frameworks-to-learn-in-2021/)
+
 ### 01/14/2021
 
 - [8 DevOps YouTube Channels to Follow in 2021](https://microtica.com/blog/8-devops-youtube-channels-to-follow-in-2021/)
