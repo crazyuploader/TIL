@@ -24,6 +24,10 @@
 
 ## Timeline
 
+### 01/20/2021
+
+- [12 Practical Ping Command Examples for Linux Users](https://www.tecmint.com/linux-ping-command-examples/)
+
 ### 01/17/2021
 
 - [Top 10 JavaScript Frameworks to Learn in 2021](https://www.geeksforgeeks.org/top-10-javascript-frameworks-to-learn-in-2021/)
