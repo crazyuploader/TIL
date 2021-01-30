@@ -20,7 +20,7 @@ sudo apt-get install -y nodejs
 
 This will install NodeJS and NPM.
 
-***Source: [JoshTronic](https://joshtronic.com/2020/10/25/how-to-install-nodejs-15-on-ubuntu/)***
+**_Source: [JoshTronic](https://joshtronic.com/2020/10/25/how-to-install-nodejs-15-on-ubuntu/)_**
 
 **Reference(s)**
 
