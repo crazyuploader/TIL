@@ -14,7 +14,7 @@ screen
 
 - Detach Session
 
-Press `ctrl + b` and `d` immediately after it.
+Press `ctrl + a` and `d` immediately after it.
 
 - List Session(s)
 
