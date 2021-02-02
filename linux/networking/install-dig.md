@@ -6,4 +6,4 @@ We can install `dig` on Ubuntu by running -
 apt-get install -y dnsutils
 ```
 
-***Source: [TechMint](https://www.tecmint.com/install-dig-and-nslookup-in-linux/)***
+**_Source: [TechMint](https://www.tecmint.com/install-dig-and-nslookup-in-linux/)_**
