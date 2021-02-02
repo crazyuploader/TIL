@@ -82,6 +82,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Grep Quiet Mode](linux/grep/grep-quiet-mode.md)
 - [Grep Search For Multiple Strings](linux/grep/grep-search-for-multiple-strings.md)
 
+### ~ Networking
+
+- [Install MTR](linux/networking/install-mtr.md)
+
 ### ~ SSH
 
 - [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
