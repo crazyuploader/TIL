@@ -84,6 +84,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ### ~ Networking
 
+- [Install Dig](linux/networking/install-dig.md)
 - [Install MTR](linux/networking/install-mtr.md)
 
 ### ~ SSH
