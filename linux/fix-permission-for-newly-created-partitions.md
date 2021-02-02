@@ -8,4 +8,4 @@ sudo chown -R $USER:$USER /data
 
 Where `/data` is the location of the mounted drive.
 
-***Source: [AskUbuntu](https://askubuntu.com/a/703676)***
+**_Source: [AskUbuntu](https://askubuntu.com/a/703676)_**
