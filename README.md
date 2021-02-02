@@ -36,7 +36,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Check If A Port Is In Use](linux/check-if-a-port-is-in-use.md)
 - [Check If A User Exists](linux/check-if-a-user-exists.md)
 - [Check Open Port](linux/check-open-port.md)
-- [# Fix Permission For Newly Created Partitions](linux/fix-permission-for-newly-created-partitions.md)
+- [Fix Permission For Newly Created Partitions](linux/fix-permission-for-newly-created-partitions.md)
 - [Fix Windows And Linux Different Time Issue](linux/fix-windows-and-linux-different-time-issue.md)
 - [Install Latest NodeJS In Linux](linux/install-latest-nodejs-in-linux.md)
 - [Increase Limit of Inotify Watchers](linux/increase-limit-of-inotify-watchers.md)
