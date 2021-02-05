@@ -6,8 +6,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 **_79 TILs so far._**
 
-<!--[![Visits Badge](https://badges.pufler.dev/visits/crazyuploader/TIL)](https://badges.pufler.dev)-->
-
 ---
 
 > Recently Added/Updated TILs
