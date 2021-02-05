@@ -65,7 +65,6 @@
 ### 12/22/2020
 
 - [Speed up your coding using Emmet — a really powerful tool](https://medium.com/javascript-in-plain-english/speed-up-your-coding-using-emmet-a-really-powerful-tool-6b0b2b16032d)
-- [My Advice to New Programmers After Coding for the Last 3 Years](https://daily.dev/posts/my-advice-to-new-programmers-after-coding-for-the-last-3-years)
 - [React Server Components](https://addyosmani.com/blog/react-server-components/)
 - [We rendered a million web pages to find out what makes the web slow](https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96)
 
