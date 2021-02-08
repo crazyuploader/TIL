@@ -6,6 +6,7 @@
 - [Free Udemy Courses](https://www.discudemy.com/language/english)
 - [100% Off Udemy Courses](https://geeksgod.com/)
 - [Online Virus Scanner](https://www.virustotal.com/)
+- [vim.so - Learn and Master Vim faster with interactive exercises](https://www.vim.so/)
 
 ## Network Related
 
