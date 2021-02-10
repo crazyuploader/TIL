@@ -17,6 +17,7 @@
 - [Kubernetes VS Docker: What's the Difference? Explained With Examples](https://www.freecodecamp.org/news/kubernetes-vs-docker-whats-the-difference-explained-with-examples/)
 - [What is a Software Post-Mortem and How Do You Write One?](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
 - [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
+- [How to Create a Discord Bot for Free with Python – Full Tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
 - [What is Static Site Generation? How Next.js Uses SSG for Dynamic Web Apps](https://www.freecodecamp.org/news/static-site-generation-with-nextjs/)
 - [A Brief History of the Internet – Who Invented It, How it Works, and How it Became the Web We Use Today](https://www.freecodecamp.org/news/brief-history-of-the-internet/)
 - [How HTTP Works and Why it's Important – Explained in Plain English](https://www.freecodecamp.org/news/how-the-internet-works/)
