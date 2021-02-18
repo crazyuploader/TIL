@@ -23,8 +23,13 @@
 - [How HTTP Works and Why it's Important – Explained in Plain English](https://www.freecodecamp.org/news/how-the-internet-works/)
 - [What is the TCP/IP Model? Layers and Protocols Explained](https://www.freecodecamp.org/news/what-is-tcp-ip-layers-and-protocols-explained/)
 - [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
+- [How to Use LinkedIn to Get Your First Developer Job – A Step-by-Step Guide](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
 
 ## Timeline
+
+### 02/18/2021
+
+- [100 most asked JavaScript Interview Questions and Answers - Part 1](https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1)
 
 ### 01/29/2021
 
