@@ -11,7 +11,7 @@ jobs:
   site_link_check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v2.1.4
+      - uses: actions/setup-node@v2.1.5
         with:
           node-version: "14"
 
