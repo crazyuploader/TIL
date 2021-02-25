@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 02/25/2021
+
+- [Building A Discord Bot Using Discord.js](https://www.smashingmagazine.com/2021/02/building-discord-bot-discordjs/)
+
 ### 02/18/2021
 
 - [100 most asked JavaScript Interview Questions and Answers - Part 1](https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1)
