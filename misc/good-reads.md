@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 02/27/2021
+
+- [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+
 ### 02/25/2021
 
 - [Building A Discord Bot Using Discord.js](https://www.smashingmagazine.com/2021/02/building-discord-bot-discordjs/)
