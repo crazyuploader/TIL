@@ -45,6 +45,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Pipe Password to Sudo](linux/pipe-password-to-sudo.md)
 - [Remove User Password](linux/remove-user-password.md)
 - [Root Check in Scripts](linux/root-check.md)
+- [Show Disk Usage By Directories](linux/show-disk-usage-by-directories.md)
 - [Show Public IP](linux/show-public-ip.md)
 - [Show Size of Current Directory](linux/show-size-of-current-directory.md)
 - [System Ugprade](linux/system-upgrade.md)
