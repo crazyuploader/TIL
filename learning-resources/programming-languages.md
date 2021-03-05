@@ -7,5 +7,6 @@
 
 ## Python
 
+- [Byte of Python](https://python.swaroopch.com/)
 - [Learn Python](https://learnpython.org/)
 - [Programiz](https://www.programiz.com/python-programming)
