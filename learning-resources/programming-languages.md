@@ -9,4 +9,3 @@
 
 - [Learn Python](https://learnpython.org/)
 - [Programiz](https://www.programiz.com/python-programming)
-

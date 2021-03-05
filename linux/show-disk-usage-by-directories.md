@@ -18,4 +18,4 @@ ncdu -x /
 
 Will show usage of `/` (root) directory.
 
-***Source: [AskUbuntu](https://askubuntu.com/a/305057)
+\*\*\*Source: [AskUbuntu](https://askubuntu.com/a/305057)

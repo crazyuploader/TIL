@@ -4,7 +4,7 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_79 TILs so far._**
+**_80 TILs so far._**
 
 ---
 
