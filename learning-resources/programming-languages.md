@@ -10,3 +10,4 @@
 - [Byte of Python](https://python.swaroopch.com/)
 - [Learn Python](https://learnpython.org/)
 - [Programiz](https://www.programiz.com/python-programming)
+- [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
