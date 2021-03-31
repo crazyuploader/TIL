@@ -1,6 +1,7 @@
 # Useful Sites
 
 - [Developer Roadmaps](https://roadmap.sh/)
+- [DevOps Roadmap](https://devopslifecycle.com/roadmaps)
 - [Free Images - Unsplash](https://unsplash.com/)
 - [Free Resources for Developers](https://free-for.dev/)
 - [Free Udemy Courses](https://www.discudemy.com/language/english)
