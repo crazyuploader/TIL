@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Concatenate Strings](linux/bash/concatenate-strings.md)
+- [Remove Container When It Exists](docker/remove-container-when-it-exits.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Show Disk Usage By Directories](linux/show-disk-usage-by-directories.md)
 - [Programming Languages](learning-resources/programming-languages.md)
-- [Show Disk Usage By Directories](linux/show-disk-usage-by-directories.md)
-- [Install Dig](linux/networking/install-dig.md)
 
 ---
 
