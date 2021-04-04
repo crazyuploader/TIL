@@ -51,6 +51,7 @@ _Recently Added/Updated TILs_
 - [Pipe Password to Sudo](linux/pipe-password-to-sudo.md)
 - [Remove User Password](linux/remove-user-password.md)
 - [Root Check in Scripts](linux/root-check.md)
+- [Set Different Time Zone](linux/set-different-time-zone.md)
 - [Show Disk Usage By Directories](linux/show-disk-usage-by-directories.md)
 - [Show Public IP](linux/show-public-ip.md)
 - [Show Size of Current Directory](linux/show-size-of-current-directory.md)
