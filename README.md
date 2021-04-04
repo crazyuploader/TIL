@@ -108,6 +108,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Docker Run](docker/docker-run.md)
 - [Install Docker](docker/install-docker.md)
 - [Install Ping in Docker](docker/install-ping-in-docker.md)
+- [Remove Container When It Exits](docker/remove-container-when-it-exits.md)
 - [Remove Unused Data](docker/remove-unused-data.md)
 - [Run Docker without root](docker/run-docker-without-root.md)
 
