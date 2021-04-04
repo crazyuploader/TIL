@@ -65,6 +65,7 @@ _Recently Added/Updated TILs_
 ### ~ BASH
 
 - [BashTOP Resource Monitor](linux/bash/bashtop-resource-monitor.md)
+- [Concatenate Strings](linux/bash/concatenate-strings.md)
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
 - [Length of String in Variable](linux/bash/length-of-string-in-variable.md)
 - [Pass Arguments while Piping](linux/bash/pass-arguments-while-piping.md)
