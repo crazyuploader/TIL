@@ -123,6 +123,7 @@ _Recently Added/Updated TILs_
 
 - [Change Last Commit Message](git/change-last-commit-message.md)
 - [Delete Tag](git/delete-tag.md)
+- [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
 
 ## ~ Learning Resources
 
