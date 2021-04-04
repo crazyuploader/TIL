@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_83 TILs so far._**
+**_84 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Set Different Time Zone](linux/set-different-time-zone.md)
 - [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
 - [Concatenate Strings](linux/bash/concatenate-strings.md)
 - [Remove Container When It Exists](docker/remove-container-when-it-exits.md)
 - [Programming Languages](learning-resources/programming-languages.md)
-- [Show Disk Usage By Directories](linux/show-disk-usage-by-directories.md)
 
 ---
 

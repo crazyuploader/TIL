@@ -30,4 +30,4 @@ sudo ln -s /usr/share/zoneinfo/Asia/Kolkata /etc/localtime
 
 Verify it by running `date` command
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-set-or-change-timezone-in-linux/)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-set-or-change-timezone-in-linux/)_**
