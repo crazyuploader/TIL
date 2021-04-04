@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_81 TILs so far._**
+**_82 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Concatenate Strings](linux/bash/concatenate-strings.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Show Disk Usage By Directories](linux/show-disk-usage-by-directories.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Show Disk Usage By Directories](linux/show-disk-usage-by-directories.md)
-- [Install Dig](linux/networking/install-dig.md)
 
 ---
 
