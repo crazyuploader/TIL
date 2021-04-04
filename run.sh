@@ -16,11 +16,11 @@ function count() {
 }
 
 function recent() {
-    sed -i '15,19d' README.md
-    RECENT_FILES="$(git log -n 20 | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | sort -u)"
+    sed -i '13,17d' README.md
+    RECENT_FILES="$(git log | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | uniq | head -n 5)"
     STRING=""
     NUM=0
-    LINE=15
+    LINE=13
     for FILE in $RECENT_FILES; do
         if [[ "${NUM}" -eq "5" ]]; then
             break
@@ -34,7 +34,7 @@ function recent() {
 }
 
 count
-# recent
+recent
 echo -e "${YELLOW}Update README.md OK${NC}"
 echo ""
 echo -e "${GREEN}Number of TIL Markdown File(s):${NC} ${FILES}"
