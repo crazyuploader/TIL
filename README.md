@@ -8,7 +8,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ---
 
-> Recently Added/Updated TILs
+_Recently Added/Updated TILs_
 
 - [Remove Container When It Exists](docker/remove-container-when-it-exits.md)
 - [Programming Languages](learning-resources/programming-languages.md)
