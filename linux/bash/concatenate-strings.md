@@ -11,7 +11,7 @@ echo "${VAR3}"
 
 ## Option 2
 
-We can also use _+=_ operator to concatenate strings
+We can also use **+=** operator to concatenate strings
 
 ```bash
 VAR1="Hello, "
