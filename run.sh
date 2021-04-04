@@ -17,7 +17,7 @@ function count() {
 
 function recent() {
     sed -i '13,17d' README.md
-    RECENT_FILES="$(git log | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | uniq | head -n 5)"
+    RECENT_FILES="$(git log | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | uniq -u | head -n 5)"
     STRING=""
     NUM=0
     LINE=13
