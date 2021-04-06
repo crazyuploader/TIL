@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 04/06/2021
+
+- [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/#svg-animation-tools)
+
 ### 02/27/2021
 
 - [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
