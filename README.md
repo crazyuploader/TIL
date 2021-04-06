@@ -62,6 +62,7 @@ _Recently Added/Updated TILs_
 ### ~ APT
 
 - [APT Fix Broken Packages](linux/apt/apt-fix-broken-packages.md)
+- [APT Hold Packages From Upgrade](linux/apt/apt-hold-packages-from-upgrades.md)
 
 ### ~ BASH
 
