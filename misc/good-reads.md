@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 04/08/2021
+
+- [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
+
 ### 04/06/2021
 
 - [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/#svg-animation-tools)
