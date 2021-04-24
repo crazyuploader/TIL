@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 04/24/2021
+
+- [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
+
 ### 04/08/2021
 
 - [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
