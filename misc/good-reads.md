@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 04/26/2021
+
+- [Heroku-style deployments with Docker and git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
+
 ### 04/24/2021
 
 - [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
