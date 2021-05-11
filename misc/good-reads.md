@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 05/11/2021
+
+- [6 open source tools and tips to securing a Linux server for beginners](https://opensource.com/article/21/4/securing-linux-servers)
+
 ### 04/26/2021
 
 - [Heroku-style deployments with Docker and git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
