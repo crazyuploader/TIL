@@ -6,8 +6,6 @@ on:
   pull_request:
     branches: ["*"]
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 jobs:
   awesome_bot:
