@@ -70,6 +70,7 @@ _Recently Added/Updated TILs_
 - [Concatenate Strings](linux/bash/concatenate-strings.md)
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
 - [Length of String in Variable](linux/bash/length-of-string-in-variable.md)
+- [Test Regular Expression Against A String](test-regular-expression-against-a-string.md)
 - [Pass Arguments while Piping](linux/bash/pass-arguments-while-piping.md)
 - ["set -e" In Scripts](linux/bash/set-e-in-scripts.md)
 - [Shell Formatter](linux/bash/shell-formatter.md)
