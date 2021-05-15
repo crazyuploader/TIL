@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_86 TILs so far._**
+**_87 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Test Regular Expression Against A String](linux/bash/test-regular-expression-against-a-string.md)
 - [MongoDB Cheatsheet](cheatsheets/mongodb-cheatsheet.md)
 - [APT Hold Package(s) From Upgrades](linux/apt/apt-hold-packages-from-upgrades.md)
 - [Set Different Time Zone](linux/set-different-time-zone.md)
 - [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
-- [Concatenate Strings](linux/bash/concatenate-strings.md)
 
 ---
 
