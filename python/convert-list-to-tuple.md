@@ -12,4 +12,4 @@ We can convert a list to tuple by just using `tuple(list_name)` in Python progra
 ('1', '2')
 ```
 
-***Source: [GeeksForGeeks](https://www.geeksforgeeks.org/python-convert-a-list-into-a-tuple/)***
+**_Source: [GeeksForGeeks](https://www.geeksforgeeks.org/python-convert-a-list-into-a-tuple/)_**
