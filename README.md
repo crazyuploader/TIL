@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_89 TILs so far._**
+**_93 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
-- [Convert List To Tuple](python/convert-list-to-tuple.md)
-- [Add An Item To Dictionary](python/add-an-item-to-dictionary.md)
-- [Test Regular Expression Against A String](linux/bash/test-regular-expression-against-a-string.md)
-- [MongoDB Cheatsheet](cheatsheets/mongodb-cheatsheet.md)
-- [APT Hold Package(s) From Upgrades](linux/apt/apt-hold-packages-from-upgrades.md)
+- [Algorithms](learning-resources/algorithms.md)
+- [DevOps](learning-resources/devops.md)
+- [Git](learning-resources/git.md)
+- [Linux](learning-resources/linux.md)
+- [Programming Languages](learning-resources/programming-languages.md)
 
 ---
 
