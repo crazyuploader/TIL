@@ -10,4 +10,5 @@
 - [Byte of Python](https://python.swaroopch.com/)
 - [Learn Python](https://learnpython.org/)
 - [Programiz](https://www.programiz.com/python-programming)
+- [Python Tutorials](https://www.guru99.com/python-tutorials.html)
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
