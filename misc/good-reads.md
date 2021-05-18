@@ -30,6 +30,7 @@
 ### 05/18/2021
 
 - [21 Essential Commands Every Docker User Should Know](https://linuxhandbook.com/essential-docker-commands/)
+- [Exploring the differences between sudo and su commands in Linux](https://www.redhat.com/sysadmin/difference-between-sudo-su)
 
 ### 05/11/2021
 
