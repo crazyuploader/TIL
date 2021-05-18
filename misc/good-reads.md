@@ -29,6 +29,7 @@
 
 ### 05/18/2021
 
+- [9 network commands every Linux admin should know](https://www.techrepublic.com/article/9-network-commands-every-linux-admin-should-know/)
 - [21 Essential Commands Every Docker User Should Know](https://linuxhandbook.com/essential-docker-commands/)
 - [Exploring the differences between sudo and su commands in Linux](https://www.redhat.com/sysadmin/difference-between-sudo-su)
 
