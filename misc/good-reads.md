@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 05/18/2021
+
+- [21 Essential Commands Every Docker User Should Know](https://linuxhandbook.com/essential-docker-commands/)
+
 ### 05/11/2021
 
 - [6 open source tools and tips to securing a Linux server for beginners](https://opensource.com/article/21/4/securing-linux-servers)
