@@ -131,6 +131,7 @@ _Recently Added/Updated TILs_
 
 ## ~ Learning Resources
 
+- [Algorithms](learning-resources/algorithms.md)
 - [DevOps](learning-resources/devops.md)
 - [Git](learning-resources/git.md)
 - [Linux](learning-resources/linux.md)
