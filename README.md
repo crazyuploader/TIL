@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Install Latest NodeJS In Linux](linux/install-latest-nodejs-in-linux.md)
 - [Algorithms](learning-resources/algorithms.md)
 - [DevOps](learning-resources/devops.md)
 - [Git](learning-resources/git.md)
 - [Linux](learning-resources/linux.md)
-- [Programming Languages](learning-resources/programming-languages.md)
 
 ---
 
