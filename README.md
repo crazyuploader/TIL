@@ -35,6 +35,7 @@ _Recently Added/Updated TILs_
 
 ## ~ Linux
 
+- [Add User To System](linux/add-user-to-system.md)
 - [Benchmark System](linux/benchmark-system.md)
 - [Change Default Shell](linux/change-default-shell.md)
 - [Check If A Port Is In Use](linux/check-if-a-port-is-in-use.md)
