@@ -7,10 +7,10 @@ We can get latest version of NodeJS by -
 ### Setting APT Repositories
 
 ```bash
-curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 ```
 
-**Note:** This will setup NodeJS 15 on the system.
+**Note:** This will setup NodeJS 16 on the system.
 
 ### Installing NodeJS
 
