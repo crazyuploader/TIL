@@ -36,7 +36,7 @@ In order to run commands as root, we can add user to `sudo` group by using `user
 usermod -aG sudo {USER_NAME}
 ```
 
-***Source(s)***
+**_Source(s)_**
 
 - [Linuxize](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)
 - [Linuxize](https://linuxize.com/post/how-to-create-a-sudo-user-on-ubuntu/)

@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_93 TILs so far._**
+**_94 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Add User To System](linux/add-user-to-system.md)
 - [Install Latest NodeJS In Linux](linux/install-latest-nodejs-in-linux.md)
 - [Algorithms](learning-resources/algorithms.md)
 - [DevOps](learning-resources/devops.md)
 - [Git](learning-resources/git.md)
-- [Linux](learning-resources/linux.md)
 
 ---
 
