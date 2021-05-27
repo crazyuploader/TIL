@@ -14,3 +14,7 @@
 
 - [MTR.sh](https://mtr.sh/)
 - [ping.pe](http://ping.pe/)
+
+## Linux
+
+- [Command Not Found](https://command-not-found.com/)
