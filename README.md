@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Git](learning-resources/git.md)
 - [Benchmark System](linux/benchmark-system.md)
 - [Add User To System](linux/add-user-to-system.md)
 - [Install Latest NodeJS In Linux](linux/install-latest-nodejs-in-linux.md)
 - [Algorithms](learning-resources/algorithms.md)
-- [DevOps](learning-resources/devops.md)
 
 ---
 
