@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 06/12/2021
+
+- [SSH quoting](https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html)
+
 ### 05/18/2021
 
 - [9 network commands every Linux admin should know](https://www.techrepublic.com/article/9-network-commands-every-linux-admin-should-know/)
