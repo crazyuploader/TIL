@@ -96,6 +96,7 @@ _Recently Added/Updated TILs_
 
 - [Install Dig](linux/networking/install-dig.md)
 - [Install MTR](linux/networking/install-mtr.md)
+- [WireGuard Server](linux/networking/wireguard-server.md)
 
 ### ~ SSH
 
