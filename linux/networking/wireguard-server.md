@@ -17,4 +17,4 @@ To install WireGuard Server, run -
 ./wireguard-install.sh
 ```
 
-***Source: [GitHub](https://github.com/angristan/wireguard-install)***
+**_Source: [GitHub](https://github.com/angristan/wireguard-install)_**

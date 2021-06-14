@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_94 TILs so far._**
+**_95 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [WireGuard Server](linux/networking/wireguard-server.md)
 - [Git](learning-resources/git.md)
 - [Benchmark System](linux/benchmark-system.md)
 - [Add User To System](linux/add-user-to-system.md)
 - [Install Latest NodeJS In Linux](linux/install-latest-nodejs-in-linux.md)
-- [Algorithms](learning-resources/algorithms.md)
 
 ---
 
