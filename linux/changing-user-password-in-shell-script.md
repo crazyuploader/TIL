@@ -18,4 +18,4 @@ Using `chpasswd`
 echo "{USER}:{NEW_PASSWORD} | chpasswd
 ```
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/11787889)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/11787889)_**
