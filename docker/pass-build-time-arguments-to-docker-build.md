@@ -18,4 +18,4 @@ docker build -t {IMAGE_NAME}:{IMAGE_TAG} \
                 --build-arg {VARIABLE2}="Some other value"
 ```
 
-***Source: [Bits and Picces](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)***
+**_Source: [Bits and Picces](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)_**
