@@ -4,14 +4,13 @@ We can run Go binaries without installing Go, by using [GoBinaries](https://gobi
 
 ## Example
 
-
 ```bash
 curl -sf https://gobinaries.com/rakyll/hey | sh
 ```
 
 ### Limitations
 
-* The package must compile within 100 seconds
-* The package must have at least on tag
+- The package must compile within 100 seconds
+- The package must have at least on tag
 
-***Source: [GoBinaries](https://gobinaries.com/)***
+**_Source: [GoBinaries](https://gobinaries.com/)_**
