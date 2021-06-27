@@ -8,4 +8,4 @@ We can install `dig`, `nslookup` and their dependencies by adding following pack
 apk add --update bind-tools
 ```
 
-***Source: [chase adams](https://chaseadams.io/posts/install-dig-and-nslookup-linux/)***
+**_Source: [chase adams](https://chaseadams.io/posts/install-dig-and-nslookup-linux/)_**

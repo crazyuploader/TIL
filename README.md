@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_102 TILs so far._**
+**_105 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Changing Timezone On Alpine](linux/alpine/changing-timezone-on-alpine.md)
+- [Install Dig On Alpine](linux/alpine/install-dig-on-alpine.md)
+- [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
 - [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
 - [Run Go Binaries Without Installing Go](linux/run-go-binaries-without-installing-go.md)
-- [Read Command Output In Reverse Order](linux/bash/read-command-output-in-reverse-order.md)
-- [Fix Failed Writing Body While Piping](linux/curl/fix-failed-writing-body-while-piping.md)
-- [Pass Build Time Arguments To Docker Build](docker/pass-build-time-arguments-to-docker-build.md)
 
 ---
 
