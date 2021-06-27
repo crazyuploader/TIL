@@ -18,4 +18,4 @@ ln -sf {ORIGINAL_FILE} {LINKED_FILE}
 
 **Note:** `-f` option overwrites the exisiting symbolic link.
 
-***Source: [phoenixNAP](https://phoenixnap.com/kb/symbolic-link-linux)***
+**_Source: [phoenixNAP](https://phoenixnap.com/kb/symbolic-link-linux)_**
