@@ -31,4 +31,4 @@ adduser -h /home/somebody -s /bin/bash somebody -u 1001
 
 This adds a user `somebody` with SHELL login as `bash`, home directory at `/home/somebody` and an UID of `1001`
 
-***Source: [CyberCiti](https://www.cyberciti.biz/faq/how-to-add-and-delete-users-on-alpine-linux/)***
+**_Source: [CyberCiti](https://www.cyberciti.biz/faq/how-to-add-and-delete-users-on-alpine-linux/)_**
