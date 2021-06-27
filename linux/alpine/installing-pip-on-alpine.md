@@ -1,6 +1,6 @@
 # Installing Pip On Alpine
 
-To install `pip` on Alpine we can add following packages -
+To install `pip` on Alpine we need to add following packages -
 
 ### Example
 
