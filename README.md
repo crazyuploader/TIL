@@ -74,9 +74,14 @@ _Recently Added/Updated TILs_
 - [Length of String in Variable](linux/bash/length-of-string-in-variable.md)
 - [Test Regular Expression Against A String](test-regular-expression-against-a-string.md)
 - [Pass Arguments while Piping](linux/bash/pass-arguments-while-piping.md)
+- [Read Command Output In Reverse Order](linux/bash/read-command-output-in-reverse-order.md)
 - ["set -e" In Scripts](linux/bash/set-e-in-scripts.md)
 - [Shell Formatter](linux/bash/shell-formatter.md)
 - [Yes](linux/bash/yes.md)
+
+### ~ Curl
+
+- [Fix Failed Writing Body While Piping](linux/curl/fix-failed-writing-body-while-piping.md)
 
 ### ~ GPG
 
