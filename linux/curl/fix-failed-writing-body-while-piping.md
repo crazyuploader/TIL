@@ -10,5 +10,4 @@ curl https://{SOME_URL} | tac | tac | grep {PATTERN}
 
 **Note:** Using `tac` as it will first reverse the order, and then reverse it again to get the original body.
 
-
-***Source: [StackOverFlow](https://stackoverflow.com/a/28879552)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/28879552)_**

@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_98 TILs so far._**
+**_100 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Read Command Output In Reverse Order](linux/bash/read-command-output-in-reverse-order.md)
+- [Fix Failed Writing Body While Piping](linux/curl/fix-failed-writing-body-while-piping.md)
 - [Pass Build Time Arguments To Docker Build](docker/pass-build-time-arguments-to-docker-build.md)
 - [Changing User Password In Shell Script](linux/changing-user-password-in-shell-script.md)
 - [Docker Run Without Cache](docker/docker-run-without-cache.md)
-- [WireGuard Server](linux/networking/wireguard-server.md)
-- [Git](learning-resources/git.md)
 
 ---
 
