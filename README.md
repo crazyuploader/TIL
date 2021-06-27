@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
-- [Create Symbolic Links](linux/create-symbolic-links.md)
-- [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
-- [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
-- [Changing Timezone On Alpine](linux/alpine/changing-timezone-on-alpine.md)
-- [Install Dig On Alpine](linux/alpine/install-dig-on-alpine.md)
+- [Docker Exec (docker exec)](docker/docker-exec.md)
+- [Docker Publish Port](docker/docker-publish-port.md)
+- [Docker Run Without Cache](docker/docker-run-without-cache.md)
+- [Docker Run (docker run)](docker/docker-run.md)
+- [Install Docker](docker/install-docker.md)
 
 ---
 
