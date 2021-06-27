@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
 - [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
 - [Changing Timezone On Alpine](linux/alpine/changing-timezone-on-alpine.md)
 - [Install Dig On Alpine](linux/alpine/install-dig-on-alpine.md)
 - [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
-- [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
 
 ---
 
