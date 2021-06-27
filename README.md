@@ -65,6 +65,7 @@ _Recently Added/Updated TILs_
 ### ~ Alpine
 
 - [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
+- [Chaning Timezone On Alpine](linux/alpine/changing-timezone-on-alpine.md)
 - [Install Dig On Alpine](linux/install-dig-on-alpine.md)
 - [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
 
