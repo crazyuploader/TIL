@@ -9,7 +9,7 @@ To install VS Code on a Remote/Local Linux Server and access it over browser, we
 Firstly, we have to install `code-server`, we can use their automated script to do that, run -
 
 ```bash
-curl -fsSL https://code-server.dev/install.sh | sh
+$ curl -fsSL https://code-server.dev/install.sh | sh
 ```
 
 **Note:** We can also add `code-server` to systemctl by running `sudo systemctl enable --now code-server@$USER` to automatically run at boot.
@@ -21,10 +21,10 @@ For Remote access, we can setup SSL easily by setting up `caddy` server as rever
 To install `caddy` server, run -
 
 ```bash
-echo "deb [trusted=yes] https://apt.fury.io/caddy/ /" \
+$ echo "deb [trusted=yes] https://apt.fury.io/caddy/ /" \
     | sudo tee -a /etc/apt/sources.list.d/caddy-fury.list
-sudo apt update
-sudo apt install caddy
+$ sudo apt update
+$ sudo apt install caddy
 ```
 
 In `/etc/caddy/Caddyfile` make following changes to setup `caddy` to create a proxy for us -
@@ -38,7 +38,7 @@ reverse_proxy 127.0.0.1:8080
 Reload `caddy` server by running -
 
 ```bash
-sudo systemctl reload caddy
+$ sudo systemctl reload caddy
 ```
 
 Code Server should now be live at `https://example.com`

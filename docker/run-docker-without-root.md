@@ -3,7 +3,7 @@
 To run Docker as non-root user, we can add our user to "docker" group, to do run this -
 
 ```bash
-sudo usermod -aG docker ${USER}
+$ sudo usermod -aG docker ${USER}
 ```
 
 **Reference(s)**

@@ -5,7 +5,7 @@ Sometimes we just want to show only commits from one author, we can use `git log
 ## Example
 
 ```bash
-git log --author="49350241+crazyuploader@users.noreply.github.com"
+$ git log --author="49350241+crazyuploader@users.noreply.github.com"
 ```
 
 **_Reference(s)_**

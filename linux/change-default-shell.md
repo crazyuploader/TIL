@@ -41,13 +41,13 @@ grep ${USER} /etc/passwd
 To change shell -
 
 ```bash
-sudo usermod --shell /bin/bash nameofuser
+$ sudo usermod --shell /bin/bash nameofuser
 ```
 
 Verify it by running -
 
-```
-grep ${USER} /etc/passwd
+```bash
+$ grep ${USER} /etc/passwd
 ```
 
 **_Source: [StackOverFlow](https://unix.stackexchange.com/a/558971)_**

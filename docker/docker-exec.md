@@ -7,7 +7,7 @@
 **Usage**
 
 ```bash
-docker exec {options} {container} {command} {ARG...}
+$ docker exec {options} {container} {command} {ARG...}
 ```
 
 **Example**

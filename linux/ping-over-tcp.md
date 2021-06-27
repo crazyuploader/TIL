@@ -7,14 +7,14 @@
 Firstly we have to make sure `tcptraceroute` is installed by running -
 
 ```bash
-apt-get install -y tcptraceroute
+$ apt-get install -y tcptraceroute
 ```
 
 Then to install tcpping, run -
 
 ```bash
-wget http://www.vdberg.org/~richard/tcpping -O /usr/bin/tcping
-chmod 755 /usr/bin/tcping
+$ wget http://www.vdberg.org/~richard/tcpping -O /usr/bin/tcping
+$ chmod 755 /usr/bin/tcping
 ```
 
 **_Note:_** I am saving `tcpping` as `tcping` here

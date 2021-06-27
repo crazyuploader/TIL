@@ -4,8 +4,8 @@ Sometimes, we don't need Docker build cache, and for those cases we can use `--n
 
 ## Example
 
-```
-docker build --no-cache --tag test .
+```bash
+$ docker build --no-cache --tag test .
 ```
 
 **_Source: [StackOverFlow](https://stackoverflow.com/a/35595021)_**

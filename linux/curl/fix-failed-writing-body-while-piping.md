@@ -4,8 +4,8 @@ We can fix `(23) Failed writing body` error while piping `cURL` to some programs
 
 ## Example
 
-```
-curl https://{SOME_URL} | tac | tac | grep {PATTERN}
+```bash
+$ curl https://{SOME_URL} | tac | tac | grep {PATTERN}
 ```
 
 **Note:** Using `tac` as it will first reverse the order, and then reverse it again to get the original body.

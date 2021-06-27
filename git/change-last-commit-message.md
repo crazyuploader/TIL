@@ -6,7 +6,7 @@ We can use `git commit --amend` command to change the most recent commit message
 
 ### For Local Commits
 
-```shell
+```bash
 $ git commit --amend -m "{NEW_MESSAGE}
 ```
 
@@ -14,7 +14,7 @@ $ git commit --amend -m "{NEW_MESSAGE}
 
 In this case, we can only edit the most recent commit message and force push it to remote -
 
-```
+```bash
 $ git commit --amend -m "{NEW_MESSAGE}"
 $ git push --force
 ```

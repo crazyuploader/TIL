@@ -9,8 +9,8 @@ ${#Variable_Name}
 ### Example
 
 ```bash
-VAR="String"
-echo "Size of variable 'VAR' is = ${#VAR}"
+$ VAR="String"
+$ echo "Size of variable 'VAR' is = ${#VAR}"
 ```
 
 **_Source: [StackOverFlow](https://stackoverflow.com/a/17368090)_**

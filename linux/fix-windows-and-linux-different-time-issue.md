@@ -9,13 +9,13 @@ This can be fixed by either setting `Linux` to use _Local Time_ instead of _UTC_
 We can set `Linux` to use _Local Time_ by running -
 
 ```bash
-timedatectl set-local-rtc 1 --adjust-system-clock
+$ timedatectl set-local-rtc 1 --adjust-system-clock
 ```
 
 Check current settings by running -
 
 ```
-timedatectl
+$ timedatectl
 ```
 
 **_Source: [HowToGeek](https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/)_**

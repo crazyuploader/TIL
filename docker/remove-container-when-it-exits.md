@@ -5,7 +5,7 @@ By default, Docker doesn't remove containers when they exit, this can lead stora
 ## Usage
 
 ```bash
-docker run --rm ubuntu echo "Hello Docker"
+$ docker run --rm ubuntu echo "Hello Docker"
 ```
 
 **_Source: [Docker Docs](https://docs.docker.com/engine/reference/run/#clean-up---rm)_**

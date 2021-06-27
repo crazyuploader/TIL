@@ -5,7 +5,7 @@
 ### Solution:
 
 ```bash
-export GPG_TTY=$(tty)
+$ export GPG_TTY=$(tty)
 ```
 
 **Note:** Add above line to `~/.bashrc` file, to avoid running it everytime shell session starts.

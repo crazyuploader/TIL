@@ -7,7 +7,7 @@
 ## Usage
 
 ```bash
-docker run {options} {image} {command} {ARG...}
+$ docker run {options} {image} {command} {ARG...}
 ```
 
 ## Example

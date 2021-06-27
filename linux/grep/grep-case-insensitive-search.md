@@ -5,7 +5,7 @@ By default `grep` is case sensitive. Which simply means "function" and "Function
 ### Example
 
 ```bash
-echo "Hey There" | grep -i "hey there"
+$ echo "Hey There" | grep -i "hey there"
 Hey There
 ```
 

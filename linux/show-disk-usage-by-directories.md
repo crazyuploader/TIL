@@ -7,13 +7,13 @@ We can use `ncdu` to see disk usage interactively in command-line only.
 **Usage**
 
 ```bash
-ncdu {OPTIONS} {DIRECTORY}
+$ ncdu {OPTIONS} {DIRECTORY}
 ```
 
 **Example**
 
 ```
-ncdu -x /
+$ ncdu -x /
 ```
 
 Will show usage of `/` (root) directory.

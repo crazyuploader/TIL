@@ -5,13 +5,13 @@ We can change time zone temporarily by using `TZ` Environment Variable but for p
 ## Using timedatectl
 
 ```bash
-sudo timedatectl set-timezone {TIME_ZONE}
+$ sudo timedatectl set-timezone {TIME_ZONE}
 ```
 
 **Example**
 
 ```bash
-sudo timedatectl set-timezone Asia/Kolkata
+$ sudo timedatectl set-timezone Asia/Kolkata
 ```
 
 ## Using symbolic link
@@ -19,13 +19,13 @@ sudo timedatectl set-timezone Asia/Kolkata
 Firstly, we to remove current symbolic link by -
 
 ```bash
-sudo rm -rf /etc/localtime
+$ sudo rm -rf /etc/localtime
 ```
 
 Then subtitute your time zone in following command
 
 ```bash
-sudo ln -s /usr/share/zoneinfo/Asia/Kolkata /etc/localtime
+$ sudo ln -s /usr/share/zoneinfo/Asia/Kolkata /etc/localtime
 ```
 
 Verify it by running `date` command

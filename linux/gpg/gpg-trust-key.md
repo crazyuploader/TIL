@@ -5,7 +5,7 @@ After importing a GPG key (on how to, refer to [link](fix-inappropriate-ioctl-fo
 ### Process
 
 ```bash
-gpg --edit-key {KEY}
+$ gpg --edit-key {KEY}
 trust
 5
 yes

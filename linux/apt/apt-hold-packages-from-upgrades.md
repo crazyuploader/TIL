@@ -5,27 +5,27 @@ We can ignore a package's upgrade by running `apt-mark hold` command.
 ## Hold Updates
 
 ```bash
-apt-mark hold {PACKAGE_NAME}
+$ apt-mark hold {PACKAGE_NAME}
 ```
 
 ## Unhold Updates
 
-```
-apt-mark unhold {PACKAGE_NAME}
+```bash
+$ apt-mark unhold {PACKAGE_NAME}
 ```
 
 ### Example
 
 Holding `code` package -
 
-```
-apt-mark hold code
+```bash
+$ apt-mark hold code
 ```
 
 Undo -
 
 ```bash
-apt-mark unhold code
+$ apt-mark unhold code
 ```
 
 **_Source: [CyberCiti](https://www.cyberciti.biz/faq/apt-get-hold-back-packages-command/)_**

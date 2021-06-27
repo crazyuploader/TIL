@@ -9,7 +9,7 @@ screen - screen manager with VT100/ANSI terminal emulation
 - New Session
 
 ```bash
-screen
+$ screen
 ```
 
 - Detach Session
@@ -19,7 +19,7 @@ Press `ctrl + a` and `d` immediately after it.
 - List Session(s)
 
 ```bash
-screen -ls
+$ screen -ls
 ```
 
 - Attach Session

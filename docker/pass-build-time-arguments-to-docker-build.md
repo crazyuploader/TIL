@@ -13,7 +13,7 @@ RUN echo "Value of first Variable = ${VARIABLE1}" && \
 And running `docker build` command as following -
 
 ```bash
-docker build -t {IMAGE_NAME}:{IMAGE_TAG} \
+$ docker build -t {IMAGE_NAME}:{IMAGE_TAG} \
                 --build-arg {VARIABLE1}="Some value" \
                 --build-arg {VARIABLE2}="Some other value"
 ```

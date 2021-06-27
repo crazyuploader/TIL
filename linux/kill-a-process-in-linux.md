@@ -5,19 +5,19 @@ To kill a process, first we need to know its process ID (PID), to do that we can
 ## Find PID of a Process
 
 ```bash
-pidof {PROCESS_NAME}
+$ pidof {PROCESS_NAME}
 ```
 
 ## Kill a Process
 
 ```bash
-kill {PROCESS_ID}
+$ kill {PROCESS_ID}
 ```
 
 ### Kill all the process with a program name
 
 ```bash
-killall {PROGRAM_NAME}
+$ killall {PROGRAM_NAME}
 ```
 
 ### Using htop

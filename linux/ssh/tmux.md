@@ -9,19 +9,19 @@ tmux — terminal multiplexer
 - New Session
 
 ```bash
-tmux
+$ tmux
 ```
 
 - List Session(s)
 
 ```bash
-tmux ls
+$ tmux ls
 ```
 
 - Detach Session
 
 ```bash
-tmux detach
+$ tmux detach
 ```
 
 Or shortcut `ctrl-b` then `d` after it, can be used.
@@ -31,7 +31,7 @@ Or shortcut `ctrl-b` then `d` after it, can be used.
 After logging into the system, run:
 
 ```bash
-tmux attach
+$ tmux attach
 ```
 
 **_Real Cheatsheet: [TmuxCheatsheet](http://tmuxcheatsheet.com/)_**

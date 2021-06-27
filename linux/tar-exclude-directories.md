@@ -5,7 +5,7 @@ To exclude a directory while making a tar file, we can pass `--exclude=""` argum
 ## Example
 
 ```bash
-tar czf {FILE_NAME}.tar.gz --exclude=".git" --exclude=".github" ./
+$ tar czf {FILE_NAME}.tar.gz --exclude=".git" --exclude=".github" ./
 ```
 
 Here, _.git_ and _.github_ directory would be excluded; not included in the tar file.

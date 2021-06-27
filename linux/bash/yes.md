@@ -9,19 +9,19 @@ yes - output a string repeatedly until killed
 - Print y repeatedly
 
 ```bash
-yes
+$ yes
 ```
 
 - Print y repeatedly & pipe to a command
 
 ```bash
-yes | apt-get upgrade
+$ yes | apt-get upgrade
 ```
 
 - Print custom string & pipe to a command
 
 ```bash
-yes "n" | apt-get upgrade
+$ yes "n" | apt-get upgrade
 ```
 
 **Reference(s)**

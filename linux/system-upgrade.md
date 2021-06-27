@@ -3,32 +3,32 @@
 **Ugrade all installed packages**
 
 ```bash
-sudo apt-get update
-sudo apt-get upgrade -y
+$ sudo apt-get update
+$ sudo apt-get upgrade -y
 ```
 
 **Reboot**
 
 ```bash
-sudo reboot
+$ sudo reboot
 ```
 
 **Remove unused packages and old kernel versions**
 
 ```bash
-sudo apt --purge autoremove
+$ sudo apt --purge autoremove
 ```
 
 **Install Ubuntu update tool**
 
 ```bash
-sudo apt install update-manager-core
+$ sudo apt install update-manager-core
 ```
 
 **Start Upgrade**
 
 ```bash
-sudo do-release-upgrade
+$ sudo do-release-upgrade
 ```
 
 **_Note:_** If it shows `There is no development version of an LTS available.`, run `sudo do-release-upgrade -d`
@@ -36,13 +36,13 @@ sudo do-release-upgrade
 **System Restart**
 
 ```bash
-sudo reboot
+$ sudo reboot
 ```
 
 **Verify Distro**
 
 ```bash
-lsb_release -a
+$ lsb_release -a
 ```
 
 **Enabled disabled 3rd party repo**

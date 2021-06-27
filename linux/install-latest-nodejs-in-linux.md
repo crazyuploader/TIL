@@ -7,7 +7,7 @@ We can get latest version of NodeJS by -
 ### Setting APT Repositories
 
 ```bash
-curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+$ curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 ```
 
 **Note:** This will setup NodeJS 16 on the system.
@@ -15,7 +15,7 @@ curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 ### Installing NodeJS
 
 ```bash
-sudo apt-get install -y nodejs
+$ sudo apt-get install -y nodejs
 ```
 
 This will install NodeJS and NPM.

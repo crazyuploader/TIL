@@ -3,13 +3,13 @@
 We can pass arguments to bash while piping like:
 
 ```bash
-bash -s -- <ARG>
+$ bash -s -- <ARG>
 ```
 
 ## Example
 
 ```bash
-curl -s http://wget.racing/nench.sh | bash -s -- -q
+$ curl -s http://wget.racing/nench.sh | bash -s -- -q
 ```
 
 **_Source: [StackOverFlow](https://stackoverflow.com/a/53605439)_**

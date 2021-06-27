@@ -5,7 +5,7 @@ By default Docker does not expose Container's Port to the Host, to do so we can 
 ## Example
 
 ```bash
-docker run -d -it \
+$ docker run -d -it \
            -p 43210:43210/udp \
            --name bombsquad \
            crazyuploader/bombsquad

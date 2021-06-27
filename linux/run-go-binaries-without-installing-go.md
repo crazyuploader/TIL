@@ -5,7 +5,7 @@ We can run Go binaries without installing Go, by using [GoBinaries](https://gobi
 ## Example
 
 ```bash
-curl -sf https://gobinaries.com/rakyll/hey | sh
+$ curl -sf https://gobinaries.com/rakyll/hey | sh
 ```
 
 ### Limitations

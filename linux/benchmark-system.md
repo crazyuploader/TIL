@@ -3,7 +3,7 @@
 `sysbench` can be used to benchmark CPU, command is given below.
 
 ```bash
-sysbench cpu --threads=$(nproc --all) run
+$ sysbench cpu --threads=$(nproc --all) run
 ```
 
 ### More Scripts: -
