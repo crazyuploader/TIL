@@ -1,4 +1,4 @@
-# Test Connection
+# Ansible Test Connection
 
 We can use `ping` module of Ansible to test whether or not Ansible is able to log onto the configured server(s).
 
