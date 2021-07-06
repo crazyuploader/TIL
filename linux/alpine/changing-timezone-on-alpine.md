@@ -5,7 +5,7 @@ To be able to change Timezone on Alpine, we first need to make sure `alpine-conf
 ## Example
 
 ```bash
-$ apk add --update alpine-conf
+$ apk add --update alpine-conf tzdata
 ```
 
 This will add necessary setup scripts on Alpine. And to actually change Timezone, we can run following command -
