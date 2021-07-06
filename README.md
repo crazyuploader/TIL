@@ -21,6 +21,7 @@ _Recently Added/Updated TILs_
 ## Categories
 
 - [Linux](#-linux)
+- [Ansible](#-ansible)
 - [Cheatsheets](#-cheatsheets)
 - [Docker](#-docker)
 - [Git](#-git)
@@ -119,6 +120,10 @@ _Recently Added/Updated TILs_
 - [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
 - [Screen](linux/ssh/screen.md)
 - [Tmux](linux/ssh/tmux.md)
+
+## ~ Ansible
+
+- [Test Connection](ansible/test-connection.md)
 
 ## ~ Cheatsheets
 
