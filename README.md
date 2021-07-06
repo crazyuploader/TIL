@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
-- [Enable Systemd Support in WSL2 (Obsolete)](wsl/enable-systemd-support-in-wsl2.md)
-- [Docker Exec (docker exec)](docker/docker-exec.md)
-- [Docker Publish Port](docker/docker-publish-port.md)
-- [Docker Run Without Cache](docker/docker-run-without-cache.md)
-- [Docker Run (docker run)](docker/docker-run.md)
+- [Installing Ansible On Alpine](linux/alpine/installing-ansible-on-alpine.md)
+- [Change Default Shell](linux/change-default-shell.md)
+- [Check If A Package Is Installed Or Not](linux/check-if-a-package-is-installed-or-not.md)
+- [Test Connection](ansible/test-connection.md)
+- [Installing Ansible On Alpine](linux/alpine/installing-ansible-on-alpine.md)
 
 ---
 
