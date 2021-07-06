@@ -8,4 +8,4 @@ ansible all -m ping
 
 This will run ping every server.
 
-***Source: [Ansible Documentation](https://docs.ansible.com/ansible/2.3/ping_module.html)***
+**_Source: [Ansible Documentation](https://docs.ansible.com/ansible/2.3/ping_module.html)_**
