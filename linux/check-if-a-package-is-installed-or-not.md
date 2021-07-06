@@ -38,4 +38,4 @@ Homepage: http://www.sudo.ws/
 Original-Maintainer: Bdale Garbee <bdale@gag.com>
 ```
 
-***Source: [CyberCiti](https://www.cyberciti.biz/faq/find-out-if-package-is-installed-in-linux/)***
+**_Source: [CyberCiti](https://www.cyberciti.biz/faq/find-out-if-package-is-installed-in-linux/)_**
