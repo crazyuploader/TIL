@@ -6,4 +6,4 @@ We can install Ansible by running -
 apk add ansible
 ```
 
-***Source: [Alpine Wiki](https://wiki.alpinelinux.org/wiki/Ansible)***
+**_Source: [Alpine Wiki](https://wiki.alpinelinux.org/wiki/Ansible)_**
