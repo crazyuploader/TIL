@@ -6,6 +6,6 @@ We can use `ping` module of Ansible to test whether or not Ansible is able to lo
 ansible all -m ping
 ```
 
-This will run ping every server.
+This will ping every server.
 
 **_Source: [Ansible Documentation](https://docs.ansible.com/ansible/2.3/ping_module.html)_**
