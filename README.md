@@ -40,6 +40,7 @@ _Recently Added/Updated TILs_
 - [Benchmark System](linux/benchmark-system.md)
 - [Change Default Shell](linux/change-default-shell.md)
 - [Changing User Password In Shell Script](linux/changing-user-password-in-shell-script.md)
+- [Check If A Package Is Installed Or Not](linux/check-if-a-package-is-installed-or-not.md)
 - [Check If A Port Is In Use](linux/check-if-a-port-is-in-use.md)
 - [Check If A User Exists](linux/check-if-a-user-exists.md)
 - [Check Open Port](linux/check-open-port.md)

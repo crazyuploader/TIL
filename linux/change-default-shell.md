@@ -7,25 +7,25 @@ Default shell can be changed by using `chsh` command.
 To see available shells -
 
 ```bash
-cat /etc/shells
+$ cat /etc/shells
 ```
 
 To see current shell -
 
 ```bash
-echo $SHELL
+$ echo $SHELL
 ```
 
 To **finally** change shell -
 
 ```bash
-chsh -s /path/to/shell
+$ chsh -s /path/to/shell
 ```
 
 To see your new shell -
 
 ```bash
-echo $SHELL
+$ echo $SHELL
 ```
 
 It should be changed now, in case `chsh` throws something like `you may not change the shell for ${USER}`, follow along!
@@ -35,7 +35,7 @@ It should be changed now, in case `chsh` throws something like `you may not chan
 To see current shell -
 
 ```bash
-grep ${USER} /etc/passwd
+$ grep ${USER} /etc/passwd
 ```
 
 To change shell -
