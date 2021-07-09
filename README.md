@@ -70,7 +70,7 @@ _Recently Added/Updated TILs_
 - [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
 - [Chaning Timezone On Alpine](linux/alpine/changing-timezone-on-alpine.md)
 - [Installing Ansible On Alpine](linux/alpine/installing-ansible-on-alpine.md)
-- [Installing Dig On Alpine](linux/installing-dig-on-alpine.md)
+- [Installing Dig On Alpine](linux/alpine/installing-dig-on-alpine.md)
 - [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
 
 ### ~ APT
