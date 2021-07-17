@@ -30,6 +30,8 @@
 ### 07/16/2021
 
 - [6 Must-Have Open-Source Tools to Secure Your Linux Server](https://www.makeuseof.com/open-source-tools-to-secure-linux-server/)
+- [5 Linux commands I'm going to start using](https://www.redhat.com/sysadmin/5-linux-commands/)
+- [11 Linux commands I can’t live without](https://www.redhat.com/sysadmin/11-linux-command/)
 
 ### 06/24/2021
 
