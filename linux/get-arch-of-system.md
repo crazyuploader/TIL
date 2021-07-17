@@ -9,4 +9,4 @@ $ arch
 x86_64
 ```
 
-***Source: [RedHat](https://www.redhat.com/sysadmin/5-linux-commands)***
+**_Source: [RedHat](https://www.redhat.com/sysadmin/5-linux-commands)_**

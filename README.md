@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_109 TILs so far._**
+**_110 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Get Arch Of System](linux/get-arch-of-system.md)
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
 - [Installing Ansible On Alpine](linux/alpine/installing-ansible-on-alpine.md)
 - [Change Default Shell](linux/change-default-shell.md)
 - [Check If A Package Is Installed Or Not](linux/check-if-a-package-is-installed-or-not.md)
-- [](ansible/test-connection.md)
 
 ---
 
