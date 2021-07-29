@@ -11,4 +11,4 @@ We can check size of an image in Python by using [PIL](https://pillow.readthedoc
 (1366, 768)
 ```
 
-***Source: [Kite](https://www.kite.com/python/answers/how-to-get-the-size-of-an-image-with-pil-in-python)***
+**_Source: [Kite](https://www.kite.com/python/answers/how-to-get-the-size-of-an-image-with-pil-in-python)_**
