@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 07/30/2021
+
+- [Moving from GitHub pages to self-hosted](https://belief-driven-design.com/moving-from-github-pages-to-self-hosted-ab1231fb7fa/)
+
 ### 07/16/2021
 
 - [6 Must-Have Open-Source Tools to Secure Your Linux Server](https://www.makeuseof.com/open-source-tools-to-secure-linux-server/)
