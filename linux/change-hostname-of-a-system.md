@@ -18,4 +18,4 @@ $ sudo reboot
 
 To display current hostname, we can use `hostname` command.
 
-***Source: [CyberCiti](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)***
+**_Source: [CyberCiti](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)_**
