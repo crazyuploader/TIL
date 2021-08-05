@@ -25,4 +25,4 @@ esac
 
 **Note:** Unlike in programming languages such as C, Case Statements stop looking for pattern once it has found the pattern and executed commands associated with it.
 
-***Source: [Linuxize](https://linuxize.com/post/bash-case-statement/)***
+**_Source: [Linuxize](https://linuxize.com/post/bash-case-statement/)_**
