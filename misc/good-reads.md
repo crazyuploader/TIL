@@ -27,6 +27,11 @@
 
 ## Timeline
 
+### 08/06/2021
+
+- [How I became a Software Developer during the pandemic without a degree or a bootcamp](https://towardsdatascience.com/how-i-became-a-software-developer-during-the-pandemic-without-a-degree-or-a-bootcamp-ef7a4184efde)
+- [Linux Terminal Cheat Sheet (Useful for Beginners)](https://dev.to/cleancodestudio/linux-terminal-cheat-sheet-useful-for-beginners-2e6c)
+
 ### 07/30/2021
 
 - [Moving from GitHub pages to self-hosted](https://belief-driven-design.com/moving-from-github-pages-to-self-hosted-ab1231fb7fa/)
