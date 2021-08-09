@@ -114,6 +114,7 @@ _Recently Added/Updated TILs_
 - [Grep Invert Search](linux/grep/grep-invert-search.md)
 - [Grep Quiet Mode](linux/grep/grep-quiet-mode.md)
 - [Grep Search For Multiple Strings](linux/grep/grep-search-for-multiple-strings.md)
+- [Remove Empty Lines](linux/grep/remove-empty-lines.md)
 
 ### ~ Networking
 
