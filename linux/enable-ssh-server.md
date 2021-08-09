@@ -29,4 +29,4 @@ ssh {USER}@{MACHINE_IP}
 
 **Note:** In case `ssh` command is not available, one need to install `openssh-client` package.
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/)_**
