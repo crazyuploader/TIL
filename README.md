@@ -46,6 +46,7 @@ _Recently Added/Updated TILs_
 - [Check If A User Exists](linux/check-if-a-user-exists.md)
 - [Check Open Port](linux/check-open-port.md)
 - [Create Symbolic Links](linux/create-symbolic-links.md)
+- [Enable SSH Server](linux/enable-ssh-server.md)
 - [Fix Permission For Newly Created Partitions](linux/fix-permission-for-newly-created-partitions.md)
 - [Fix Windows And Linux Different Time Issue](linux/fix-windows-and-linux-different-time-issue.md)
 - [Get Arch Of System](linux/get-arch-of-system.md)
