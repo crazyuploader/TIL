@@ -2,4 +2,4 @@
 
 **Monaco** is the name of font to have terminal font like MacOS.
 
-***[Link](https://www.cufonfonts.com/font/monaco)***
+**_[Link](https://www.cufonfonts.com/font/monaco)_**
