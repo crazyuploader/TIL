@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_113 TILs so far._**
+**_114 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Setup Docker Buildx For Multi Arch builds](docker/setup-docker-buildx-for-multi-arch-builds.md)
 - [Case Statements](linux/bash/case-statements.md)
 - [Change Hostname Of A System](linux/change-hostname-of-a-system.md)
 - [Check Image Size](python/check-image-size.md)
 - [Get Arch Of System](linux/get-arch-of-system.md)
-- [Ansible Test Connection](ansible/ansible-test-connection.md)
 
 ---
 
