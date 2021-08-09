@@ -16,4 +16,4 @@ grep . {FILE}
 
 This can be used to make things simple, and easy if Windows line-endings aren't concerned.
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/3432574)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/3432574)_**
