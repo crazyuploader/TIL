@@ -19,5 +19,5 @@ And that's it! Now we can run `docker buildx` on our Dockerfile(s) to build them
 
 **Source(s)**
 
-- [CircleCI Documentation](https://cirrus-ci.org/guide/docker-builder-vm/#multi-arch-builds)
+- [Cirrus CI Documentation](https://cirrus-ci.org/guide/docker-builder-vm/#multi-arch-builds)
 - [Docker Docs](https://docs.docker.com/buildx/working-with-buildx/)
