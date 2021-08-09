@@ -151,6 +151,7 @@ _Recently Added/Updated TILs_
 - [Remove Container When It Exits](docker/remove-container-when-it-exits.md)
 - [Remove Unused Data](docker/remove-unused-data.md)
 - [Run Docker without root](docker/run-docker-without-root.md)
+- [Setup Docker Buildx For Multi Arch Builds](docker/setup-docker-buildx-for-multi-arch-builds.md)
 
 ## ~ Git
 
