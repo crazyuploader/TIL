@@ -27,6 +27,14 @@
 
 ## Timeline
 
+### 08/14/2021
+
+- [Telnet vs SSH](https://www.guru99.com/telnet-vs-ssh.html)
+
+### 08/13/2021
+
+- [How to Monitor the Resource Usage of Docker Containers](https://www.cloudsavvyit.com/13715/how-to-monitor-the-resource-usage-of-docker-containers/)
+
 ### 08/06/2021
 
 - [How I became a Software Developer during the pandemic without a degree or a bootcamp](https://towardsdatascience.com/how-i-became-a-software-developer-during-the-pandemic-without-a-degree-or-a-bootcamp-ef7a4184efde)
