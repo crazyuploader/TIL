@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 08/19/2021
+
+- [Stop using git pull for deployment!](https://grimoire.ca/git/stop-using-git-pull-to-deploy/)
+
 ### 08/16/2021
 
 - [Schedule a task with the Linux at command](https://opensource.com/article/21/8/linux-at-command)
