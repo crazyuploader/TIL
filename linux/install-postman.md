@@ -8,4 +8,4 @@ We can use `snap` to install Postman in Ubuntu using snappy.
 $ sudo snap install postman
 ```
 
-***Source: [Linuxize](https://linuxize.com/post/how-to-install-postman-on-ubuntu-20-04/)***
+**_Source: [Linuxize](https://linuxize.com/post/how-to-install-postman-on-ubuntu-20-04/)_**

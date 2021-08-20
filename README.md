@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_117 TILs so far._**
+**_118 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Install Postman](linux/install-postman.md)
 - [Remove Empty Lines](linux/grep/remove-empty-lines.md)
 - [Set MacOS Like Terminal Font](linux/bash/set-macos-like-terminal-font.md)
 - [Enable SSH Server](linux/enable-ssh-server.md)
 - [Setup Docker Buildx For Multi Arch builds](docker/setup-docker-buildx-for-multi-arch-builds.md)
-- [Case Statements](linux/bash/case-statements.md)
 
 ---
 
