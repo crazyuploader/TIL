@@ -21,4 +21,4 @@ For example `/etc/systemd/system/scripter.service` can be such file. Now to star
 
 To enable the service at system startup, run `sudo systemctl enable scripter`.
 
-***Source: [Transang](https://transang.me/three-ways-to-create-a-startup-script-in-ubuntu/)***
+**_Source: [Transang](https://transang.me/three-ways-to-create-a-startup-script-in-ubuntu/)_**
