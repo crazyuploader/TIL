@@ -11,7 +11,7 @@ $ grep -v '^[[:space:]]*$' {FILE}
 ## Option 2
 
 ```bash
-grep . {FILE}
+$ grep . {FILE}
 ```
 
 This can be used to make things simple, and easy if Windows line-endings aren't concerned.
