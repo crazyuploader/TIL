@@ -132,6 +132,7 @@ _Recently Added/Updated TILs_
 ### ~ Systemd
 
 - [Create A Service](linux/systemd/create-a-service.md)
+- [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
 
 ## ~ Ansible
 
