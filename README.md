@@ -52,6 +52,7 @@ _Recently Added/Updated TILs_
 - [Get Arch Of System](linux/get-arch-of-system.md)
 - [Increase Limit of Inotify Watchers](linux/increase-limit-of-inotify-watchers.md)
 - [Install Latest NodeJS In Linux](linux/install-latest-nodejs-in-linux.md)
+- [Install Postman](linux/install-postman.md)
 - [Kill A Process In Linux](linux/kill-a-process-in-linux.md)
 - [Mount Partition On System Startup](linux/mount-partition-on-system-startup.md)
 - [OpenVPN Server](linux/openvpn-server.md)
