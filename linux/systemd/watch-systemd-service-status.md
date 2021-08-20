@@ -8,4 +8,4 @@ Running `sudo systemctl status {A_SERVICE}` again and again to watch latest logs
 $ sudo watch systemctl status caddy
 ```
 
-***Source: [Unix - StackExchange](https://unix.stackexchange.com/questions/555176/watch-systemd-service-status-with-systemctl)***
+**_Source: [Unix - StackExchange](https://unix.stackexchange.com/questions/555176/watch-systemd-service-status-with-systemctl)_**

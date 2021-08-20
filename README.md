@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_119 TILs so far._**
+**_120 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
 - [Create A Service](linux/systemd/create-a-service.md)
 - [Install Postman](linux/install-postman.md)
 - [Remove Empty Lines](linux/grep/remove-empty-lines.md)
 - [Set MacOS Like Terminal Font](linux/bash/set-macos-like-terminal-font.md)
-- [Enable SSH Server](linux/enable-ssh-server.md)
 
 ---
 
