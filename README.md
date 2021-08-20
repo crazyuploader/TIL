@@ -129,6 +129,10 @@ _Recently Added/Updated TILs_
 - [Screen](linux/ssh/screen.md)
 - [Tmux](linux/ssh/tmux.md)
 
+### ~ Systemd
+
+- [Create A Service](linux/systemd/create-a-service.md)
+
 ## ~ Ansible
 
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
