@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 08/25/2021
+
+- [How to Enable and Disable Network Interfaces in Ubuntu 20.04](https://vitux.com/how-to-enable-and-disable-network-interfaces-in-ubuntu-20-04/)
+
 ### 08/19/2021
 
 - [Stop using git pull for deployment!](https://grimoire.ca/git/stop-using-git-pull-to-deploy/)
