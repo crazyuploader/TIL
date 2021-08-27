@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 08/27/2021
+
+- [Edit sshd_config using a Bash script](https://www.redhat.com/sysadmin/bash-script-configure-ssh)
+
 ### 08/25/2021
 
 - [How to Enable and Disable Network Interfaces in Ubuntu 20.04](https://vitux.com/how-to-enable-and-disable-network-interfaces-in-ubuntu-20-04/)
