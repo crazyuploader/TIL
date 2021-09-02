@@ -29,7 +29,7 @@
 
 ### 09/02/2021
 
--[How I re-over-engineered my home network for privacy and security](https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/)
+- [How I re-over-engineered my home network for privacy and security](https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/)
 
 ### 08/27/2021
 
