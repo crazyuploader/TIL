@@ -27,6 +27,10 @@
 
 ## Timeline
 
+### 09/09/2021
+
+- [How to use cron on Linux](https://opensource.com/article/21/7/cron-linux)
+
 ### 09/02/2021
 
 - [How I re-over-engineered my home network for privacy and security](https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/)
