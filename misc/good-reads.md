@@ -28,6 +28,10 @@
 
 ## Timeline
 
+### 09/17/2021
+
+- [Watch commands and tasks with the Linux watch command](https://opensource.com/article/21/9/linux-watch-command)
+
 ### 09/09/2021
 
 - [How to use cron on Linux](https://opensource.com/article/21/7/cron-linux)
