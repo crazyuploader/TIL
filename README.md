@@ -134,6 +134,10 @@ _Recently Added/Updated TILs_
 - [Create A Service](linux/systemd/create-a-service.md)
 - [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
 
+### ~ Tcpdump
+
+- [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
+
 ## ~ Ansible
 
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
