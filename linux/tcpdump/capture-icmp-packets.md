@@ -2,6 +2,8 @@
 
 In order to capture ICMP packets using `tcpdump` we can use the following command -
 
+## Usage
+
 ```bash
 $ sudo tcpdump icmp
 ```
