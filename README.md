@@ -126,6 +126,7 @@ _Recently Added/Updated TILs_
 ### ~ SSH
 
 - [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
+- [Run A Local Script On Remote SSH Server](linux/ssh/run-a-local-script-on-remote-ssh-server.md)
 - [Screen](linux/ssh/screen.md)
 - [Tmux](linux/ssh/tmux.md)
 
