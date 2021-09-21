@@ -1,6 +1,6 @@
 # Capture Traffic By An IP Address Or A Network
 
-Tcpdump can filter out traffic based on IP address, and a Network, examples below.
+`tcpdump` can filter out traffic based on IP address, and a Network, examples below.
 
 ## Capture Traffic by an IP Address
 
