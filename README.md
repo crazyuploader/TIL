@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Run A Local Script On Remote SSH Server](linux/ssh/run-a-local-script-on-remote-ssh-server.md)
 - [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
 - [Run A Local Script On Remote SSH Server](linux/ssh/run-a-local-script-on-remote-ssh-server.md)
 - [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
 - [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
-- [Create A Service](linux/systemd/create-a-service.md)
 
 ---
 
