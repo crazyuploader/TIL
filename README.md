@@ -209,6 +209,7 @@ _Recently Added/Updated TILs_
 
 ### ~ Pipenv
 
+- [Install Dependencies System Wide](python/install-dependencies-system-wide.md)
 - [Remove Virtualenv](python/remove-virtualenv.md)
 
 ## ~ ReactJS
