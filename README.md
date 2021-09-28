@@ -207,6 +207,10 @@ _Recently Added/Updated TILs_
 - [Run Python Script in Background](python/run-python-script-in-background.md)
 - [Split String with Delimiter](python/split-string-with-delimiter.md)
 
+### ~ Pipenv
+
+- [Remove Virtualenv](python/remove-virtualenv.md)
+
 ## ~ ReactJS
 
 - [ReactJS Resources](reactjs/reactjs-resources.md)
