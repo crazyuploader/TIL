@@ -28,6 +28,10 @@
 
 ## Timeline
 
+### 09/29/2021
+
+- [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+
 ### 09/17/2021
 
 - [Watch commands and tasks with the Linux watch command](https://opensource.com/article/21/9/linux-watch-command)
