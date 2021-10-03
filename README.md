@@ -204,6 +204,7 @@ _Recently Added/Updated TILs_
 - [Python Padding Strings](python/python-padding-strings.md)
 - [Read A File Line By Line](python/read-a-file-line-by-line.md)
 - [Remove A File](python/remove-a-file.md)
+- [Remove Trailing Spaces And New Lines From A String](python/remove-trailing-spaces-and-new-lines-from-a-string.md)
 - [Run Python Script in Background](python/run-python-script-in-background.md)
 - [Split String with Delimiter](python/split-string-with-delimiter.md)
 - [Validate IP Address](python/validate-ip-address.md)
