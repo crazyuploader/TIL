@@ -206,6 +206,7 @@ _Recently Added/Updated TILs_
 - [Remove A File](python/remove-a-file.md)
 - [Run Python Script in Background](python/run-python-script-in-background.md)
 - [Split String with Delimiter](python/split-string-with-delimiter.md)
+- [Validate IP Address](python/validate-ip-address.md)
 
 ### ~ Pipenv
 
