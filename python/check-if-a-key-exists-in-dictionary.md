@@ -1,4 +1,4 @@
-# Check IF A Key Exists In Dictionary
+# Check If A Key Exists In Dictionary
 
 We can check if a key exists in a dictionary using a simple if statement.
 
