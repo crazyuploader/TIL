@@ -10,7 +10,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
-- [Check IF A Key Exists In Dictionary](python/check-if-a-key-exists-in-dictionary.md)
+- [Check If A Key Exists In Dictionary](python/check-if-a-key-exists-in-dictionary.md)
 - [Remove Trailing Spaces And New Lines From A String](python/remove-trailing-spaces-and-new-lines-from-a-string.md)
 - [Validate IP Address](python/validate-ip-address.md)
 - [Install Dependencies System Wide](python/pipenv/install-dependencies-system-wide.md)
