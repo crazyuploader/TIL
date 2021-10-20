@@ -28,6 +28,10 @@
 
 ## Timeline
 
+### 10/20/2021
+
+- [Running Commands On A Remote Machine](https://vsupalov.com/running-commands-on-remote-machine/)
+
 ### 09/29/2021
 
 - [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
