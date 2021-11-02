@@ -37,6 +37,7 @@ _Recently Added/Updated TILs_
 ## ~ Linux
 
 - [Add User To System](linux/add-user-to-system.md)
+- [Beautify Logs](linux/beautify-logs.md)
 - [Benchmark System](linux/benchmark-system.md)
 - [Change Default Shell](linux/change-default-shell.md)
 - [Change Hostname Of A system](linux/change-hostname-of-a-system.md)
