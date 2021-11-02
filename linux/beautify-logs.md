@@ -18,4 +18,4 @@ We can pipe differnet logs through standard output such as -
 $ cat /var/log/auth.log | ccze
 ```
 
-***Source: [CentOS Blog](https://www.centosblog.com/command-line-tool-day-ccze-prettify-logs-colours/)***
+**_Source: [CentOS Blog](https://www.centosblog.com/command-line-tool-day-ccze-prettify-logs-colours/)_**

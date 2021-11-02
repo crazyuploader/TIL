@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_128 TILs so far._**
+**_129 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Beautify Logs](linux/beautify-logs.md)
 - [Check If A Key Exists In Dictionary](python/check-if-a-key-exists-in-dictionary.md)
 - [Remove Trailing Spaces And New Lines From A String](python/remove-trailing-spaces-and-new-lines-from-a-string.md)
 - [Validate IP Address](python/validate-ip-address.md)
 - [Install Dependencies System Wide](python/pipenv/install-dependencies-system-wide.md)
-- [Remove Virtualenv (Virtual Environment)](python/pipenv/remove-virtualenv.md)
 
 ---
 
