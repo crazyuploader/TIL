@@ -6,11 +6,11 @@ Caddyfile:
 
 ```yaml
 example.com {
-    templates
-	header Content-Type text/plain
-	respond "Hello from IPv6, your IPv6 is -> {{.RemoteIP}}"
-	encode zstd gzip
+templates
+header Content-Type text/plain
+respond "Hello from IPv6, your IPv6 is -> {{.RemoteIP}}"
+encode zstd gzip
 }
 ```
 
-***Source: [Caddy Community](https://caddy.community/t/caddy-server-that-returns-only-ip-address-as-text/6928)***
+**_Source: [Caddy Community](https://caddy.community/t/caddy-server-that-returns-only-ip-address-as-text/6928)_**
