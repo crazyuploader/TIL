@@ -22,6 +22,7 @@ _Recently Added/Updated TILs_
 
 - [Linux](#-linux)
 - [Ansible](#-ansible)
+- [Caddy](#-caddy-server)
 - [Cheatsheets](#-cheatsheets)
 - [Docker](#-docker)
 - [Git](#-git)
@@ -144,6 +145,10 @@ _Recently Added/Updated TILs_
 ## ~ Ansible
 
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
+
+## ~ Caddy Server
+
+- [Return Client IP Address As Plain Text](caddy/return-client-ip-address-as-plain-text.md)
 
 ## ~ Cheatsheets
 
