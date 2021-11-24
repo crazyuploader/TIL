@@ -4,12 +4,12 @@ In Caddy Server, we can use [Template(s)](https://caddyserver.com/docs/json/apps
 
 Caddyfile:
 
-```yaml
+```
 example.com {
-templates
-header Content-Type text/plain
-respond "Hello from IPv6, your IPv6 is -> {{.RemoteIP}}"
-encode zstd gzip
+  templates
+  header Content-Type text/plain
+  respond "Hello from IPv6, your IPv6 is -> {{.RemoteIP}}"
+  encode zstd gzip
 }
 ```
 
