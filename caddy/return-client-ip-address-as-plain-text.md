@@ -6,10 +6,10 @@ Caddyfile:
 
 ```
 example.com {
-  templates
-  header Content-Type text/plain
-  respond "Hello from IPv6, your IPv6 is -> {{.RemoteIP}}"
-  encode zstd gzip
+    templates
+    header Content-Type text/plain
+    respond "Hello from IPv6, your IPv6 is -> {{.RemoteIP}}"
+    encode zstd gzip
 }
 ```
 
