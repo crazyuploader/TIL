@@ -26,6 +26,7 @@ _Recently Added/Updated TILs_
 - [Cheatsheets](#-cheatsheets)
 - [Docker](#-docker)
 - [Git](#-git)
+- [Go](#-go)
 - [Learning Resources](#-learning-resources)
 - [Misc](#-misc)
 - [Python](#-python)
@@ -179,6 +180,10 @@ _Recently Added/Updated TILs_
 - [Change Last Commit Message](git/change-last-commit-message.md)
 - [Delete Tag](git/delete-tag.md)
 - [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
+
+## ~ Go
+
+- [Print Go Version](go/print-go-version.md)
 
 ## ~ Learning Resources
 
