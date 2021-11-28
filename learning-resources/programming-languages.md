@@ -1,6 +1,7 @@
 # Programming Languages
 
 - [Learn C++](https://learn-cpp.org/)
+- [Learn Go](https://www.learn-golang.org/)
 - [Learn Java](https://learnjavaonline.org/)
 - [Learn JavaScript](https://learn-js.org/)
 - [Learn Shell](https://learnshell.org/)
