@@ -13,3 +13,8 @@
 - [Programiz](https://www.programiz.com/python-programming)
 - [Python Tutorials](https://www.guru99.com/python-tutorials.html)
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
+
+## Go
+
+- [Go Development](https://tutorialedge.net/golang/)
+- [Learn Go](https://learn-go.org/)
