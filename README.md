@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_130 TILs so far._**
+**_131 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Print Go Version](go/print-go-version.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Return Client IP Address As Plain Text](caddy/return-client-ip-address-as-plain-text.md)
 - [Beautify Logs](linux/beautify-logs.md)
 - [Check If A Key Exists In Dictionary](python/check-if-a-key-exists-in-dictionary.md)
-- [Remove Trailing Spaces And New Lines From A String](python/remove-trailing-spaces-and-new-lines-from-a-string.md)
 
 ---
 

@@ -17,4 +17,4 @@ func main() {
 }
 ```
 
-***Source: [GopherSnippets](https://gophersnippets.com/how-to-print-go-version)***
+**_Source: [GopherSnippets](https://gophersnippets.com/how-to-print-go-version)_**
