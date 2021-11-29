@@ -28,6 +28,10 @@
 
 ## Timeline
 
+### 11/29/2021
+
+- [Dockerfile: ENTRYPOINT vs CMD](https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/)
+
 ### 10/20/2021
 
 - [Running Commands On A Remote Machine](https://vsupalov.com/running-commands-on-remote-machine/)
