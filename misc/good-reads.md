@@ -28,6 +28,10 @@
 
 ## Timeline
 
+### 12/03/2021
+
+- [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/)
+
 ### 11/29/2021
 
 - [Dockerfile: ENTRYPOINT vs CMD](https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/)
