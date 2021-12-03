@@ -16,5 +16,6 @@
 
 ## Go
 
+- [Essential Go](https://www.programming-books.io/essential/go/)
 - [Go Development](https://tutorialedge.net/golang/)
 - [Learn Go](https://learn-go.org/)
