@@ -25,6 +25,7 @@
 - [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 - [How to Use LinkedIn to Get Your First Developer Job – A Step-by-Step Guide](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
 - [460 Free Textbooks – Math, Science, and More [Online PDF for College and High School]](https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/)
+- [IPV4 vs IPV6 – What is the Difference Between IP Addressing Schemes?](https://www.freecodecamp.org/news/ipv4-vs-ipv6-what-is-the-difference-between-ip-addressing-schemes/)
 
 ## Timeline
 
