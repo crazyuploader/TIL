@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Programming Languages](learning-resources/programming-languages.md)
 - [Print Go Version](go/print-go-version.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Return Client IP Address As Plain Text](caddy/return-client-ip-address-as-plain-text.md)
 - [Beautify Logs](linux/beautify-logs.md)
-- [Check If A Key Exists In Dictionary](python/check-if-a-key-exists-in-dictionary.md)
 
 ---
 
