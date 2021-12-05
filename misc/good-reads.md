@@ -29,6 +29,10 @@
 
 ## Timeline
 
+### 12/05/2021
+
+- [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
+
 ### 12/03/2021
 
 - [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/)
