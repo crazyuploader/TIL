@@ -25,8 +25,21 @@
 - [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 - [How to Use LinkedIn to Get Your First Developer Job – A Step-by-Step Guide](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
 - [460 Free Textbooks – Math, Science, and More [Online PDF for College and High School]](https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/)
+- [IPV4 vs IPV6 – What is the Difference Between IP Addressing Schemes?](https://www.freecodecamp.org/news/ipv4-vs-ipv6-what-is-the-difference-between-ip-addressing-schemes/)
 
 ## Timeline
+
+### 12/05/2021
+
+- [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
+
+### 12/03/2021
+
+- [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/)
+
+### 11/29/2021
+
+- [Dockerfile: ENTRYPOINT vs CMD](https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/)
 
 ### 10/20/2021
 
