@@ -142,6 +142,10 @@ _Recently Added/Updated TILs_
 - [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
 - [Capture Traffic By IP Or A Network](linux/tcpdump/capture-traffic-by-an-ip-address-or-network.md)
 
+### Ubuntu
+
+- [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
+
 ## ~ Ansible
 
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
