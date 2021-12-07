@@ -5,5 +5,5 @@
 `hmac256` can be installed on Ubuntu by using the following command -
 
 ```bash
-$ sudo apt-get install --y libgcrypt20-dev
+$ sudo apt-get install -y libgcrypt20-dev
 ```
