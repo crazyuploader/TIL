@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_131 TILs so far._**
+**_132 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Print Go Version](go/print-go-version.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Return Client IP Address As Plain Text](caddy/return-client-ip-address-as-plain-text.md)
-- [Beautify Logs](linux/beautify-logs.md)
 
 ---
 
