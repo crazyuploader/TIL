@@ -14,6 +14,7 @@
 
 - [GeoNet](https://geonet.shodan.io/)
 - [MTR.sh](https://mtr.sh/)
+- [nslookup](https://www.nslookup.io/)
 - [ping.pe](http://ping.pe/)
 
 ## Linux
