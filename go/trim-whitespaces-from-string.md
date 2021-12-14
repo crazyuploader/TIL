@@ -8,4 +8,4 @@ To remove whitespaces from a string, we can use [`strings.TrimSpace`](https://pk
 myString := strings.TrimSpace(" Hello World! ") // "Hello World!"
 ```
 
-\*\*\*Source: [YourBasic](https://yourbasic.org/golang/trim-whitespace-from-string/)
+***Source: [YourBasic](https://yourbasic.org/golang/trim-whitespace-from-string/)***
