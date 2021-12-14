@@ -13,4 +13,4 @@ if err != nil {
 }
 ```
 
-***Sources: [I Spy Code](https://ispycode.com/GO/Network/Get-ipaddress-from-hostname)***
+**_Sources: [I Spy Code](https://ispycode.com/GO/Network/Get-ipaddress-from-hostname)_**

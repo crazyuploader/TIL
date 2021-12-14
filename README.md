@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_133 TILs so far._**
+**_134 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Print Go Version](go/print-go-version.md)
 - [Trim Whitespaces From String](go/trim-whitespaces-from-string.md)
 - [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
-- [Programming Languages](learning-resources/programming-languages.md)
 
 ---
 
