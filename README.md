@@ -188,6 +188,7 @@ _Recently Added/Updated TILs_
 ## ~ Go
 
 - [Print Go Version](go/print-go-version.md)
+- [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
 - [Trim Whitespaces From String](go/trim-whitespace-from-string.md)
 
 ## ~ Learning Resources
