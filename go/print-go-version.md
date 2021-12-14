@@ -1,6 +1,6 @@
 # Print Go Version
 
-We can use `Version()` method from `runtime` module to print Go Version.
+We can use [`runtime.Version`](https://pkg.go.dev/runtime#Version) function to print Go Version.
 
 ## Example
 
