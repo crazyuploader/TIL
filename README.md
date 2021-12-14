@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Programming Languages](learning-resources/programming-languages.md)
 - [Print Go Version](go/print-go-version.md)
 - [Trim Whitespaces From String](go/trim-whitespaces-from-string.md)
 - [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
 - [Programming Languages](learning-resources/programming-languages.md)
-- [Print Go Version](go/print-go-version.md)
 
 ---
 
