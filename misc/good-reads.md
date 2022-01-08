@@ -30,6 +30,10 @@
 
 ## Timeline
 
+### 01/08/2022
+
+- [How to quit like a boss](https://jmsbrdy.com/blog/leaving-spring/)
+
 ### 12/05/2021
 
 - [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
