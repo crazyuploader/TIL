@@ -61,6 +61,7 @@ _Recently Added/Updated TILs_
 - [OpenVPN Server](linux/openvpn-server.md)
 - [Ping over TCP](linux/ping-over-tcp.md)
 - [Pipe Password to Sudo](linux/pipe-password-to-sudo.md)
+- [Remove PPA From System](linux/remove-ppa-from-system.md)
 - [Remove User Password](linux/remove-user-password.md)
 - [Root Check in Scripts](linux/root-check.md)
 - [Run Go Binaries Without Installing Go](linux/run-go-binaries-without-installing-go.md)
