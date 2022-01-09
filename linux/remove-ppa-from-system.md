@@ -19,4 +19,4 @@ $ sudo apt-get install ppa-purge
 $ sudo ppa-purge ppa:example/ppa
 ```
 
-***Source: [ItsFoss](https://itsfoss.com/how-to-remove-or-delete-ppas-quick-tip/)***
+**_Source: [ItsFoss](https://itsfoss.com/how-to-remove-or-delete-ppas-quick-tip/)_**
