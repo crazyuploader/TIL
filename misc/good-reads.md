@@ -33,6 +33,7 @@
 ### 01/11/2022
 
 - [10 SCP Commands to Transfer Files/Folders in Linux](https://www.tecmint.com/scp-commands-examples)
+- [Modern Alternatives to Some of the Classic Linux Commands](https://itsfoss.com/legacy-linux-commands-alternatives/)
 
 ### 01/08/2022
 
