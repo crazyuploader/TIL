@@ -30,6 +30,10 @@
 
 ## Timeline
 
+### 01/11/2022
+
+- [10 SCP Commands to Transfer Files/Folders in Linux](https://www.tecmint.com/scp-commands-examples)
+
 ### 01/08/2022
 
 - [How to quit like a boss](https://jmsbrdy.com/blog/leaving-spring/)
