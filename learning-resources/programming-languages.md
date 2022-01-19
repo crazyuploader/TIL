@@ -18,6 +18,7 @@
 
 - [Essential Go](https://www.programming-books.io/essential/go/)
 - [Go Development](https://tutorialedge.net/golang/)
+- [Golang Programs](https://www.golangprograms.com/)
 - [Learn Go](https://learn-go.org/)
 - [Learn Go With Tests](https://github.com/quii/learn-go-with-tests)
 - [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
