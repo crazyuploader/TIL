@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Programming Languages](learning-resources/programming-languages.md)
 - [Remove PPA From System](linux/remove-ppa-from-system.md)
 - [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Print Go Version](go/print-go-version.md)
-- [Trim Whitespaces From String](go/trim-whitespaces-from-string.md)
 
 ---
 
