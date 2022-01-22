@@ -80,6 +80,7 @@ _Recently Added/Updated TILs_
 - [Installing Ansible On Alpine](linux/alpine/installing-ansible-on-alpine.md)
 - [Installing Dig On Alpine](linux/alpine/installing-dig-on-alpine.md)
 - [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
+- [Installing Python2 On Alpine](linux/alpine/installing-python2-on-alpine.md)
 
 ### ~ APT
 
