@@ -27,6 +27,7 @@
 - [460 Free Textbooks – Math, Science, and More [Online PDF for College and High School]](https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/)
 - [IPV4 vs IPV6 – What is the Difference Between IP Addressing Schemes?](https://www.freecodecamp.org/news/ipv4-vs-ipv6-what-is-the-difference-between-ip-addressing-schemes/)
 - [How to Transfer Files Between Servers in Linux using SCP and FTP](https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/)
+- [Working from Home – Tips to Help You Stay Productive](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/)
 
 ## Timeline
 
