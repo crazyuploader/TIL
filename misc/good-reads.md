@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 03/24/2022
+
+- [Comparing the best web servers: Caddy, Apache, and Nginx](https://blog.logrocket.com/comparing-best-web-servers-caddy-apache-nginx/)
+
 ### 02/10/2022
 
 - [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
