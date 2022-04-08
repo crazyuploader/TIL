@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 04/08/2022
+
+- [You may not need Cloudflare Tunnel. Linux is fine.](https://kiwiziti.com/~matt/wireguard/)
+
 ### 03/24/2022
 
 - [Comparing the best web servers: Caddy, Apache, and Nginx](https://blog.logrocket.com/comparing-best-web-servers-caddy-apache-nginx/)
