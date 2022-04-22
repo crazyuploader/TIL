@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 04/22/2022
+
+- [Python’s “Type Hints” are a bit of a disappointment to me](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html)
+
 ### 04/08/2022
 
 - [You may not need Cloudflare Tunnel. Linux is fine.](https://kiwiziti.com/~matt/wireguard/)
