@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 04/27/2022
+
+- [How to spin up a Linux virtual machine quickly with Boxes](https://www.zdnet.com/article/how-to-quickly-spin-up-a-linux-virtual-machine-with-boxes/)
+
 ### 04/22/2022
 
 - [Python’s “Type Hints” are a bit of a disappointment to me](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html)
