@@ -200,6 +200,7 @@ _Recently Added/Updated TILs_
 - [DevOps](learning-resources/devops.md)
 - [Git](learning-resources/git.md)
 - [Linux](learning-resources/linux.md)
+- [Networking](learning-resources/networking.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 
 ## ~ Misc
