@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 05/25/2022
+
+- [Fun with Numbers in chmod](https://ftp.kh.edu.tw/Linux/Redhat/en_6.2/doc/gsg/s1-navigating-chmodnum.htm)
+
 ### 04/27/2022
 
 - [How to spin up a Linux virtual machine quickly with Boxes](https://www.zdnet.com/article/how-to-quickly-spin-up-a-linux-virtual-machine-with-boxes/)
