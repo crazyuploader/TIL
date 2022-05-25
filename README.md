@@ -118,6 +118,7 @@ _Recently Added/Updated TILs_
 - [Grep Case Insensitive Search](linux/grep/grep-case-insensitive-search.md)
 - [Grep Count Occurance](linux/grep/grep-count-matches.md)
 - [Grep Invert Search](linux/grep/grep-invert-search.md)
+- [Grep On Continous Stream](linux/grep/grep-on-continous-stream.md)
 - [Grep Quiet Mode](linux/grep/grep-quiet-mode.md)
 - [Grep Search For Multiple Strings](linux/grep/grep-search-for-multiple-strings.md)
 - [Remove Empty Lines](linux/grep/remove-empty-lines.md)
