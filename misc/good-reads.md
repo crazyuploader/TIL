@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 06/09/2022
+
+- [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
+
 ### 05/25/2022
 
 - [Fun with Numbers in chmod](https://ftp.kh.edu.tw/Linux/Redhat/en_6.2/doc/gsg/s1-navigating-chmodnum.htm)
