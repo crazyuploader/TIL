@@ -2,9 +2,9 @@
 
 Typically, hostname of a system is stored in `/etc/hostname`, and we can change that by writing a new hostname in `/etc/hostname` file.
 
-### Steps
+## Method 1
 
-1. Edit `/etc/hostname` with any text editor such as nano or vim, and replace the exisitng hostname -
+1. Edit `/etc/hostname` with any text editor such as nano or vim, and replace the existing hostname -
 
 ```bash
 $ sudo nano /etc/hostname
@@ -14,6 +14,14 @@ $ sudo nano /etc/hostname
 
 ```bash
 $ sudo reboot
+```
+
+## Method 2
+
+Using `hostnamectl` command we can also set hostname, following is an example -
+
+```
+$ sudo hostnamectl set-hostname Dell-G15-5515
 ```
 
 To display current hostname, we can use `hostname` command.
