@@ -22,6 +22,7 @@ Using `hostnamectl` command we can also set hostname, following is an example -
 
 ```
 $ sudo hostnamectl set-hostname Dell-G15-5515
+$ sudo reboot
 ```
 
 To display current hostname, we can use `hostname` command.
