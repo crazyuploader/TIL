@@ -8,4 +8,4 @@ By default, `ccze` end up exiting immediately without leaving colorized output o
 $ cat /var/log/auth.log | ccze --mode=ansi
 ```
 
-***Source: [StackOverFlow](https://unix.stackexchange.com/a/278283)***
+**_Source: [StackOverFlow](https://unix.stackexchange.com/a/278283)_**

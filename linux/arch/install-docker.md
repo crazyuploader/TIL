@@ -20,4 +20,4 @@ $ sudo systemctl start docker.service
 $ sudo usermod -aG docker $USER
 ```
 
-***Source: [LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/install-docker-on-arch)***
+**_Source: [LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/install-docker-on-arch)_**

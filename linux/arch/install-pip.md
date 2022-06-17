@@ -2,7 +2,7 @@
 
 > pip - A tool for installing and managing Python packages
 
-To install Python package installer `pip` in Arch Linux, simply execute the following command - 
+To install Python package installer `pip` in Arch Linux, simply execute the following command -
 
 ## Pip for Python 3
 
@@ -16,4 +16,4 @@ $ sudo pacman -S python-pip
 $ sudo pacman -S python2-pip
 ```
 
-***Source: [LinuxHint](https://linuxhint.com/install_pip_archlinux/)***
+**_Source: [LinuxHint](https://linuxhint.com/install_pip_archlinux/)_**

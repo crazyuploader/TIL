@@ -6,5 +6,4 @@ We can install Docker Compose in Arch Linux by running -
 $ sudo pacman -S docker-compose
 ```
 
-***Source: [ArchLinux](https://archlinux.org/packages/community/x86_64/docker-compose/)***
-
+**_Source: [ArchLinux](https://archlinux.org/packages/community/x86_64/docker-compose/)_**

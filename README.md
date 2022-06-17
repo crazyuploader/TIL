@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_140 TILs so far._**
+**_145 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
-- [Grep Exact Match](linux/grep/grep-exact-match.md)
-- [Change Hostname Of A System](linux/change-hostname-of-a-system.md)
-- [Networking Cheatsheet](cheatsheets/networking-cheatsheet.md)
-- [Networking](learning-resources/networking.md)
-- [Grep On Continous Stream](linux/grep/grep-on-continous-stream.md)
+- [Ccze Work With Cat Command](linux/ccze-work-with-cat-command.md)
+- [Basic Auth](linux/wget/basic-auth.md)
+- [Install Docker Compose](linux/arch/install-docker-compose.md)
+- [Install Docker](linux/arch/install-docker.md)
+- [Install Pip](linux/arch/install-pip.md)
 
 ---
 
