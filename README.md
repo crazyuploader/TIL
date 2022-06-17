@@ -153,9 +153,13 @@ _Recently Added/Updated TILs_
 - [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
 - [Capture Traffic By IP Or A Network](linux/tcpdump/capture-traffic-by-an-ip-address-or-network.md)
 
-### Ubuntu
+### ~ Ubuntu
 
 - [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
+
+### ~ Wget
+
+- [Basic Authentication](linux/wget/basic-auth.md)
 
 ## ~ Ansible
 
