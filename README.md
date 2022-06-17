@@ -87,6 +87,10 @@ _Recently Added/Updated TILs_
 - [APT Fix Broken Packages](linux/apt/apt-fix-broken-packages.md)
 - [APT Hold Packages From Upgrade](linux/apt/apt-hold-packages-from-upgrades.md)
 
+### ~ Arch
+
+- [Install Pip](linux/arch/install-pip3.md)
+
 ### ~ BASH
 
 - [BashTOP Resource Monitor](linux/bash/bashtop-resource-monitor.md)
