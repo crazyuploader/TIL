@@ -28,7 +28,7 @@ _Recently Added/Updated TILs_
 - [Git](#git)
 - [Go](#go)
 - [Learning Resources](#learning-resources)
-- [Misc](#misc)
+- [Miscellaneous](#miscellaneous)
 - [Python](#python)
 - [ReactJS](#reactjs)
 - [VSCode](#vscode)
@@ -258,11 +258,11 @@ _Recently Added/Updated TILs_
 
 ### [Back To Top](#categories)
 
-## Misc
+## Miscellaneous
 
-- [Good Reads](misc/good-reads.md)
-- [Must Read Sites](misc/must-read-sites.md)
-- [Useful Sites](misc/useful-sites.md)
+- [Good Reads](miscellaneous/good-reads.md)
+- [Must Read Sites](miscellaneous/must-read-sites.md)
+- [Useful Sites](miscellaneous/useful-sites.md)
 
 ### [Back To Top](#categories)
 
