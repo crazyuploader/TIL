@@ -8,4 +8,4 @@ To only display the exact match, use the `-w` option with grep pattern.
 $ ip a | grep -w inet
 ```
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/19576374)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/19576374)_**
