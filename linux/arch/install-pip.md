@@ -1,6 +1,8 @@
 # Install Pip
 
-To install pip in Arch Linux, simply execute the following command - 
+> pip - A tool for installing and managing Python packages
+
+To install Python package installer `pip` in Arch Linux, simply execute the following command - 
 
 ## Pip for Python 3
 
