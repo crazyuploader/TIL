@@ -17,7 +17,7 @@ function count() {
 
 function recent() {
     sed -i '13,17d' README.md
-    RECENT_FILES="$(git log --author="me@devjugal.com" | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | uniq | head -n 5)"
+    RECENT_FILES="$(git log --author="me@devjugal.com" | grep commit | cut -d " " -f 2 | xargs git show --pretty="" --name-only | grep ".md" | grep -v "README.md" | grep -v "misc" | uniq | head -n 10)"
     STRING=""
     NUM=0
     LINE=13
@@ -25,11 +25,13 @@ function recent() {
         if [[ "${NUM}" -eq "5" ]]; then
             break
         fi
-        HEADING="$(head -n 1 < "${FILE}" | sed 's/# //')"
-        STRING="- [${HEADING}](${FILE})"
-        sed -i "${LINE}i ${STRING}" README.md
-        ((NUM = NUM + 1))
-        ((LINE = LINE + 1))
+        if [[ -f "${FILE}" ]]; then
+            HEADING="$(head -n 1 < "${FILE}" | sed 's/# //')"
+            STRING="- [${HEADING}](${FILE})"
+            sed -i "${LINE}i ${STRING}" README.md
+            ((NUM = NUM + 1))
+            ((LINE = LINE + 1))
+        fi
     done
 }
 
