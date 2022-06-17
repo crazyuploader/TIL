@@ -1,5 +1,7 @@
 # Install Docker
 
+> docker - Docker image and container command line interface
+
 To install Docker on Arch Linux, run following commands -
 
 ## Install Docker
