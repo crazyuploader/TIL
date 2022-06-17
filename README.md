@@ -31,6 +31,7 @@ _Recently Added/Updated TILs_
 - [Miscellaneous](#miscellaneous)
 - [Python](#python)
 - [ReactJS](#reactjs)
+- [Vagrant](#vagrant)
 - [VSCode](#vscode)
 - [WSL](#wsl)
 
@@ -300,6 +301,12 @@ _Recently Added/Updated TILs_
 ## ReactJS
 
 - [ReactJS Resources](reactjs/reactjs-resources.md)
+
+### [Back To Top](#categories)
+
+## Vagrant
+
+- [Increase RAM And CPU On Vagrant Machine](vagrant/increase-ram-and-cpu-on-vagrant-machine.md)
 
 ### [Back To Top](#categories)
 
