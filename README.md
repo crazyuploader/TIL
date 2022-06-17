@@ -20,23 +20,23 @@ _Recently Added/Updated TILs_
 
 ## Categories
 
-- [Linux](#-linux)
-- [Ansible](#-ansible)
-- [Caddy](#-caddy-server)
-- [Cheatsheets](#-cheatsheets)
-- [Docker](#-docker)
-- [Git](#-git)
-- [Go](#-go)
-- [Learning Resources](#-learning-resources)
-- [Misc](#-misc)
-- [Python](#-python)
-- [ReactJS](#-reactjs)
-- [VSCode](#-vscode)
-- [WSL](#-wsl)
+- [Linux](#linux)
+- [Ansible](#ansible)
+- [Caddy](#caddy-server)
+- [Cheatsheets](cheatsheets)
+- [Docker](docker)
+- [Git](git)
+- [Go](go)
+- [Learning Resources](learning-resources)
+- [Misc](misc)
+- [Python](python)
+- [ReactJS](reactjs)
+- [VSCode](vscode)
+- [WSL](wsl)
 
 ---
 
-## ~ Linux
+## Linux
 
 - [Add User To System](linux/add-user-to-system.md)
 - [Beautify Logs](linux/beautify-logs.md)
@@ -74,7 +74,9 @@ _Recently Added/Updated TILs_
 - [Tar Exclude Directories](linux/tar-exclude-directories.md)
 - [Tar Retain File Permissions](linux/tar-retain-file-permissions.md)
 
-### ~ Alpine
+### [Back To Top](#categories)
+
+### Alpine
 
 - [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
 - [Chaning Timezone On Alpine](linux/alpine/changing-timezone-on-alpine.md)
@@ -83,18 +85,24 @@ _Recently Added/Updated TILs_
 - [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
 - [Installing Python2 On Alpine](linux/alpine/installing-python2-on-alpine.md)
 
-### ~ APT
+### [Back To Top](#categories)
+
+### APT
 
 - [APT Fix Broken Packages](linux/apt/apt-fix-broken-packages.md)
 - [APT Hold Packages From Upgrade](linux/apt/apt-hold-packages-from-upgrades.md)
 
-### ~ Arch
+### [Back To Top](#categories)
+
+### Arch
 
 - [Install Docker Compose](linux/arch/docker-compose.md)
 - [Install Docker](linux/arch/install-docker.md)
 - [Install Pip](linux/arch/install-pip3.md)
 
-### ~ BASH
+### [Back To Top](#categories)
+
+### BASH
 
 - [BashTOP Resource Monitor](linux/bash/bashtop-resource-monitor.md)
 - [Case Statements](linux/bash/case-statements.md)
@@ -109,18 +117,24 @@ _Recently Added/Updated TILs_
 - [Shell Formatter](linux/bash/shell-formatter.md)
 - [Yes](linux/bash/yes.md)
 
-### ~ Curl
+### [Back To Top](#categories)
+
+### Curl
 
 - [Fix Failed Writing Body While Piping](linux/curl/fix-failed-writing-body-while-piping.md)
 
-### ~ GPG
+### [Back To Top](#categories)
+
+### GPG
 
 - [Fix "Inappropriate ioctl for device" Error](linux/gpg/fix-inappropriate-ioctl-for-device-error.md)
 - [GPG Import Keys](linux/gpg/gpg-import-keys.md)
 - [GPG Test](linux/gpg/gpg-test.md)
 - [GPG Trust Key](linux/gpg/gpg-trust-key.md)
 
-### ~ Grep
+### [Back To Top](#categories)
+
+### Grep
 
 - [Grep Case Insensitive Search](linux/grep/grep-case-insensitive-search.md)
 - [Grep Count Occurance](linux/grep/grep-count-matches.md)
@@ -131,46 +145,64 @@ _Recently Added/Updated TILs_
 - [Grep Search For Multiple Strings](linux/grep/grep-search-for-multiple-strings.md)
 - [Remove Empty Lines](linux/grep/remove-empty-lines.md)
 
-### ~ Networking
+### [Back To Top](#categories)
+
+### Networking
 
 - [Install Dig](linux/networking/install-dig.md)
 - [Install MTR](linux/networking/install-mtr.md)
 - [WireGuard Server](linux/networking/wireguard-server.md)
 
-### ~ SSH
+### [Back To Top](#categories)
+
+### SSH
 
 - [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
 - [Run A Local Script On Remote SSH Server](linux/ssh/run-a-local-script-on-remote-ssh-server.md)
 - [Screen](linux/ssh/screen.md)
 - [Tmux](linux/ssh/tmux.md)
 
-### ~ Systemd
+### [Back To Top](#categories)
+
+### Systemd
 
 - [Create A Service](linux/systemd/create-a-service.md)
 - [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
 
-### ~ Tcpdump
+### [Back To Top](#categories)
+
+### Tcpdump
 
 - [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
 - [Capture Traffic By IP Or A Network](linux/tcpdump/capture-traffic-by-an-ip-address-or-network.md)
 
-### ~ Ubuntu
+### [Back To Top](#categories)
+
+### Ubuntu
 
 - [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
 
-### ~ Wget
+### [Back To Top](#categories)
+
+### Wget
 
 - [Basic Authentication](linux/wget/basic-auth.md)
 
-## ~ Ansible
+### [Back To Top](#categories)
+
+## Ansible
 
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
 
-## ~ Caddy Server
+### [Back To Top](#categories)
+
+## Caddy Server
 
 - [Return Client IP Address As Plain Text](caddy/return-client-ip-address-as-plain-text.md)
 
-## ~ Cheatsheets
+### [Back To Top](#categories)
+
+## Cheatsheets
 
 - [Bash Cheatsheet](cheatsheets/bash-cheatsheet.md)
 - [Grep Cheatsheet](cheatsheets/grep-cheatsheet.md)
@@ -181,7 +213,9 @@ _Recently Added/Updated TILs_
 - [ReactJS Cheatsheet](cheatsheets/reactjs-cheatsheet.md)
 - [Regex Cheatsheet](cheatsheets/regex-cheatsheet.md)
 
-## ~ Docker
+### [Back To Top](#categories)
+
+## Docker
 
 - [Docker Exec](docker/docker-exec.md)
 - [Docker Publish Port](docker/docker-publish-port.md)
@@ -195,19 +229,25 @@ _Recently Added/Updated TILs_
 - [Run Docker without root](docker/run-docker-without-root.md)
 - [Setup Docker Buildx For Multi Arch Builds](docker/setup-docker-buildx-for-multi-arch-builds.md)
 
-## ~ Git
+### [Back To Top](#categories)
+
+## Git
 
 - [Change Last Commit Message](git/change-last-commit-message.md)
 - [Delete Tag](git/delete-tag.md)
 - [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
 
-## ~ Go
+### [Back To Top](#categories)
+
+## Go
 
 - [Print Go Version](go/print-go-version.md)
 - [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
 - [Trim Whitespaces From String](go/trim-whitespace-from-string.md)
 
-## ~ Learning Resources
+### [Back To Top](#categories)
+
+## Learning Resources
 
 - [Algorithms](learning-resources/algorithms.md)
 - [DevOps](learning-resources/devops.md)
@@ -216,13 +256,17 @@ _Recently Added/Updated TILs_
 - [Networking](learning-resources/networking.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 
-## ~ Misc
+### [Back To Top](#categories)
+
+## Misc
 
 - [Good Reads](misc/good-reads.md)
 - [Must Read Sites](misc/must-read-sites.md)
 - [Useful Sites](misc/useful-sites.md)
 
-## ~ Python
+### [Back To Top](#categories)
+
+## Python
 
 - [Add An Item To Dictionary](python/add-an-item-to-dictionary.md)
 - [Check If A Key Exists In Dictionary](python/check-if-a-key-exists-in-dictionary.md)
@@ -244,20 +288,30 @@ _Recently Added/Updated TILs_
 - [Split String with Delimiter](python/split-string-with-delimiter.md)
 - [Validate IP Address](python/validate-ip-address.md)
 
-### ~ Pipenv
+### [Back To Top](#categories)
+
+### Pipenv
 
 - [Install Dependencies System Wide](python/install-dependencies-system-wide.md)
 - [Remove Virtualenv](python/remove-virtualenv.md)
 
-## ~ ReactJS
+### [Back To Top](#categories)
+
+## ReactJS
 
 - [ReactJS Resources](reactjs/reactjs-resources.md)
 
-## ~ VSCode
+### [Back To Top](#categories)
+
+## VSCode
 
 - [Install VS Code on a Linux Server](vscode/install-vs-code-on-a-linux-server.md)
 
-## ~ WSL
+### [Back To Top](#categories)
+
+## WSL
 
 - [Convert WSL1 to WSL2](wsl/convert-wsl1-to-wsl2.md)
 - [Enable Systemd Support in WSL2](wsl/enable-systemd-support-in-wsl2.md)
+
+### [Back To Top](#categories)
