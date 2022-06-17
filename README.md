@@ -41,7 +41,7 @@ _Recently Added/Updated TILs_
 - [Add User To System](linux/add-user-to-system.md)
 - [Beautify Logs](linux/beautify-logs.md)
 - [Benchmark System](linux/benchmark-system.md)
-- [Ccze Work With Cat Command](linux/ccze-work-with-cat-command.md)
+- [Ccze Scrolling Output](linux/ccze-scrolling-output.md)
 - [Change Default Shell](linux/change-default-shell.md)
 - [Change Hostname Of A system](linux/change-hostname-of-a-system.md)
 - [Changing User Password In Shell Script](linux/changing-user-password-in-shell-script.md)
