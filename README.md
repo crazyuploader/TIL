@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Install Docker](linux/arch/install-docker.md)
 - [Ccze Work With Cat Command](linux/ccze-work-with-cat-command.md)
 - [Basic Auth](linux/wget/basic-auth.md)
 - [Install Docker Compose](linux/arch/install-docker-compose.md)
 - [Install Docker](linux/arch/install-docker.md)
-- [Install Pip](linux/arch/install-pip.md)
 
 ---
 
