@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_145 TILs so far._**
+**_146 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Increase RAM And CPU On Vagrant Machine](vagrant/increase-ram-and-cpu-on-vagrant-machine.md)
 - [Ccze Scrolling Output](linux/ccze-scrolling-output.md)
 - [Install Docker](linux/arch/install-docker.md)
 - [Basic Auth](linux/wget/basic-auth.md)
 - [Install Docker Compose](linux/arch/install-docker-compose.md)
-- [Install Docker](linux/arch/install-docker.md)
 
 ---
 

@@ -40,4 +40,4 @@ $ vagrant reload
 
 RAM and CPU should be configured, we can confirm with `free -m` and `nproc` command by running in Vagrant Machine.
 
-***Source: [OSTechnix](https://ostechnix.com/how-to-increase-memory-and-cpu-on-vagrant-machine/)***
+**_Source: [OSTechnix](https://ostechnix.com/how-to-increase-memory-and-cpu-on-vagrant-machine/)_**
