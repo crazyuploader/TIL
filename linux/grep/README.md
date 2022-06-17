@@ -16,4 +16,3 @@ grep is a command-line utility for searching plain-text data sets for lines that
 - [Grep Quiet Mode](grep-quiet-mode.md)
 - [Grep Search For Multiple Strings](grep-search-for-multiple-strings.md)
 - [Remove Empty Lines](remove-empty-lines.md)
-
