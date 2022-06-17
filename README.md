@@ -89,6 +89,7 @@ _Recently Added/Updated TILs_
 
 ### ~ Arch
 
+- [Install Docker](linux/arch/install-docker.md)
 - [Install Pip](linux/arch/install-pip3.md)
 
 ### ~ BASH
