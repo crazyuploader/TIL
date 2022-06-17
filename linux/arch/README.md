@@ -8,6 +8,6 @@ Arch Linux is an independently developed, x86-64 general-purpose Linux distribut
 
 ## TIL(s)
 
-- [Install Docker Compose](docker-compose.md)
+- [Install Docker Compose](install-docker-compose.md)
 - [Install Docker](install-docker.md)
-- [Install Pip](install-pip3.md)
+- [Install Pip](install-pip.md)

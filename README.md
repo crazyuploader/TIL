@@ -97,9 +97,9 @@ _Recently Added/Updated TILs_
 
 ### [Arch Linux](linux/arch/README.md)
 
-- [Install Docker Compose](linux/arch/docker-compose.md)
+- [Install Docker Compose](linux/arch/install-docker-compose.md)
 - [Install Docker](linux/arch/install-docker.md)
-- [Install Pip](linux/arch/install-pip3.md)
+- [Install Pip](linux/arch/install-pip.md)
 
 ### [Back To Top](#categories)
 
@@ -110,7 +110,7 @@ _Recently Added/Updated TILs_
 - [Concatenate Strings](linux/bash/concatenate-strings.md)
 - [Custom Shell Prompt](linux/bash/custom-shell-prompt.md)
 - [Length of String in Variable](linux/bash/length-of-string-in-variable.md)
-- [Test Regular Expression Against A String](test-regular-expression-against-a-string.md)
+- [Test Regular Expression Against A String](linux/bash/test-regular-expression-against-a-string.md)
 - [Pass Arguments while Piping](linux/bash/pass-arguments-while-piping.md)
 - [Read Command Output In Reverse Order](linux/bash/read-command-output-in-reverse-order.md)
 - ["set -e" In Scripts](linux/bash/set-e-in-scripts.md)
@@ -175,7 +175,7 @@ _Recently Added/Updated TILs_
 ### [Tcpdump](linux/tcpdump/README.md)
 
 - [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
-- [Capture Traffic By IP Or A Network](linux/tcpdump/capture-traffic-by-an-ip-address-or-network.md)
+- [Capture Traffic By IP Or A Network](linux/tcpdump/capture-traffic-by-an-ip-address-or-a-network.md)
 
 ### [Back To Top](#categories)
 
@@ -244,7 +244,7 @@ _Recently Added/Updated TILs_
 
 - [Print Go Version](go/print-go-version.md)
 - [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
-- [Trim Whitespaces From String](go/trim-whitespace-from-string.md)
+- [Trim Whitespaces From String](go/trim-whitespaces-from-string.md)
 
 ### [Back To Top](#categories)
 
@@ -293,8 +293,8 @@ _Recently Added/Updated TILs_
 
 ### [Pipenv](python/pipenv/README.md)
 
-- [Install Dependencies System Wide](python/install-dependencies-system-wide.md)
-- [Remove Virtualenv](python/remove-virtualenv.md)
+- [Install Dependencies System Wide](python/pipenv/install-dependencies-system-wide.md)
+- [Remove Virtualenv](python/pipenv/remove-virtualenv.md)
 
 ### [Back To Top](#categories)
 
