@@ -31,6 +31,11 @@
 
 ## Timeline
 
+### 06/27/2022
+
+- [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+- [DevOps is a failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
+
 ### 06/09/2022
 
 - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
