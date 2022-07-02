@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 07/02/2022
+
+- [How to connect to a WireGuard VPN server from a Docker container](https://www.pedrolamas.com/2020/11/20/how-to-connect-to-a-wireguard-vpn-server-from-a-docker-container/)
+
 ### 06/27/2022
 
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
