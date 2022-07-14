@@ -26,6 +26,7 @@ _Recently Added/Updated TILs_
 - [Cheatsheets](#cheatsheets)
 - [Docker](#docker)
 - [Git](#git)
+- [Github](#github)
 - [Go](#go)
 - [Learning Resources](#learning-resources)
 - [Miscellaneous](#miscellaneous)
@@ -237,6 +238,12 @@ _Recently Added/Updated TILs_
 - [Change Last Commit Message](git/change-last-commit-message.md)
 - [Delete Tag](git/delete-tag.md)
 - [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
+
+### [Back To Top](#categories)
+
+## [GitHub](github/README.md)
+
+### [GitHub Actions](github/actions/README.md)
 
 ### [Back To Top](#categories)
 
