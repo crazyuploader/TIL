@@ -21,4 +21,4 @@ steps:
 
 **Note:** Can also use `${{ env.GIT_VERSION }}` format to get the environment variable value.
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/57969570)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/57969570)_**
