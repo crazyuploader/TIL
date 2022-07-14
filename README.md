@@ -219,6 +219,7 @@ _Recently Added/Updated TILs_
 
 ## [Docker](docker/README.md)
 
+- [Docker Build Multiple Tags At Once](docker/docker-build-multiple-tags-at-once.md)
 - [Docker Exec](docker/docker-exec.md)
 - [Docker Publish Port](docker/docker-publish-port.md)
 - [Docker Run Without Cache](docker/docker-run-without-cache.md)
