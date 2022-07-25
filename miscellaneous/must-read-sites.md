@@ -10,3 +10,4 @@
 ## Linux
 
 - [LinuxHandbook](https://linuxhandbook.com/)
+- [howtouselinux](https://www.howtouselinux.com/)
