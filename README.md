@@ -40,6 +40,7 @@ _Recently Added/Updated TILs_
 
 ## [Linux](linux/README.md)
 
+- [Add Swap Space To System](linux/add-swap-space-to-system.md)
 - [Add User To System](linux/add-user-to-system.md)
 - [Beautify Logs](linux/beautify-logs.md)
 - [Benchmark System](linux/benchmark-system.md)

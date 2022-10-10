@@ -20,6 +20,7 @@
 
 ## TIL(s)
 
+- [Add Swap Space To System](add-swap-space-to-system.md)
 - [Add User To System](add-user-to-system.md)
 - [Beautify Logs](beautify-logs.md)
 - [Benchmark System](benchmark-system.md)
