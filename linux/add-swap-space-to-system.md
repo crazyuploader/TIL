@@ -34,4 +34,4 @@ $ sudo swapon --show
 $ echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
 ```
 
-***Source: [How To Add Swap Space on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04)***
+**_Source: [How To Add Swap Space on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04)_**
