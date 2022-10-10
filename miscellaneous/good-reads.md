@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 10/10/2022
+
+- [why 23.976 and not 24 fps??](https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454)
+
 ### 07/22/2022
 
 - [A Little Story About the `yes` Unix Command](https://endler.dev/2017/yes/)
