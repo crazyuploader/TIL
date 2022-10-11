@@ -50,4 +50,4 @@ Or QT Version
 sudo zypper install pavucontrol-gt
 ```
 
-***Source: [AddictiveTips](https://www.addictivetips.com/ubuntu-linux-tips/manage-audio-devices-on-linux-pavucontrol/)***
+**_Source: [AddictiveTips](https://www.addictivetips.com/ubuntu-linux-tips/manage-audio-devices-on-linux-pavucontrol/)_**
