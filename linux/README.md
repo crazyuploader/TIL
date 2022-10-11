@@ -39,6 +39,7 @@
 - [Get Arch Of System](get-arch-of-system.md)
 - [Increase Limit of Inotify Watchers](increase-limit-of-inotify-watchers.md)
 - [Install Latest NodeJS In Linux](install-latest-nodejs-in-linux.md)
+- [Install Pavucontrol](install-pavucontrol.md)
 - [Install Postman](install-postman.md)
 - [Kill A Process In Linux](kill-a-process-in-linux.md)
 - [Mount Partition On System Startup](mount-partition-on-system-startup.md)
