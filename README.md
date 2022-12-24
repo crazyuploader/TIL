@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_150 TILs so far._**
+**_151 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [Update Project Libraries To Latest](go/update-project-libraries-to-latest.md)
 - [Add Swap Space To System](linux/add-swap-space-to-system.md)
 - [Install Pavucontrol](linux/install-pavucontrol.md)
 - [Add Swap Space To System](linux/add-swap-space-to-system.md)
 - [Docker Build Multiple Tags At Once](docker/docker-build-multiple-tags-at-once.md)
-- [Setting An Environment Variable](github/actions/setting-an-environment-variable.md)
 
 ---
 
