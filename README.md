@@ -255,6 +255,7 @@ _Recently Added/Updated TILs_
 - [Print Go Version](go/print-go-version.md)
 - [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
 - [Trim Whitespaces From String](go/trim-whitespaces-from-string.md)
+- [Update Project Libraries To Latest](go/update-project-libraries-to-latest.md)
 
 ### [Back To Top](#categories)
 
