@@ -9,3 +9,4 @@ Ubuntu is a Linux distribution based on Debian and composed mostly of free and o
 ## TIL(s)
 
 - [Install HMAC256 On Ubuntu](install-hmac256-on-ubuntu.md)
+- [Obtaining a List of Ubuntu Repository Mirror Servers](obtaining-a-list-of-ubuntu-repository-mirror-servers.md)
