@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Programming Languages](learning-resources/programming-languages.md)
 - [Obtaining a List of Ubuntu Repository Mirror Servers](linux/ubuntu/obtaining-a-list-of-ubuntu-repository-mirror-servers.md)
 - [Update Project Libraries To Latest](go/update-project-libraries-to-latest.md)
 - [Add Swap Space To System](linux/add-swap-space-to-system.md)
 - [Install Pavucontrol](linux/install-pavucontrol.md)
-- [Add Swap Space To System](linux/add-swap-space-to-system.md)
 
 ---
 
