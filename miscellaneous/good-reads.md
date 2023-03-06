@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 03/06/2023
+
+- [Google Search Is Dying](https://dkb.blog/p/google-search-is-dying)
+
 ### 11/01/2022
 
 - [Why you should not use JWT](https://apibakery.com/blog/tech/no-jwt/)
