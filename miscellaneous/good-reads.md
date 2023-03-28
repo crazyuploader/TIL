@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 03/28/2023
+
+- [Will the AI Steal All of Our Jobs?](https://madeincosmos.substack.com/p/will-the-ai-steal-all-of-our-jobs)
+
 ### 03/06/2023
 
 - [Google Search Is Dying](https://dkb.blog/p/google-search-is-dying)
