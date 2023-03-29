@@ -34,6 +34,7 @@
 ### 03/28/2023
 
 - [Will the AI Steal All of Our Jobs?](https://madeincosmos.substack.com/p/will-the-ai-steal-all-of-our-jobs)
+- [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 
 ### 03/06/2023
 
