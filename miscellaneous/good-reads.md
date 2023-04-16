@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 04/16/2023
+
+- [Easily Accessing All Your Stuff with a Zero-Trust Mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
+
 ### 03/28/2023
 
 - [Will the AI Steal All of Our Jobs?](https://madeincosmos.substack.com/p/will-the-ai-steal-all-of-our-jobs)
