@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 06/27/2023
+
+- [Red Hat ends the RHEL clones’ free lunch](https://www.arnnet.com.au/article/707798/red-hat-ends-rhel-clones-free-lunch/)
+
 ### 05/31/2023
 
 - [Disposable Cloud Environments With Vagrant and Tailscale](https://tersesystems.com/blog/2023/05/03/disposable-cloud-environments-with-virtualbox-and-tailscale/)
