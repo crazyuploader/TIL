@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 07/12/2023
+
+- [Advanced Git Features You Didn’t Know You Needed](https://martinheinz.dev/blog/43)
+
 ### 06/27/2023
 
 - [Red Hat ends the RHEL clones’ free lunch](https://www.arnnet.com.au/article/707798/red-hat-ends-rhel-clones-free-lunch/)
