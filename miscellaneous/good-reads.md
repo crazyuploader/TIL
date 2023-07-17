@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 07/17/2023
+
+- [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
+
 ### 07/12/2023
 
 - [Advanced Git Features You Didn’t Know You Needed](https://martinheinz.dev/blog/43)
