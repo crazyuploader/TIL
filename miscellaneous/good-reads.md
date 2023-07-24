@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 07/24/2023
+
+- [Which VPN Providers Really Take Privacy Seriously in 2023?](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
+
 ### 07/17/2023
 
 - [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
