@@ -4,9 +4,9 @@
 
 Go is an open source programming language supported by Google.
 
-## [Official Documentation](https://go.dev/doc/)
+### [Official Documentation](https://go.dev/doc/)
 
-### TIL(s)
+## TIL(s)
 
 - [List All Possible GOOS And GOARCH](list-all-goos-and-goarch.md)
 - [Print Go Version](print-go-version.md)
