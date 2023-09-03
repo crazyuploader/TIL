@@ -253,6 +253,7 @@ _Recently Added/Updated TILs_
 
 ## [Go](go/README.md)
 
+- [List All Possible GOOS And GOARCH](go/list-all-goos-and-goarch.md)
 - [Print Go Version](go/print-go-version.md)
 - [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
 - [Trim Whitespaces From String](go/trim-whitespaces-from-string.md)
