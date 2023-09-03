@@ -12,4 +12,4 @@ GnuPG allows you to encrypt and sign your data and communications; it features a
 - [GPG Import Keys](gpg-import-keys.md)
 - [GPG Test](gpg-test.md)
 - [GPG Trust Key](gpg-trust-key.md)
-- [GPG Verify Signature](gpg-verify.md)
+- [GPG Verify Signature](gpg-verify-signature.md)
