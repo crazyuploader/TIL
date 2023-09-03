@@ -22,4 +22,4 @@ If the signature is appended to the file (as created with the --sign option) -
 $ gpg --verify myfile.tar.gz.gpg
 ```
 
-***Source: [WikiHow](https://www.wikihow.com/Verify-a-GPG-Signature)***
+**_Source: [WikiHow](https://www.wikihow.com/Verify-a-GPG-Signature)_**

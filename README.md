@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_153 TILs so far._**
+**_154 TILs so far._**
 
 ---
 
 _Recently Added/Updated TILs_
 
+- [GPG Verify Signature](linux/gpg/gpg-verify-signature.md)
 - [List All Possible GOOS And GOARCH In Go](go/list-all-possible-goos-and-goarch.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Obtaining a List of Ubuntu Repository Mirror Servers](linux/ubuntu/obtaining-a-list-of-ubuntu-repository-mirror-servers.md)
 - [Update Project Libraries To Latest](go/update-project-libraries-to-latest.md)
-- [Add Swap Space To System](linux/add-swap-space-to-system.md)
 
 ---
 
