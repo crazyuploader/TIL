@@ -135,6 +135,7 @@ _Recently Added/Updated TILs_
 - [GPG Import Keys](linux/gpg/gpg-import-keys.md)
 - [GPG Test](linux/gpg/gpg-test.md)
 - [GPG Trust Key](linux/gpg/gpg-trust-key.md)
+- [GPG Verify Signature](linux/gpg/gpg-verify-signature.md)
 
 ### [Back To Top](#categories)
 
