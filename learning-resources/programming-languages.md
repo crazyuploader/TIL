@@ -18,6 +18,7 @@
 
 - [Essential Go](https://www.programming-books.io/essential/go/)
 - [Go Development](https://tutorialedge.net/golang/)
+- [Go from the beginning](https://softchris.github.io/golang-book/)
 - [Golang Docs](https://golangdocs.com/)
 - [Golang Programs](https://www.golangprograms.com/)
 - [GOSAMPLES](https://gosamples.dev/)
