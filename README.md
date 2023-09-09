@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Programming Languages](learning-resources/programming-languages.md)
 - [GPG Verify Signature](linux/gpg/gpg-verify-signature.md)
 - [List All Possible GOOS And GOARCH In Go](go/list-all-possible-goos-and-goarch.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 - [Obtaining a List of Ubuntu Repository Mirror Servers](linux/ubuntu/obtaining-a-list-of-ubuntu-repository-mirror-servers.md)
-- [Update Project Libraries To Latest](go/update-project-libraries-to-latest.md)
 
 ---
 
