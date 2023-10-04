@@ -31,6 +31,10 @@
 
 ## Timeline
 
+### 10/04/2023
+
+- [Heating and cooling Raspberry Pi 5](https://www.raspberrypi.com/news/heating-and-cooling-raspberry-pi-5/)
+
 ### 07/24/2023
 
 - [Which VPN Providers Really Take Privacy Seriously in 2023?](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
