@@ -34,6 +34,7 @@
 ### 10/04/2023
 
 - [Heating and cooling Raspberry Pi 5](https://www.raspberrypi.com/news/heating-and-cooling-raspberry-pi-5/)
+- [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 
 ### 07/24/2023
 
