@@ -6,4 +6,4 @@ We can import GPG keys by running following command -
 $ gpg --import {KEY_FILE_NAME}
 ```
 
-**_Source: [Unix StackExchange](https://unix.stackexchange.com/a/184952)_**
+**_Source: [Unix - StackExchange](https://unix.stackexchange.com/a/184952)_**

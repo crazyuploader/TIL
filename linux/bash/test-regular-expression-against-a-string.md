@@ -15,4 +15,4 @@ $ if [[ "Hello" =~ "1" ]]; then echo "True"; else echo "False"; fi
 False
 ```
 
-**_Source: [StackOverFlow](https://unix.stackexchange.com/a/340485)_**
+**_Source: [Unix - StackExchange](https://unix.stackexchange.com/a/340485)_**
