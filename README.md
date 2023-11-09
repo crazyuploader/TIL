@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 _Recently Added/Updated TILs_
 
+- [Determine Which Process Is Using a File](linux/determine-which-process-is-using-a-file.md)
 - [Test Regular Expression Against A String](linux/bash/test-regular-expression-against-a-string.md)
 - [Ccze Scrolling Output](linux/ccze-scrolling-output.md)
 - [Change Default Shell](linux/change-default-shell.md)
 - [GPG Import Keys](linux/gpg/gpg-import-keys.md)
-- [GPG Trust Key](linux/gpg/gpg-trust-key.md)
 
 ---
 
