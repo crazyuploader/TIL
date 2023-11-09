@@ -2,6 +2,8 @@
 
 We can use `lsof` command to determine which process is using a file.
 
+## Usage
+
 ```bash
 $ lsof file/path
 ```
