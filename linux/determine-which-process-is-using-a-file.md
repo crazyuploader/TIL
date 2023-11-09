@@ -6,4 +6,4 @@ We can use `lsof` command to determine which process is using a file.
 $ lsof file/path
 ```
 
-***Source: [Unix - StackExchange](https://unix.stackexchange.com/a/13791)***
+**_Source: [Unix - StackExchange](https://unix.stackexchange.com/a/13791)_**
