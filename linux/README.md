@@ -33,6 +33,7 @@
 - [Check If A User Exists](check-if-a-user-exists.md)
 - [Check Open Port](check-open-port.md)
 - [Create Symbolic Links](create-symbolic-links.md)
+- [Determine Which Process Is Using a File](determine-which-process-is-using-a-file.md)
 - [Enable SSH Server](enable-ssh-server.md)
 - [Fix Permission For Newly Created Partitions](fix-permission-for-newly-created-partitions.md)
 - [Fix Windows And Linux Different Time Issue](fix-windows-and-linux-different-time-issue.md)
