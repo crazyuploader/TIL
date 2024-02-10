@@ -7,3 +7,4 @@ cURL is a computer software project providing a library and command-line tool fo
 ## TIL(s)
 
 - [Fix Failed Writing Body While Piping](fix-failed-writing-body-while-piping.md)
+- [Use Proxy Server in cURL](use-proxy-server-in-curl.md)

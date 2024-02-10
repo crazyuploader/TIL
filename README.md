@@ -127,6 +127,7 @@ _Recently Added/Updated TILs_
 ### [Curl](linux/curl/README.md)
 
 - [Fix Failed Writing Body While Piping](linux/curl/fix-failed-writing-body-while-piping.md)
+- [Use Proxy Server in cURL](linux/curl/use-proxy-server-in-curl.md)
 
 ### [Back To Top](#categories)
 
