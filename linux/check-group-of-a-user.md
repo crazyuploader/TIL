@@ -21,4 +21,4 @@ jungle@Server01:~$ groups jungle
 jungle : jungle sudo docker
 ```
 
-***Source: [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-check-the-groups-a-user-belongs-to-in-linux/)***
+**_Source: [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-check-the-groups-a-user-belongs-to-in-linux/)_**
