@@ -28,6 +28,7 @@
 - [Change Default Shell](change-default-shell.md)
 - [Change Hostname Of A system](change-hostname-of-a-system.md)
 - [Changing User Password In Shell Script](changing-user-password-in-shell-script.md)
+- [Check Group Of A User](check-group-of-a-user.md)
 - [Check If A Package Is Installed Or Not](check-if-a-package-is-installed-or-not.md)
 - [Check If A Port Is In Use](check-if-a-port-is-in-use.md)
 - [Check If A User Exists](check-if-a-user-exists.md)
