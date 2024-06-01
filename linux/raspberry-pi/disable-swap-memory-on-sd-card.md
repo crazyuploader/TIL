@@ -34,4 +34,4 @@ sudo apt purge dphys-swapfile -y
 free -mh
 ```
 
-***Source: [Pi Australia](https://raspberry.piaustralia.com.au/blogs/news/how-to-disable-swap-on-raspberry-pi-os-and-use-a-usb-drive-instead)***
+**_Source: [Pi Australia](https://raspberry.piaustralia.com.au/blogs/news/how-to-disable-swap-on-raspberry-pi-os-and-use-a-usb-drive-instead)_**

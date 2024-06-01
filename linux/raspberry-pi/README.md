@@ -4,4 +4,4 @@
 
 ## TIL(s)
 
-* [Disable Swap Memory on SD Card](disable-swap-memory-on-sd-card.md)
+- [Disable Swap Memory on SD Card](disable-swap-memory-on-sd-card.md)
