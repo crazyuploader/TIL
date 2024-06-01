@@ -8,7 +8,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ---
 
-_Recently Added/Updated TILs_
+## Recently Added/Updated TILs
 
 - [Check Group Of A User](linux/check-group-of-a-user.md)
 - [Use Proxy Server in cURL](linux/curl/use-proxy-server-in-curl.md)
@@ -160,6 +160,10 @@ _Recently Added/Updated TILs_
 - [Install Dig](linux/networking/install-dig.md)
 - [Install MTR](linux/networking/install-mtr.md)
 - [WireGuard Server](linux/networking/wireguard-server.md)
+
+### [Raspberry Pi](linux/raspberry-pi/README.md)
+
+- [Disable Swap Memory on SD Card](linux/raspberry-pi/disable-swap-memory-on-sd-card.md)
 
 ### [Back To Top](#categories)
 

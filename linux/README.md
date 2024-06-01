@@ -12,6 +12,7 @@
 - [GPG](gpg/README.md)
 - [Grep](grep/README.md)
 - [Networking](networking/README.md)
+- [Raspberry Pi](raspberry-pi/README.md)
 - [SSH](ssh/README.md)
 - [Systemd](systemd/README.md)
 - [Tcpdump](tcpdump/README.md)
