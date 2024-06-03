@@ -192,6 +192,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ### [Ubuntu Linux](linux/ubuntu/README.md)
 
+- [Get Clipboard History](linux/ubuntu/get-clipboard-history.md)
 - [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
 - [Obtaining a List of Ubuntu Repository Mirror Servers](linux/ubuntu/obtaining-a-list-of-ubuntu-repository-mirror-servers.md)
 
