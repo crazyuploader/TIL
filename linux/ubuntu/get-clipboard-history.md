@@ -8,4 +8,4 @@ We can use CopyQ software to have the clipboard history feature on Ubuntu.
 sudo apt-get install copyq
 ```
 
-***Source: [Ask Ubuntu](https://askubuntu.com/a/1376944)***
+**_Source: [Ask Ubuntu](https://askubuntu.com/a/1376944)_**
