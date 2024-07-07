@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_159 TILs so far._**
+**_160 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Dnf Cheatsheet](cheatsheets/dnf-cheatsheet.md)
 - [Get Clipboard History](linux/ubuntu/get-clipboard-history.md)
 - [Disable Swap Memory on SD Card](linux/raspberry-pi/disable-swap-memory-on-sd-card.md)
 - [Check Group Of A User](linux/check-group-of-a-user.md)
 - [Use Proxy Server in cURL](linux/curl/use-proxy-server-in-curl.md)
-- [Determine Which Process Is Using a File](linux/determine-which-process-is-using-a-file.md)
 
 ---
 
