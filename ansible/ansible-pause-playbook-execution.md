@@ -8,7 +8,6 @@ Sometimes, we need to pause the execution of an Ansible Playbook to allow for ma
 - name: A reminder to make sure the user has closed all the apps before continuing
   ansible.builtin.pause:
     prompt: "Make sure there is no application running on the server!"
-
 ```
 
 ### Example 2: Pause for a Fixed Duration
@@ -17,7 +16,6 @@ Sometimes, we need to pause the execution of an Ansible Playbook to allow for ma
 - name: Pause for 5 minutes to let the database server settle
   ansible.builtin.pause:
     minutes: 5
-
 ```
 
 ### Example 3: Pause and Await User Confirmation
@@ -27,7 +25,6 @@ Sometimes, we need to pause the execution of an Ansible Playbook to allow for ma
   ansible.builtin.pause:
     prompt: "Have you backed up all necessary data? Type 'yes' to continue."
     echo: true
-
 ```
 
-***Reference: [Pause Module - Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/pause_module.html)***
+**_Reference: [Pause Module - Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/pause_module.html)_**
