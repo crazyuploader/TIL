@@ -80,7 +80,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Tar Exclude Directories](linux/tar-exclude-directories.md)
 - [Tar Retain File Permissions](linux/tar-retain-file-permissions.md)
 
-
 ### [Alpine Linux](linux/alpine/README.md)
 
 - [Adding User On Alpine](linux/alpine/adding-user-on-alpine.md)
@@ -90,19 +89,16 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Installing Pip On Alpine](linux/alpine/installing-pip-on-alpine.md)
 - [Installing Python2 On Alpine](linux/alpine/installing-python2-on-alpine.md)
 
-
 ### [Apt](linux/apt/README.md)
 
 - [APT Fix Broken Packages](linux/apt/apt-fix-broken-packages.md)
 - [APT Hold Packages From Upgrade](linux/apt/apt-hold-packages-from-upgrades.md)
-
 
 ### [Arch Linux](linux/arch/README.md)
 
 - [Install Docker Compose](linux/arch/install-docker-compose.md)
 - [Install Docker](linux/arch/install-docker.md)
 - [Install Pip](linux/arch/install-pip.md)
-
 
 ### [BASH](linux/bash/README.md)
 
@@ -119,12 +115,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Shell Formatter](linux/bash/shell-formatter.md)
 - [Yes](linux/bash/yes.md)
 
-
 ### [Curl](linux/curl/README.md)
 
 - [Fix Failed Writing Body While Piping](linux/curl/fix-failed-writing-body-while-piping.md)
 - [Use Proxy Server in cURL](linux/curl/use-proxy-server-in-curl.md)
-
 
 ### [GPG](linux/gpg/README.md)
 
@@ -133,7 +127,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [GPG Test](linux/gpg/gpg-test.md)
 - [GPG Trust Key](linux/gpg/gpg-trust-key.md)
 - [GPG Verify Signature](linux/gpg/gpg-verify-signature.md)
-
 
 ### [Grep](linux/grep/README.md)
 
@@ -146,7 +139,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Grep Search For Multiple Strings](linux/grep/grep-search-for-multiple-strings.md)
 - [Remove Empty Lines](linux/grep/remove-empty-lines.md)
 
-
 ### [Networking](linux/networking/README.md)
 
 - [Install Dig](linux/networking/install-dig.md)
@@ -157,7 +149,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Disable Swap Memory on SD Card](linux/raspberry-pi/disable-swap-memory-on-sd-card.md)
 
-
 ### [SSH](linux/ssh/README.md)
 
 - [Reconnect To a Disconnected SSH Session](linux/ssh/reconnect-to-a-disconnected-ssh-session.md)
@@ -165,18 +156,15 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Screen](linux/ssh/screen.md)
 - [Tmux](linux/ssh/tmux.md)
 
-
 ### [Systemd](linux/systemd/README.md)
 
 - [Create A Service](linux/systemd/create-a-service.md)
 - [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
 
-
 ### [Tcpdump](linux/tcpdump/README.md)
 
 - [Capture ICMP Packets](linux/tcpdump/capture-icmp-packets.md)
 - [Capture Traffic By IP Or A Network](linux/tcpdump/capture-traffic-by-an-ip-address-or-a-network.md)
-
 
 ### [Ubuntu Linux](linux/ubuntu/README.md)
 
@@ -184,21 +172,17 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Install HMAC256 On Ubuntu](linux/ubuntu/install-hmac256-on-ubuntu.md)
 - [Obtaining a List of Ubuntu Repository Mirror Servers](linux/ubuntu/obtaining-a-list-of-ubuntu-repository-mirror-servers.md)
 
-
 ### [Wget](linux/wget/README.md)
 
 - [Basic Authentication](linux/wget/basic-auth.md)
-
 
 ## [Ansible](ansible/README.md)
 
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
 
-
 ## [Caddy Server](caddy/README.md)
 
 - [Return Client IP Address As Plain Text](caddy/return-client-ip-address-as-plain-text.md)
-
 
 ## [Cheatsheets](cheatsheets/README.md)
 
@@ -210,7 +194,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Python Cheatsheet](cheatsheets/python-cheatsheet.md)
 - [ReactJS Cheatsheet](cheatsheets/reactjs-cheatsheet.md)
 - [Regex Cheatsheet](cheatsheets/regex-cheatsheet.md)
-
 
 ## [Docker](docker/README.md)
 
@@ -227,18 +210,15 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Run Docker without root](docker/run-docker-without-root.md)
 - [Setup Docker Buildx For Multi Arch Builds](docker/setup-docker-buildx-for-multi-arch-builds.md)
 
-
 ## [Git](git/README.md)
 
 - [Change Last Commit Message](git/change-last-commit-message.md)
 - [Delete Tag](git/delete-tag.md)
 - [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
 
-
 ## [GitHub](github/README.md)
 
 ### [GitHub Actions](github/actions/README.md)
-
 
 ## [Go](go/README.md)
 
@@ -247,7 +227,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)
 - [Trim Whitespaces From String](go/trim-whitespaces-from-string.md)
 - [Update Project Libraries To Latest](go/update-project-libraries-to-latest.md)
-
 
 ## [Learning Resources](learning-resources/README.md)
 
@@ -258,13 +237,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Networking](learning-resources/networking.md)
 - [Programming Languages](learning-resources/programming-languages.md)
 
-
 ## [Miscellaneous](miscellaneous/README.md)
 
 - [Good Reads](miscellaneous/good-reads.md)
 - [Must Read Sites](miscellaneous/must-read-sites.md)
 - [Useful Sites](miscellaneous/useful-sites.md)
-
 
 ## [Python](python/README.md)
 
@@ -288,30 +265,24 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Split String with Delimiter](python/split-string-with-delimiter.md)
 - [Validate IP Address](python/validate-ip-address.md)
 
-
 ### [Pipenv](python/pipenv/README.md)
 
 - [Install Dependencies System Wide](python/pipenv/install-dependencies-system-wide.md)
 - [Remove Virtualenv](python/pipenv/remove-virtualenv.md)
 
-
 ## [ReactJS](reactjs/README.md)
 
 - [ReactJS Resources](reactjs/reactjs-resources.md)
-
 
 ## [Vagrant](vagrant/README.md)
 
 - [Increase RAM And CPU On Vagrant Machine](vagrant/increase-ram-and-cpu-on-vagrant-machine.md)
 
-
 ## [VSCode](vscode/README.md)
 
 - [Install VS Code on a Linux Server](vscode/install-vs-code-on-a-linux-server.md)
-
 
 ## [WSL](wsl/README.md)
 
 - [Convert WSL1 to WSL2](wsl/convert-wsl1-to-wsl2.md)
 - [Enable Systemd Support in WSL2](wsl/enable-systemd-support-in-wsl2.md)
-
