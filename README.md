@@ -180,6 +180,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Ansible Add User to System](ansible/add-user-to-system.md)
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
+- [Setting a Password in Ansible Inventory File](ansible/setting-a-password-in-ansible-inventory-file.md)
 
 ## [Caddy Server](caddy/README.md)
 
