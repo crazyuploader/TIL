@@ -9,4 +9,4 @@ Generally, we shouldn't be needing this, as one should have a SSH key pair to ac
 vagrant ansible_host=10.0.0.2 ansible_user=vagrant ansible_ssh_pass=vagrant
 ```
 
-***Source: [Serverfault](https://serverfault.com/a/742382)***
+**_Source: [Serverfault](https://serverfault.com/a/742382)_**

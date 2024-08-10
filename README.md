@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_160 TILs so far._**
+**_162 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Setting a Password in Ansible Inventory File](ansible/setting-a-password-in-ansible-inventory-file.md)
+- [Add User to System](ansible/add-user-to-system.md)
 - [DevOps](learning-resources/devops.md)
 - [Dnf Cheatsheet](cheatsheets/dnf-cheatsheet.md)
 - [Get Clipboard History](linux/ubuntu/get-clipboard-history.md)
-- [Disable Swap Memory on SD Card](linux/raspberry-pi/disable-swap-memory-on-sd-card.md)
-- [Check Group Of A User](linux/check-group-of-a-user.md)
 
 ---
 

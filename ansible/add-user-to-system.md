@@ -12,6 +12,7 @@ In Ansible we can use `ansible.builtin.user` module to add a user to the system.
     name: jungle
     comment: Jungle
 ```
+
 ### 2. Add a user with specific attributes
 
 ```yaml
@@ -34,4 +35,4 @@ In Ansible we can use `ansible.builtin.user` module to add a user to the system.
     append: yes
 ```
 
-***Reference: [Manage User Accounts - Ansible Documention](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/user_module.html)***
+**_Reference: [Manage User Accounts - Ansible Documention](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/user_module.html)_**
