@@ -178,6 +178,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## [Ansible](ansible/README.md)
 
+- [Ansible Add User to System](ansible/add-user-to-system.md)
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
 
 ## [Caddy Server](caddy/README.md)
