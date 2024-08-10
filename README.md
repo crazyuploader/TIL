@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_162 TILs so far._**
+**_163 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Add Authorized SSH Key to User using Ansible](ansible/add-ssh-key-to-user-using-ansible.md)
 - [Add User to System using Ansible](ansible/add-user-to-system.md)
 - [Setting a Password in Ansible Inventory File](ansible/setting-a-password-in-ansible-inventory-file.md)
 - [Add User to System using Ansible](ansible/add-user-to-system.md)
 - [DevOps](learning-resources/devops.md)
-- [Dnf Cheatsheet](cheatsheets/dnf-cheatsheet.md)
 
 ---
 

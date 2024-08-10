@@ -12,4 +12,4 @@ Some examples of Ansible Playbooks for adding/updating authorized keys for SSH l
     key: https://github.com/crazyuploader.keys
 ```
 
-***Reference: [Add or Remove SSH Authorized Key - Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/posix/authorized_key_module.html)***
+**_Reference: [Add or Remove SSH Authorized Key - Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/posix/authorized_key_module.html)_**
