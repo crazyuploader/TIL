@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## Recently Added/Updated TILs
 
+- [DevOps](learning-resources/devops.md)
 - [Dnf Cheatsheet](cheatsheets/dnf-cheatsheet.md)
 - [Get Clipboard History](linux/ubuntu/get-clipboard-history.md)
 - [Disable Swap Memory on SD Card](linux/raspberry-pi/disable-swap-memory-on-sd-card.md)
 - [Check Group Of A User](linux/check-group-of-a-user.md)
-- [Use Proxy Server in cURL](linux/curl/use-proxy-server-in-curl.md)
 
 ---
 
