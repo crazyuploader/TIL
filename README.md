@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## Recently Added/Updated TILs
 
+- [Add User to System using Ansible](ansible/add-user-to-system.md)
 - [Setting a Password in Ansible Inventory File](ansible/setting-a-password-in-ansible-inventory-file.md)
-- [Add User to System](ansible/add-user-to-system.md)
+- [Add User to System using Ansible](ansible/add-user-to-system.md)
 - [DevOps](learning-resources/devops.md)
 - [Dnf Cheatsheet](cheatsheets/dnf-cheatsheet.md)
-- [Get Clipboard History](linux/ubuntu/get-clipboard-history.md)
 
 ---
 
