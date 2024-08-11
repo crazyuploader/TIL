@@ -31,3 +31,9 @@ transport = local
 ```
 
 **_Source: [GitHub Gist - Ansible playbook Locally](https://gist.github.com/alces/caa3e7e5f46f9595f715f0f55eef65c1)_**
+
+***Reference(s):***
+
+***[Configuring Ansible - Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_configuration.html)***
+
+***[Implicit 'localhost' - Ansible Documentation](https://docs.ansible.com/ansible/latest/inventory/implicit_localhost.html)***
