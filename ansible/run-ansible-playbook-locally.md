@@ -34,6 +34,5 @@ transport = local
 
 **_Reference(s):_**
 
-**_[Configuring Ansible - Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_configuration.html)_**
-
-**_[Implicit 'localhost' - Ansible Documentation](https://docs.ansible.com/ansible/latest/inventory/implicit_localhost.html)_**
+- [Configuring Ansible - Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_configuration.html)
+- [Implicit 'localhost' - Ansible Documentation](https://docs.ansible.com/ansible/latest/inventory/implicit_localhost.html)
