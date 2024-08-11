@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_164 TILs so far._**
+**_165 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Run Ansible Playbook Locally](ansible/run-ansible-playbook-locally.md)
 - [Ansible Pause Playbook Execution](ansible/ansible-pause-playbook-execution.md)
 - [Add Authorized SSH Key to User using Ansible](ansible/add-ssh-key-to-user-using-ansible.md)
 - [Add User to System using Ansible](ansible/add-user-to-system.md)
 - [Setting a Password in Ansible Inventory File](ansible/setting-a-password-in-ansible-inventory-file.md)
-- [Add User to System using Ansible](ansible/add-user-to-system.md)
 
 ---
 

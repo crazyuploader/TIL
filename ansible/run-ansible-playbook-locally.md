@@ -30,4 +30,4 @@ transport = local
     connection: local
 ```
 
-***Source: [GitHub Gist - Ansible playbook Locally](https://gist.github.com/alces/caa3e7e5f46f9595f715f0f55eef65c1)***
+**_Source: [GitHub Gist - Ansible playbook Locally](https://gist.github.com/alces/caa3e7e5f46f9595f715f0f55eef65c1)_**
