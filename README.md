@@ -183,7 +183,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Ansible Add User to System](ansible/add-user-to-system.md)
 - [Ansible Pause Playbook Execution](ansible/ansible-pause-playbook-execution.md)
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
-- [Run Ansible Playbook Locally](run-ansible-playbook-locally.md)
+- [Run Ansible Playbook Locally](ansible/run-ansible-playbook-locally.md)
 - [Setting a Password in Ansible Inventory File](ansible/setting-a-password-in-ansible-inventory-file.md)
 
 ## [Caddy Server](caddy/README.md)
@@ -227,7 +227,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 ### [GitHub Actions](github/actions/README.md)
 
 - [Setting An Environment Variable](github/actions/setting-an-environment-variable.md)
-- [Running Jobs in a Container](github/actions/running-jobs-in-container.md)
+- [Running Jobs in a Container](github/actions/running-jobs-in-a-container.md)
 
 ## [Go](go/README.md)
 
