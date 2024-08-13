@@ -112,6 +112,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Read Command Output In Reverse Order](linux/bash/read-command-output-in-reverse-order.md)
 - ["set -e" In Scripts](linux/bash/set-e-in-scripts.md)
 - [Set MacOS Like Terminal Font](linux/bash/set-macos-like-terminal-font.md)
+- [Set Unlimited Bash History](linux/bash/set-unlimited-bash-history.md)
 - [Shell Formatter](linux/bash/shell-formatter.md)
 - [Yes](linux/bash/yes.md)
 

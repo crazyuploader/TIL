@@ -16,5 +16,6 @@ Bash is a Unix shell and command language written by Brian Fox for the GNU Proje
 - [Read Command Output In Reverse Order](read-command-output-in-reverse-order.md)
 - ["set -e" In Scripts](set-e-in-scripts.md)
 - [Set MacOS Like Terminal Font](set-macos-like-terminal-font.md)
+- [Set Unlimited Bash History](set-unlimited-bash-history.md)
 - [Shell Formatter](shell-formatter.md)
 - [Yes](yes.md)
