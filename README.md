@@ -10,7 +10,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## Recently Added/Updated TILs
 
-- [Running Jobs in a Container](github/actions/runnning-jobs-in-a-container.md)
+- [Running Jobs in a Container](github/actions/running-jobs-in-a-container.md)
 - [Set Unlimited Bash History](linux/bash/set-unlimited-bash-history.md)
 - [Run Ansible Playbook Locally](ansible/run-ansible-playbook-locally.md)
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
