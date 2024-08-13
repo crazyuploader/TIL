@@ -226,6 +226,9 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ### [GitHub Actions](github/actions/README.md)
 
+- [Setting An Environment Variable](github/actions/setting-an-environment-variable.md)
+- [Running Jobs in a Container](github/actions/running-jobs-in-container.md)
+
 ## [Go](go/README.md)
 
 - [List All Possible GOOS And GOARCH](go/list-all-possible-goos-and-goarch.md)
