@@ -11,4 +11,4 @@ HISTSIZE=-1
 HISTFILESIZE=-1
 ```
 
-***Source: [Baeldung Linux](https://www.baeldung.com/linux/bash-configure-unlimited-history)***
+**_Source: [Baeldung Linux](https://www.baeldung.com/linux/bash-configure-unlimited-history)_**
