@@ -10,6 +10,6 @@ mywebsite.com {
 }
 ```
 
-***Source: [Future Studio](https://futurestud.io/tutorials/caddy-configure-logging-and-access-logs)***
+**_Source: [Future Studio](https://futurestud.io/tutorials/caddy-configure-logging-and-access-logs)_**
 
-***Reference: [Log Caddyfile Directive - Caddy Server Documentation](https://caddyserver.com/docs/caddyfile/directives/log)***
+**_Reference: [Log Caddyfile Directive - Caddy Server Documentation](https://caddyserver.com/docs/caddyfile/directives/log)_**
