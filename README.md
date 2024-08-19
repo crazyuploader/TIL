@@ -188,6 +188,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## [Caddy Server](caddy/README.md)
 
+- [Caddy Write Logs to a File](caddy/caddy-write-logs-to-a-file.md)
 - [Return Client IP Address As Plain Text](caddy/return-client-ip-address-as-plain-text.md)
 
 ## [Cheatsheets](cheatsheets/README.md)

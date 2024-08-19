@@ -8,4 +8,5 @@ Caddy is a powerful, extensible platform to serve your sites, services, and apps
 
 ## TIL(s)
 
+- [Caddy Write Logs to a File](caddy-write-logs-to-a-file.md)
 - [Return Client IP Address As Plain Text](return-client-ip-address-as-plain-text.md)
