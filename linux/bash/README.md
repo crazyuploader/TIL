@@ -6,6 +6,7 @@ Bash is a Unix shell and command language written by Brian Fox for the GNU Proje
 
 ## TIL(s)
 
+- [Bash List Only Directories](bash-list-only-directories.md)
 - [BashTOP Resource Monitor](bashtop-resource-monitor.md)
 - [Case Statements](case-statements.md)
 - [Concatenate Strings](concatenate-strings.md)

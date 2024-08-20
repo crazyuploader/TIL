@@ -100,8 +100,9 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Install Docker](linux/arch/install-docker.md)
 - [Install Pip](linux/arch/install-pip.md)
 
-### [BASH](linux/bash/README.md)
+### [Bash](linux/bash/README.md)
 
+- [Bash List Only Directories](linux/bash/bash-list-only-directories.md)
 - [BashTOP Resource Monitor](linux/bash/bashtop-resource-monitor.md)
 - [Case Statements](linux/bash/case-statements.md)
 - [Concatenate Strings](linux/bash/concatenate-strings.md)
