@@ -20,7 +20,7 @@ v0.4
 v0.5
 ```
 
-***Source(s):***
+**_Source(s):_**
 
 - [StackOverFlow](https://stackoverflow.com/a/7261049)
 - [GitHub Gist](https://gist.github.com/rponte/fdc0724dd984088606b0)
