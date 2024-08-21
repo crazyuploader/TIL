@@ -1,6 +1,6 @@
 # Get Errors in Running Services using Journalctl
 
-To get errors in running services, we can `journalctl` command to list out the erros from system journals.
+To get errors in running services, we can `journalctl` command to list out the errors from system journals.
 
 ## Example: List Errors since Last Boot
 
@@ -8,6 +8,6 @@ To get errors in running services, we can `journalctl` command to list out the e
 journalctl -p -3 -xb
 ```
 
-Here, `-x` provides extra information, and `-b` arguments means show errors since last boot.
+Here, `-x` provides extra information, and `-b` arguments limits errors since last boot.
 
 **_Source: [Unix - Stack Exhange](https://unix.stackexchange.com/a/457609)_**
