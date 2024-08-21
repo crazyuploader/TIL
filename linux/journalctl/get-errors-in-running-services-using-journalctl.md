@@ -10,4 +10,4 @@ journalctl -p -3 -xb
 
 Here, `-x` provides extra information, and `-b` arguments means show errors since last boot.
 
-***Source: [Unix - Stack Exhange](https://unix.stackexchange.com/a/457609)***
+**_Source: [Unix - Stack Exhange](https://unix.stackexchange.com/a/457609)_**

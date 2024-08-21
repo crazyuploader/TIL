@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_170 TILs so far._**
+**_171 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Get Errors in Running Services using Journalctl](linux/journalctl/get-errors-in-running-services-using-journalctl.md)
 - [Get Tag Names in Git](git/get-tag-names-in-git.md)
 - [Bash List Only Directories](linux/bash/bash-list-only-directories.md)
 - [Caddy Write Logs to a File](caddy/caddy-write-logs-to-a-file.md)
 - [Running Jobs in a Container](github/actions/running-jobs-in-a-container.md)
-- [Set Unlimited Bash History](linux/bash/set-unlimited-bash-history.md)
 
 ---
 
@@ -144,7 +144,6 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 ### [Journalctl](linux/journalctl/README.md)
 
 - [Get Errors in Running Services using Journalctl](linux/journalctl/get-errors-in-running-services-using-journalctl.md)
-
 
 ### [Networking](linux/networking/README.md)
 
