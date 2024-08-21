@@ -11,6 +11,7 @@
 - [Curl](curl/README.md)
 - [GPG](gpg/README.md)
 - [Grep](grep/README.md)
+- [Journalctl](journalctl/README.md)
 - [Networking](networking/README.md)
 - [Raspberry Pi](raspberry-pi/README.md)
 - [SSH](ssh/README.md)

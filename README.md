@@ -141,6 +141,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Grep Search For Multiple Strings](linux/grep/grep-search-for-multiple-strings.md)
 - [Remove Empty Lines](linux/grep/remove-empty-lines.md)
 
+### [Journalctl](linux/journalctl/README.md)
+
+- [Get Errors in Running Services using Journalctl](linux/journalctl/get-errors-in-running-services-using-journalctl.md)
+
+
 ### [Networking](linux/networking/README.md)
 
 - [Install Dig](linux/networking/install-dig.md)
