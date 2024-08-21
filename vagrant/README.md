@@ -9,3 +9,4 @@ Vagrant provides the framework and configuration format to create and manage com
 ## TIL(s)
 
 - [Increase RAM And CPU On Vagrant Machine](increase-ram-and-cpu-on-vagrant-machine.md)
+- [Vagrant Specify Disk Size](vagrant-specify-disk-size.md)

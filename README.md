@@ -293,6 +293,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 ## [Vagrant](vagrant/README.md)
 
 - [Increase RAM And CPU On Vagrant Machine](vagrant/increase-ram-and-cpu-on-vagrant-machine.md)
+- [Vagrant Specify Disk Size](vagrant/vagrant-specify-disk-size.md)
 
 ## [VSCode](vscode/README.md)
 
