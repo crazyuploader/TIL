@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## Recently Added/Updated TILs
 
+- [Linux](learning-resources/linux.md)
 - [Vagrant Specify Disk Size](vagrant/vagrant-specify-disk-size.md)
 - [Get Errors in Running Services using Journalctl](linux/journalctl/get-errors-in-running-services-using-journalctl.md)
 - [Get Tag Names in Git](git/get-tag-names-in-git.md)
 - [Bash List Only Directories](linux/bash/bash-list-only-directories.md)
-- [Caddy Write Logs to a File](caddy/caddy-write-logs-to-a-file.md)
 
 ---
 
