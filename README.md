@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_172 TILs so far._**
+**_173 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Install RPM Packages in Fedora](linux/fedora/install-rpm-packages-in-fedora.md)
 - [Linux](learning-resources/linux.md)
 - [Vagrant Specify Disk Size](vagrant/vagrant-specify-disk-size.md)
 - [Get Errors in Running Services using Journalctl](linux/journalctl/get-errors-in-running-services-using-journalctl.md)
 - [Get Tag Names in Git](git/get-tag-names-in-git.md)
-- [Bash List Only Directories](linux/bash/bash-list-only-directories.md)
 
 ---
 
