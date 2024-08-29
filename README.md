@@ -122,6 +122,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Fix Failed Writing Body While Piping](linux/curl/fix-failed-writing-body-while-piping.md)
 - [Use Proxy Server in cURL](linux/curl/use-proxy-server-in-curl.md)
 
+### [Fedora](linux/fedora/README.md)
+
+- [Install RPM Packages in Fedora](linux/fedora/install-rpm-packages-in-fedora.md)
+
 ### [GPG](linux/gpg/README.md)
 
 - [Fix "Inappropriate ioctl for device" Error](linux/gpg/fix-inappropriate-ioctl-for-device-error.md)
