@@ -12,9 +12,9 @@ By default, Ansible would attempt to read the default configuration file at `/et
 inventory = ~/.ansible/hosts
 ```
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/63413958)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/63413958)_**
 
-***Reference(s):***
+**_Reference(s):_**
 
 - [Working with Inventory - Ansible Documentation](https://docs.ansible.com/ansible/2.7/user_guide/intro_inventory.html)
 - [Ansible Configuration Settings - Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html)
