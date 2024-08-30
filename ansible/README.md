@@ -12,6 +12,7 @@ Ansible’s main goals are simplicity and ease-of-use. It also has a strong focu
 
 - [Add Authorized SSH Key to User using Ansible](add-ssh-key-to-user-using-ansible.md)
 - [Ansible Add User to System](add-user-to-system.md)
+- [Ansible Configure Default Inventory File](ansible-configure-default-inventory-file.md)
 - [Ansible Pause Playbook Execution](ansible-pause-playbook-execution.md)
 - [Ansible Test Connection](ansible-test-connection.md)
 - [Run Ansible Playbook Locally](run-ansible-playbook-locally.md)
