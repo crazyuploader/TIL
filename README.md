@@ -191,6 +191,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Add Authorized SSH Key to User using Ansible](ansible/add-ssh-key-to-user-using-ansible.md)
 - [Ansible Add User to System](ansible/add-user-to-system.md)
 - [Ansible Configure Default Inventory File](ansible/ansible-configure-default-inventory-file.md)
+- [Ansible Disable Python Interpreter Warnings](ansible/ansible-disable-python-interpreter-warnings.md)
 - [Ansible Pause Playbook Execution](ansible/ansible-pause-playbook-execution.md)
 - [Ansible Test Connection](ansible/ansible-test-connection.md)
 - [Run Ansible Playbook Locally](ansible/run-ansible-playbook-locally.md)
