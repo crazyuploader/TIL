@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## Recently Added/Updated TILs
 
+- [Linux](learning-resources/linux.md)
 - [Ansible Disable Python Interpreter Warnings](ansible/ansible-disable-python-interpreter-warnings.md)
 - [Ansible Configure Default Inventory File](ansible/ansible-configure-default-inventory-file.md)
 - [Install RPM Packages in Fedora](linux/fedora/install-rpm-packages-in-fedora.md)
 - [Linux](learning-resources/linux.md)
-- [Vagrant Specify Disk Size](vagrant/vagrant-specify-disk-size.md)
 
 ---
 
