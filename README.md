@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_175 TILs so far._**
+**_176 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [CMake Parallel Build with All Cores](linux/cmake-parallel-build-with-all-cores.md)
 - [Ansible Disable Python Interpreter Warnings](ansible/ansible-disable-python-interpreter-warnings.md)
 - [Linux](learning-resources/linux.md)
 - [Ansible Disable Python Interpreter Warnings](ansible/ansible-disable-python-interpreter-warnings.md)
 - [Ansible Configure Default Inventory File](ansible/ansible-configure-default-inventory-file.md)
-- [Install RPM Packages in Fedora](linux/fedora/install-rpm-packages-in-fedora.md)
 
 ---
 

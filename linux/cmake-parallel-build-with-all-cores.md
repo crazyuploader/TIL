@@ -18,9 +18,9 @@ cmake --build build --parallel $(nproc --all)
 cmake --build build --parallel $(($(nproc --all) - 1))
 ```
 
-***Source(s):***
+**_Source(s):_**
 
 - [StackOverFlow](https://stackoverflow.com/a/70552553)
 - [StackOverFlow](https://stackoverflow.com/a/41691009)
 
-***Reference: [CMake - Documentation](https://cmake.org/cmake/help/latest/manual/cmake.1.html#cmdoption-cmake-build-j)***
+**_Reference: [CMake - Documentation](https://cmake.org/cmake/help/latest/manual/cmake.1.html#cmdoption-cmake-build-j)_**
