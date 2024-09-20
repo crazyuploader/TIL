@@ -14,4 +14,4 @@ To disable these Python interpreter warnings, we can add the following to the An
 interpreter_python = auto_silent
 ```
 
-**_Source: [Interpreter Discovery- Ansible Core Documentation](https://docs.ansible.com/ansible-core/2.17/reference_appendices/interpreter_discovery.html)_**
+**_Source: [Interpreter Discovery - Ansible Core Documentation](https://docs.ansible.com/ansible-core/2.17/reference_appendices/interpreter_discovery.html)_**
