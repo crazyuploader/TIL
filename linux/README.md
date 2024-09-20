@@ -35,6 +35,7 @@
 - [Check If A Port Is In Use](check-if-a-port-is-in-use.md)
 - [Check If A User Exists](check-if-a-user-exists.md)
 - [Check Open Port](check-open-port.md)
+- [CMake Parallel Build with All Cores](cmake-parallel-build-with-all-cores.md)
 - [Create Symbolic Links](create-symbolic-links.md)
 - [Determine Which Process Is Using a File](determine-which-process-is-using-a-file.md)
 - [Enable SSH Server](enable-ssh-server.md)

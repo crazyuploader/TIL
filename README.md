@@ -53,6 +53,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Check If A Port Is In Use](linux/check-if-a-port-is-in-use.md)
 - [Check If A User Exists](linux/check-if-a-user-exists.md)
 - [Check Open Port](linux/check-open-port.md)
+- [CMake Parallel Build with All Cores](linux/cmake-parallel-build-with-all-cores.md)
 - [Create Symbolic Links](linux/create-symbolic-links.md)
 - [Determine Which Process Is Using a File](linux/determine-which-process-is-using-a-file.md)
 - [Enable SSH Server](linux/enable-ssh-server.md)
