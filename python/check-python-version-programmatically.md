@@ -24,4 +24,4 @@ sys.version_info(major=3, minor=12, micro=6, releaselevel='final', serial=0)
 Python version is above 3.10
 ```
 
-***Source: [StackOverFlow](https://stackoverflow.com/a/1093331)***
+**_Source: [StackOverFlow](https://stackoverflow.com/a/1093331)_**
