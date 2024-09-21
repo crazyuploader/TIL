@@ -272,6 +272,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Check If A Key Exists In Dictionary](python/check-if-a-key-exists-in-dictionary.md)
 - [Check If a String is Empty](python/check-if-a-string-is-empty.md)
 - [Check Image Size](python/check-image-size.md)
+- [Check Python Version Programmatically](python/check-python-version-programmatically.md)
 - [Convert List To Tuple](python/convert-list-to-tuple.md)
 - [Execute Python Code in Command Shell](python/execute-python-code-in-command-shell.md)
 - [Formatted Strings](python/formatted-strings.md)
