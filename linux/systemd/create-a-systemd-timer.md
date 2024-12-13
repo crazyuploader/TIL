@@ -2,10 +2,9 @@
 
 Systemd timers are a powerful alternative to `cron` for scheduling tasks, especially when you want better integration with system events like startup or specific conditions. Example of creating a simple systemd timer is given below -
 
-
 ## Example: Run command at system startup
 
-### 1. Create a systemd service file, for example: ***test_timer.service***
+### 1. Create a systemd service file, for example: **_test_timer.service_**
 
 ```
 [Unit]
@@ -20,7 +19,7 @@ ExecStart=/usr/bin/ping -c 10 google.com
 WantedBy=multi-user.target
 ```
 
-### 2. Now, create a timer file with the same name, for example: ***test_timer.timer***
+### 2. Now, create a timer file with the same name, for example: **_test_timer.timer_**
 
 ```
 [Unit]
@@ -33,7 +32,7 @@ OnBootSec=5m
 WantedBy=timers.target
 ```
 
-***Note:*** `OnBootSec=5m` ensures the service starts 5 minutes after the system boots up. Adjust the value based on your needs (e.g., `10s` for 10 seconds)
+**_Note:_** `OnBootSec=5m` ensures the service starts 5 minutes after the system boots up. Adjust the value based on your needs (e.g., `10s` for 10 seconds)
 
 ### 3. Enable & Start the Systemd Timer
 
@@ -44,7 +43,7 @@ sudo systemctl start test_timer.timer
 
 To check if the Systemd timer is enabled, we can use `systemctl list-timers` command to list out the various Systemd timer enabled on the system.
 
-***Source(s):***
+**_Source(s):_**
 
 - [ArchWiki](https://wiki.archlinux.org/title/Systemd/Timers)
 - [LinuxConfig](https://linuxconfig.org/how-to-schedule-tasks-with-systemd-timers-in-linux)
