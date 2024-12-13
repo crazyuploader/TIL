@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_180 TILs so far._**
+**_181 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Prevent Systemd Timers from Overlapping](linux/systemd/prevent-systemd-timers-from-overlapping.md)
 - [Create A Systemd Timer](linux/systemd/create-a-systemd-timer.md)
 - [List Systemd Services Of A User](linux/systemd/list-services-of-a-user.md)
 - [View Git Commit Changes](git/view-git-commit-changes.md)
 - [Check Python Version Programmatically](python/check-python-version-programmatically.md)
-- [CMake Parallel Build with All Cores](linux/cmake-parallel-build-with-all-cores.md)
 
 ---
 

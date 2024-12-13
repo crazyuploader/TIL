@@ -19,8 +19,7 @@ ExecStart=/usr/bin/flock /var/lock/rclone-sync.lock -w 30 /usr/bin/rclone sync -
 
 Here, the `flock` command runs rclone sync with a lock-file at `/var/lock/rclone-sync.lock`, now if the earlier execution wasn't finished, the lock file will be there, and the `flock` command would wait for 30 seconds (courtesy to `-w 30` argument) before it exits with an error.
 
-
-***Source(s):***
+**_Source(s):_**
 
 - [CleverUptime](https://cleveruptime.com/docs/commands/flock)
 - [Mattias Geniar Blog](https://ma.ttias.be/prevent-cronjobs-from-overlapping-in-linux/)
