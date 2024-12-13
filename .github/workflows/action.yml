@@ -3,20 +3,20 @@ name: Prettify
 on: [push]
 
 jobs:
-  prettier:
-    runs-on: ubuntu-latest
+    prettier:
+        runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "14.x"
-      - run: npm i -g prettier
-      - run: ./script.sh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REF: ${{ secrets.GH_REF }}
-          CI: true
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+            - name: Use Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "14.x"
+            - run: npm i -g prettier
+            - run: ./script.sh
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  GH_REF: ${{ secrets.GH_REF }}
+                  CI: true

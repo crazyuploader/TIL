@@ -9,8 +9,8 @@ In Ansible we can use `ansible.builtin.user` module to add a user to the system.
 ```yaml
 - name: Add the user 'jungle'
   ansible.builtin.user:
-    name: jungle
-    comment: Jungle
+      name: jungle
+      comment: Jungle
 ```
 
 ### 2. Add a user with specific attributes
@@ -18,11 +18,11 @@ In Ansible we can use `ansible.builtin.user` module to add a user to the system.
 ```yaml
 - name: Add the user 'jungle' with specific attributes
   ansible.builtin.user:
-    name: jungle
-    comment: Jungle
-    home: /home/jungle
-    shell: /bin/bash
-    password: "{{ 'password' | password_hash('sha512') }}"
+      name: jungle
+      comment: Jungle
+      home: /home/jungle
+      shell: /bin/bash
+      password: "{{ 'password' | password_hash('sha512') }}"
 ```
 
 ### 3. Adding groups to the user
@@ -30,9 +30,9 @@ In Ansible we can use `ansible.builtin.user` module to add a user to the system.
 ```yaml
 - name: Add the user 'jungle' and assign to groups
   ansible.builtin.user:
-    name: jungle
-    groups: sudo,users
-    append: yes
+      name: jungle
+      groups: sudo,users
+      append: yes
 ```
 
 **_Reference: [Manage User Accounts - Ansible Documention](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/user_module.html)_**

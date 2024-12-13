@@ -1,11 +1,11 @@
 version: 2.1
 jobs:
-  build:
-    docker:
-      - image: "crazyuploader/broken_link_checker:latest"
-    steps:
-      - checkout
-      - run:
-          name: Checking Links
-          command: |
-            blc https://til.devjugal.com -roe
+    build:
+        docker:
+            - image: "crazyuploader/broken_link_checker:latest"
+        steps:
+            - checkout
+            - run:
+                  name: Checking Links
+                  command: |
+                      blc https://til.devjugal.com -roe
