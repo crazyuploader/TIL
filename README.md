@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## Recently Added/Updated TILs
 
+- [Add Authorized SSH Key to User using Ansible](ansible/add-ssh-key-to-user-using-ansible.md)
+- [Add User to System using Ansible](ansible/add-user-to-system.md)
+- [Ansible Pause Playbook Execution](ansible/ansible-pause-playbook-execution.md)
+- [Running Jobs in a Container](github/actions/running-jobs-in-a-container.md)
 - [Prevent Systemd Timers from Overlapping](linux/systemd/prevent-systemd-timers-from-overlapping.md)
-- [Create A Systemd Timer](linux/systemd/create-a-systemd-timer.md)
-- [List Systemd Services Of A User](linux/systemd/list-services-of-a-user.md)
-- [View Git Commit Changes](git/view-git-commit-changes.md)
-- [Check Python Version Programmatically](python/check-python-version-programmatically.md)
 
 ---
 
