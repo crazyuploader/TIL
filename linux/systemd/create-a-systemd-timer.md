@@ -2,7 +2,7 @@
 
 Systemd timers are a powerful alternative to `cron` for scheduling tasks, especially when you want better integration with system events like startup or specific conditions. Example of creating a simple systemd timer is given below -
 
-## Example: Run command at system startup
+## Example: Running a Command Automatically After System Boot
 
 ### 1. Create a systemd service file, for example: **_test_timer.service_**
 
