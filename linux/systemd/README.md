@@ -9,5 +9,6 @@ systemd is a suite of basic building blocks for a Linux system. It provides a sy
 ## TIL(s)
 
 - [Create A Service](create-a-service.md)
+- [Create A Systemd Timer](create-a-systemd-timer.md)
 - [List Systemd Services Of A User](list-services-of-a-user.md)
 - [Watch Systemd Service Status](watch-systemd-service-status.md)

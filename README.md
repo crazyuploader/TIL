@@ -170,6 +170,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 ### [Systemd](linux/systemd/README.md)
 
 - [Create A Service](linux/systemd/create-a-service.md)
+- [Create A Systemd Timer](linux/systemd/create-a-systemd-timer.md)
 - [List Systemd Services Of A User](linux/systemd/list-services-of-a-user.md)
 - [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
 
