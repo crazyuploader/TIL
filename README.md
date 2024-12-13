@@ -172,6 +172,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Create A Service](linux/systemd/create-a-service.md)
 - [Create A Systemd Timer](linux/systemd/create-a-systemd-timer.md)
 - [List Systemd Services Of A User](linux/systemd/list-services-of-a-user.md)
+- [Prevent Systemd Timers From Overlapping](linux//systemd/prevent-systemd-timers-from-overlapping.md)
 - [Watch Systemd Service Status](linux/systemd/watch-systemd-service-status.md)
 
 ### [Tcpdump](linux/tcpdump/README.md)
