@@ -13,5 +13,6 @@ Git is easy to learn and has a tiny footprint with lightning fast performance. I
 - [Change Last Commit Message](change-last-commit-message.md)
 - [Delete Tag](delete-tag.md)
 - [Get Tag Names in Git](get-tag-names-in-git.md)
+- [Save Credentials for Remotes in Git](save-credentials-for-remotes.md)
 - [Show Commit Only From One Author](show-commit-only-from-one-author.md)
 - [View Git Commit Changes](view-git-commit-changes.md)

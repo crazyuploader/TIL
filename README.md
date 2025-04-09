@@ -237,6 +237,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Change Last Commit Message](git/change-last-commit-message.md)
 - [Delete Tag](git/delete-tag.md)
 - [Get Tag Names in Git](git/get-tag-names-in-git.md)
+- [Save Credentials for Remotes in Git](git/save-credentials-for-remotes.md)
 - [Show Commit Only From One Author](git/show-commit-only-from-one-author.md)
 - [View Git Commit Changes](git/view-git-commit-changes.md)
 
