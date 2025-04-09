@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_181 TILs so far._**
+**_182 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Save Credentials for Remotes in Git](git/save-credentials-for-remotes.md)
 - [Add Authorized SSH Key to User using Ansible](ansible/add-ssh-key-to-user-using-ansible.md)
 - [Add User to System using Ansible](ansible/add-user-to-system.md)
 - [Ansible Pause Playbook Execution](ansible/ansible-pause-playbook-execution.md)
 - [Running Jobs in a Container](github/actions/running-jobs-in-a-container.md)
-- [Prevent Systemd Timers from Overlapping](linux/systemd/prevent-systemd-timers-from-overlapping.md)
 
 ---
 

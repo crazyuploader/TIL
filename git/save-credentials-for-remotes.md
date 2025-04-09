@@ -17,6 +17,6 @@ $ cd /path/to/the/respository
 $ git config credential.helper store
 ```
 
-***Source: [Sentry Answers](https://sentry.io/answers/save-credentials-for-remotes-in-git/)***
+**_Source: [Sentry Answers](https://sentry.io/answers/save-credentials-for-remotes-in-git/)_**
 
-***Reference: [Git Book](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)***
+**_Reference: [Git Book](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)_**
