@@ -224,6 +224,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Docker Publish Port](docker/docker-publish-port.md)
 - [Docker Run Without Cache](docker/docker-run-without-cache.md)
 - [Docker Run](docker/docker-run.md)
+- [Fix UFW Security Flaw](docker/fix-ufw-security-flaw.md)
 - [Install Docker](docker/install-docker.md)
 - [Install Ping in Docker](docker/install-ping-in-docker.md)
 - [Pass Build Time Arguments To Docker Build](docker/pass-build-time-arguments-to-docker-build.md)

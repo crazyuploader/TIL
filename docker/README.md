@@ -13,6 +13,7 @@ Docker is an open platform for developing, shipping, and running applications. D
 - [Docker Publish Port](docker-publish-port.md)
 - [Docker Run Without Cache](docker-run-without-cache.md)
 - [Docker Run](docker-run.md)
+- [Fix UFW Security Flaw](fix-ufw-security-flaw.md)
 - [Install Docker](install-docker.md)
 - [Install Ping in Docker](install-ping-in-docker.md)
 - [Pass Build Time Arguments To Docker Build](pass-build-time-arguments-to-docker-build.md)
