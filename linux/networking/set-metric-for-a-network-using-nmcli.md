@@ -48,4 +48,4 @@ And of course, we can use `ip route` command to achieve the same result!
 $ sudo ip route replace default via 192.168.53.52 dev wlp4s0 proto dhcp src 192.168.53.217 metric 50
 ```
 
-***Source: [Baeldung Linux](https://www.baeldung.com/linux/change-network-routing-metric)***
+**_Source: [Baeldung Linux](https://www.baeldung.com/linux/change-network-routing-metric)_**

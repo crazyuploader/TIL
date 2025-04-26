@@ -18,4 +18,4 @@ func main() {
 }
 ```
 
-***Source: [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-convert-a-string-in-uppercase-in-golang/)***
+**_Source: [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-convert-a-string-in-uppercase-in-golang/)_**
