@@ -31,6 +31,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Learning Resources](#learning-resources)
 - [Miscellaneous](#miscellaneous)
 - [Python](#python)
+- [Rclone](#rclone)
 - [ReactJS](#reactjs)
 - [Vagrant](#vagrant)
 - [VSCode](#vscode)
@@ -301,6 +302,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Install Dependencies System Wide](python/pipenv/install-dependencies-system-wide.md)
 - [Remove Virtualenv](python/pipenv/remove-virtualenv.md)
+
+## [Rclone](rclone/README.md)
+
+- [Limit Upload Download Speeds in Rclone](rclone/limit-upload-download-speeds.md)
 
 ## [ReactJS](reactjs/README.md)
 
