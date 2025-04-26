@@ -154,6 +154,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Install Dig](linux/networking/install-dig.md)
 - [Install MTR](linux/networking/install-mtr.md)
+- [Set Metric For A Network Using nmcli](linux/networking/set-metric-for-a-network-using-nmcli.md)
 - [WireGuard Server](linux/networking/wireguard-server.md)
 
 ### [Raspberry Pi](linux/raspberry-pi/README.md)
