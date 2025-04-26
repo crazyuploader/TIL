@@ -252,6 +252,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## [Go](go/README.md)
 
+- [Convert String To Uppercase in Go](go/convert-string-to-uppercase.md)
 - [List All Possible GOOS And GOARCH](go/list-all-possible-goos-and-goarch.md)
 - [Print Go Version](go/print-go-version.md)
 - [Resolve Hostname To IP Address](go/resolve-hostname-to-ip-address.md)

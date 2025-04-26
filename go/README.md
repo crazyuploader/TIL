@@ -8,6 +8,7 @@ Go is an open source programming language supported by Google.
 
 ## TIL(s)
 
+- [Convert String To Uppercase in Go](convert-string-to-uppercase.md)
 - [List All Possible GOOS And GOARCH](list-all-possible-goos-and-goarch.md)
 - [Print Go Version](print-go-version.md)
 - [Resolve Hostname To IP Address](resolve-hostname-to-ip-address.md)
