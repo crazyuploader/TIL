@@ -81,6 +81,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [System Ugprade](linux/system-upgrade.md)
 - [Tar Exclude Directories](linux/tar-exclude-directories.md)
 - [Tar Retain File Permissions](linux/tar-retain-file-permissions.md)
+- [Why All Users Can Write to /tmp](linux/why-all-users-can-write-to-tmp.md)
 
 ### [Alpine Linux](linux/alpine/README.md)
 
