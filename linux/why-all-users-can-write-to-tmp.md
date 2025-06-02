@@ -13,6 +13,7 @@ By default, `/tmp` is owned by `root` but has the following permissions:
 `drwxrwxrwt`
 
 This breaks down as:
+
 - **`drwxrwxrwx`**: All users can read, write, and execute (list contents) in `/tmp`.
 - **The `t` (sticky bit)**: Ensures only the owner of a file (or `root`) can delete or rename it.
 
@@ -25,7 +26,7 @@ This breaks down as:
 
 All users can write to `/tmp` because of its world-writable permissions and the sticky bit, which together provide a secure and flexible temporary workspace for everyone on the system.
 
-***Reference(s):***
+**_Reference(s):_**
 
 - [Reddit - Linux4Noobs](https://www.reddit.com/r/linux4noobs/comments/qhiwz4/tmp_accessible_to_all_users_securityprivacy/)
 - [Stack Exchange](https://unix.stackexchange.com/a/71625)
