@@ -127,6 +127,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ### [Fedora](linux/fedora/README.md)
 
+- [Fix Clear Command Not Found](linux/fedora/fix-clear-command-not-found.md)
 - [Install RPM Packages in Fedora](linux/fedora/install-rpm-packages-in-fedora.md)
 
 ### [GPG](linux/gpg/README.md)

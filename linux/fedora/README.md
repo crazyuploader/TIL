@@ -6,4 +6,5 @@
 
 ### TIL(s)
 
+- [Fix Clear Command Not Found](fix-clear-command-not-found.md)
 - [Install RPM Packages in Fedora](install-rpm-packages-in-fedora.md)
