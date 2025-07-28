@@ -10,11 +10,11 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## Recently Added/Updated TILs
 
+- [Why All Users Can Write to `/tmp`](linux/why-all-users-can-write-to-tmp.md)
 - [Fix Clear Command Not Found](linux/fedora/fix-clear-command-not-found.md)
 - [Why All Users Can Write to `/tmp`](linux/why-all-users-can-write-to-tmp.md)
 - [Limit Upload Download Speeds in Rclone](rclone/limit-upload-download-speeds.md)
 - [Convert String To Uppercase in Go](go/convert-string-to-uppercase.md)
-- [Set Metric For A Network Using nmcli](linux/networking/set-metric-for-a-network-using-nmcli.md)
 
 ---
 
