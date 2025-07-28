@@ -1,6 +1,6 @@
 # Why All Users Can Write to `/tmp`
 
-I've been wondering for a while now, that how come all the users on a system is able to write to the `/tmp` directory. And turns out, that `/tmp` is a special directory which uses sticky bit to achieve just that.
+I've been wondering for a while now: how come all the users on a system are able to write to the `/tmp` directory. And turns out, that `/tmp` is a special directory which uses sticky bit to achieve just that.
 
 ## What is `/tmp`?
 
