@@ -19,7 +19,7 @@ Double click, and choose "Install" to install these fonts system-wide.
 
 Open Settings in VS Code, and search for `terminal.integrated.fontFamily` using search box, and set `MesloLGS NF` as font in Font Family section.
 
-***Reference(s):***
+**_Reference(s):_**
 
 - [GitHub](https://github.com/romkatv/powerlevel10k/issues/671)
 - [powerlevel10k Guide](https://github.com/romkatv/powerlevel10k/blob/master/font.md#manual-font-installation)
