@@ -8,4 +8,5 @@ Visual Studio Code, also commonly referred to as VS Code, is a source-code edito
 
 ## TIL(s)
 
+- [Fix Icons Not Displaying in Terminal](fix-icons-not-displaying-in-terminal.md)
 - [Install VS Code on a Linux Server](install-vs-code-on-a-linux-server.md)
