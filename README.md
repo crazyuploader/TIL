@@ -29,6 +29,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Github](#github)
 - [Go](#go)
 - [Learning Resources](#learning-resources)
+- [MacOS](#macos)
 - [Miscellaneous](#miscellaneous)
 - [Python](#python)
 - [Rclone](#rclone)
@@ -270,6 +271,10 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 - [Linux](learning-resources/linux.md)
 - [Networking](learning-resources/networking.md)
 - [Programming Languages](learning-resources/programming-languages.md)
+
+## [MacOS](macos/README.md)
+
+* [Run MTR without sudo](macos/run-mtr-without-sudo.md)
 
 ## [Miscellaneous](miscellaneous/README.md)
 
