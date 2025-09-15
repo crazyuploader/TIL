@@ -38,7 +38,7 @@ We also need to set SUID (Set User ID) to `4755` -
 
 Run the `mtr` command again, and it should work without prompting you for `sudo` password.
 
-***Reference(s):***
+**_Reference(s):_**
 
 - [Dave's Network Blog](https://blog.dave-bell.co.uk/2020/01/06/using-mtr-on-os-x-without-sudo/)
 - [Dzubayyan's Articles](https://article.masdzub.com/how-to-use-mtr-without-sudo-macos.aspx/)

@@ -4,17 +4,17 @@
 
 Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/), and repo can be found here: [Repo](https://github.com/jbranchaud/til)
 
-**_189 TILs so far._**
+**_190 TILs so far._**
 
 ---
 
 ## Recently Added/Updated TILs
 
+- [Run MTR on MacOS without sudo](macos/run-mtr-without-sudo.md)
 - [Limit Upload Download Speeds in Rclone](rclone/limit-upload-download-speeds.md)
 - [Fix Icons Not Displaying in Terminal](vscode/fix-icons-not-displaying-in-terminal.md)
 - [Why All Users Can Write to `/tmp`](linux/why-all-users-can-write-to-tmp.md)
 - [Fix Clear Command Not Found](linux/fedora/fix-clear-command-not-found.md)
-- [Why All Users Can Write to `/tmp`](linux/why-all-users-can-write-to-tmp.md)
 
 ---
 
@@ -274,7 +274,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## [MacOS](macos/README.md)
 
-* [Run MTR without sudo](macos/run-mtr-without-sudo.md)
+- [Run MTR without sudo](macos/run-mtr-without-sudo.md)
 
 ## [Miscellaneous](miscellaneous/README.md)
 
