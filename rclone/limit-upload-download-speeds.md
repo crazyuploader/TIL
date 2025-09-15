@@ -22,4 +22,4 @@ Here, the upload speed is restricted to 10 MB/s, while there's no restriction on
 $ rclone copy my-bucket:my-important . --bwlimit 10M:off
 ```
 
-**_Reference: [Rclone Docs](https://rclone.org/docs/#bwlimit-bandwidth-spec)_**
+**_Reference: [Rclone Docs](https://rclone.org/docs/#bwlimit-bwtimetable)_**
