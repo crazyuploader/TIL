@@ -1,6 +1,6 @@
 # Run MTR on MacOS without sudo
 
-Coming from Linux/Windows it rather feel bothersome to run `mtr` with `sudo` each time if you want to quickly diagnosis a hostname/IP address. 
+Coming from Linux/Windows it rather feel bothersome to run `mtr` with `sudo` each time if you want to quickly diagnosis a hostname/IP address.
 
 Since, `mtr` require access to raw packets. MacOS permissions doesn't allow it to access those raw packets without `sudo`, fortunately we can fix that by setting ownership of executables to **root** and **SUID** by following steps -
 
