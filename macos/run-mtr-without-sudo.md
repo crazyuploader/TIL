@@ -38,6 +38,8 @@ We also need to set SUID (Set User ID) to `4755` -
 
 Run the `mtr` command again, and it should work without prompting you for `sudo` password.
 
+**Note:** The paths given as example are taken from Homebrew on M4 cores, Mac Intel architecture's path may differ.
+
 **_Reference(s):_**
 
 - [Dave's Network Blog](https://blog.dave-bell.co.uk/2020/01/06/using-mtr-on-os-x-without-sudo/)
