@@ -10,6 +10,15 @@
 - [vim.so - Learn and Master Vim faster with interactive exercises](https://www.vim.so/)
 - [What to Code](https://what-to-code.com/)
 
+## Kubernetes
+
+- [kubesearch](https://kubesearch.dev/)
+- [OperatorHub.io](https://operatorhub.io/)
+
+## Linux
+
+- [Command Not Found](https://command-not-found.com/)
+
 ## Network Related
 
 - [GeoNet](https://geonet.shodan.io/)
@@ -18,6 +27,3 @@
 - [ping.pe](http://ping.pe/)
 - [WireGuard AllowedIPs Calculator](https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/)
 
-## Linux
-
-- [Command Not Found](https://command-not-found.com/)
