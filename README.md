@@ -152,6 +152,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ### [Journalctl](linux/journalctl/README.md)
 
+- [Clear Journald Logs](linux/journalctl/clear-journalctl-logs.md)
 - [Get Errors in Running Services using Journalctl](linux/journalctl/get-errors-in-running-services-using-journalctl.md)
 
 ### [Networking](linux/networking/README.md)

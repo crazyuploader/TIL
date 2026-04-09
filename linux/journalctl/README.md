@@ -6,4 +6,5 @@
 
 ## TIL(s)
 
+- [Clear Journald Logs](clear-journalctl-logs.md)
 - [Get Errors in Running Services using Journalctl](get-errors-in-running-services-using-journalctl.md)
