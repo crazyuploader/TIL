@@ -12,9 +12,9 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 - [Run Docker using Colima in MacBook](macos/run-docker-using-colima.md)
 - [Run MTR on MacOS without sudo](macos/run-mtr-without-sudo.md)
-- [Limit Upload Download Speeds in Rclone](rclone/limit-upload-download-speeds.md)
-- [Fix Icons Not Displaying in Terminal](vscode/fix-icons-not-displaying-in-terminal.md)
-- [Why All Users Can Write to `/tmp`](linux/why-all-users-can-write-to-tmp.md)
+- [Docker Exec (docker exec)](docker/docker-exec.md)
+- [Docker Publish Port](docker/docker-publish-port.md)
+- [Docker Run Without Cache](docker/docker-run-without-cache.md)
 
 ---
 
