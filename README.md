@@ -274,6 +274,7 @@ Things I Learned today, found on [Simon's Blog](https://simonwillison.net/2020/A
 
 ## [MacOS](macos/README.md)
 
+- [Run Docker using Colima](macos/run-docker-using-colima.md)
 - [Run MTR without sudo](macos/run-mtr-without-sudo.md)
 
 ## [Miscellaneous](miscellaneous/README.md)
