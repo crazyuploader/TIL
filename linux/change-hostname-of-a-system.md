@@ -7,13 +7,13 @@ Typically, hostname of a system is stored in `/etc/hostname`, and we can change 
 1. Edit `/etc/hostname` with any text editor such as nano or vim, and replace the existing hostname -
 
 ```bash
-$ sudo nano /etc/hostname
+sudo nano /etc/hostname
 ```
 
 2. Save and reboot -
 
 ```bash
-$ sudo reboot
+sudo reboot
 ```
 
 ## Method 2
@@ -21,8 +21,8 @@ $ sudo reboot
 Using `hostnamectl` command we can also set hostname, following is an example -
 
 ```
-$ sudo hostnamectl set-hostname Dell-G15-5515
-$ sudo reboot
+sudo hostnamectl set-hostname Dell-G15-5515
+sudo reboot
 ```
 
 To display current hostname, we can use `hostname` command.

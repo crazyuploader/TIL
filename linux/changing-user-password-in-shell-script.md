@@ -7,7 +7,7 @@ In order to change in shell scripts, we have two options which are given below.
 Using `passwd`
 
 ```bash
-$ echo -e "{NEW_PASSWORD}\n{NEW_PASSWORD} | passwd {USER}
+echo -e "{NEW_PASSWORD}\n{NEW_PASSWORD} | passwd {USER}
 ```
 
 ## Option 2
@@ -15,7 +15,7 @@ $ echo -e "{NEW_PASSWORD}\n{NEW_PASSWORD} | passwd {USER}
 Using `chpasswd`
 
 ```bash
-$ echo "{USER}:{NEW_PASSWORD} | chpasswd
+echo "{USER}:{NEW_PASSWORD} | chpasswd
 ```
 
 **_Source: [StackOverFlow](https://stackoverflow.com/a/11787889)_**

@@ -5,7 +5,7 @@ SSH Key based login for Git works most of the times, except for the time when we
 ## Setup Git Credential Storage Globally
 
 ```bash
-$ git config --global credential.helper store
+git config --global credential.helper store
 ```
 
 **Note:** `--global` argument tells Git to set this globally; credential file is stored `~/.git-credentials`.
@@ -13,8 +13,8 @@ $ git config --global credential.helper store
 ## Setup Git Credential Storage on a Single Repository
 
 ```bash
-$ cd /path/to/the/respository
-$ git config credential.helper store
+cd /path/to/the/respository
+git config credential.helper store
 ```
 
 **_Source: [Sentry Answers](https://sentry.io/answers/save-credentials-for-remotes-in-git/)_**

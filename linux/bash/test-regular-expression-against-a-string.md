@@ -11,7 +11,7 @@ In BASH we can perform regular expression on a string using `=~` operator, examp
 ## Example
 
 ```bash
-$ if [[ "Hello" =~ "1" ]]; then echo "True"; else echo "False"; fi
+if [[ "Hello" =~ "1" ]]; then echo "True"; else echo "False"; fi
 False
 ```
 

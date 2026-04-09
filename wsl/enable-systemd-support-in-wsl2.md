@@ -9,9 +9,9 @@ Since, WSL2 Ubuntu is a trimmed down version of Ubuntu, it doesn't come with sys
 Run this script in WSL2 (Ubuntu):
 
 ```bash
-$ git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
-$ cd ubuntu-wsl2-systemd-script/
-$ bash ubuntu-wsl2-systemd-script.sh
+git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+cd ubuntu-wsl2-systemd-script/
+bash ubuntu-wsl2-systemd-script.sh
 ```
 
 Then run (in Windows):
@@ -23,7 +23,7 @@ wsl --shutdown
 Run WSL again and test systemd by running:
 
 ```bash
-$ ps 1
+ps 1
 ```
 
 You should see something like this:

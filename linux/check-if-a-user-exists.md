@@ -7,14 +7,14 @@ We can check if a user exists on Linux System by `id` command.
 ## Example
 
 ```bash
-$ id -u jungle
+id -u jungle
 1000
 ```
 
 If a user does not exists on system, it throws an error. For example -
 
 ```bash
-$ id -u unknown
+id -u unknown
 id: ‘unknown’: no such user
 ```
 

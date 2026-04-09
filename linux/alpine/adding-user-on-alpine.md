@@ -5,7 +5,7 @@ On Alpine adding a user is little different than adding a user in Ubuntu/Debian.
 ## Usage
 
 ```bash
-$ adduser
+adduser
 BusyBox v1.33.1 () multi-call binary.
 
 Usage: adduser [OPTIONS] USER [GROUP]
@@ -26,7 +26,7 @@ Create new user, or add USER to GROUP
 ## Example
 
 ```bash
-$ adduser -h /home/somebody -s /bin/bash somebody -u 1001
+adduser -h /home/somebody -s /bin/bash somebody -u 1001
 ```
 
 This adds a user `somebody` with SHELL login as `bash`, home directory at `/home/somebody` and an UID of `1001`.

@@ -5,14 +5,14 @@ Sometimes, we need to access our machine remotely, and that is where SSH (Secure
 ### Install SSH Server
 
 ```bash
-$ sudo apt-get update
-$ sudo apt-get install -y openssh-server
+sudo apt-get update
+sudo apt-get install -y openssh-server
 ```
 
 To check whether or not the SSH Server is running run -
 
 ```bash
-$ sudo systemctl status ssh
+sudo systemctl status ssh
 ```
 
 ### Open port for SSH Server in Firewall

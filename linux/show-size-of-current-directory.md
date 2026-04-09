@@ -7,13 +7,13 @@ Size of current directory can be seen by using `du` command.
 To see size of current directory -
 
 ```bash
-$ du -sh
+du -sh
 ```
 
 To see size of a different directory -
 
 ```bash
-$ du -sh /var
+du -sh /var
 ```
 
 `/var` is the path to the directory you want to see the size of

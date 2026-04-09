@@ -5,7 +5,7 @@ In order to capture ICMP packets using `tcpdump` we can use the following comman
 ## Usage
 
 ```bash
-$ sudo tcpdump icmp
+sudo tcpdump icmp
 ```
 
 We can also add `-vv` argument for more verbose output.

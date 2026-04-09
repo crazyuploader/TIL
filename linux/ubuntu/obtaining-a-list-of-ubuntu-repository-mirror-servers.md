@@ -5,7 +5,7 @@ We can get the latest mirror server list for Ubuntu from this [URL](http://mirro
 ## Example
 
 ```bash
-$ curl http://mirrors.ubuntu.com/mirrors.txt
+curl http://mirrors.ubuntu.com/mirrors.txt
 https://repo.extreme-ix.org/ubuntu/
 https://in.mirror.coganng.com/ubuntu-ports/
 https://in.mirror.coganng.com/ubuntu/

@@ -5,7 +5,7 @@ To print count matching lines we can use `-c, --count` argument with `grep` comm
 ## Example
 
 ```bash
-$ seq 100 | grep -c 5
+seq 100 | grep -c 5
 19
 ```
 

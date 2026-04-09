@@ -5,13 +5,13 @@ To check whether or not a package is installed, we can test with `dpkg` command.
 ## Usage
 
 ```bash
-$ dpkg --status {PACKAGE_NAME}
+dpkg --status {PACKAGE_NAME}
 ```
 
 ## Example
 
 ```bash
-$ dpkg --status sudo
+dpkg --status sudo
 Package: sudo
 Status: install ok installed
 Priority: important

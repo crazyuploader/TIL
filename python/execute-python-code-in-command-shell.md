@@ -5,7 +5,7 @@ We can run Python Code in shell using `python -c` option.
 ## Example
 
 ```bash
-$ python3 -c "print('Hello World')"
+python3 -c "print('Hello World')"
 Hello World
 ```
 

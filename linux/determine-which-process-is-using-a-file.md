@@ -5,7 +5,7 @@ We can use `lsof` command to determine which process is using a file.
 ## Usage
 
 ```bash
-$ lsof file/path
+lsof file/path
 ```
 
 **_Source: [Unix - StackExchange](https://unix.stackexchange.com/a/13791)_**

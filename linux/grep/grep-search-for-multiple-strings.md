@@ -7,7 +7,7 @@ To search for multiple strings/patterns at once in `grep` we can do it by follow
 Using OR Operator `|`
 
 ```bash
-$ echo -e "Hi\nThere\nHumans" | grep "Hi\|Humans"
+echo -e "Hi\nThere\nHumans" | grep "Hi\|Humans"
 Hi
 Humans
 ```
@@ -19,7 +19,7 @@ Humans
 Using Extended Regular Expressions option `-E`
 
 ```bash
-$ echo -e "Hi\nThere\nHumans" | grep -E "Hi|Humans"
+echo -e "Hi\nThere\nHumans" | grep -E "Hi|Humans"
 Hi
 Humans
 ```

@@ -5,7 +5,7 @@ An alternative to `uname -m` to see what is the architecture of the system is `a
 ## Example
 
 ```bash
-$ arch
+arch
 x86_64
 ```
 

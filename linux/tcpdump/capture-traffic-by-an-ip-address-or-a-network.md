@@ -7,7 +7,7 @@
 To capture traffic for an IP address, we can simply use `host` argument.
 
 ```bash
-$ sudo tcpdump host 1.1.1.1
+sudo tcpdump host 1.1.1.1
 ```
 
 This will capture both outgoing, and incoming traffic for an IP address, `1.1.1.1` in example above.
@@ -17,8 +17,8 @@ This will capture both outgoing, and incoming traffic for an IP address, `1.1.1.
 If you only want to capture traffic from one direction, we can use `src` or `dst` argument.
 
 ```bash
-$ sudo tcpdump src 1.1.1.1
-$ sudo tcpdump dst 1.1.1.1
+sudo tcpdump src 1.1.1.1
+sudo tcpdump dst 1.1.1.1
 ```
 
 ## Capture Traffic by a Network
@@ -26,7 +26,7 @@ $ sudo tcpdump dst 1.1.1.1
 To capture traffic from a network or subnet, we can use `net` argument.
 
 ```bash
-$ sudo tcpdump net 1.2.3.0/24
+sudo tcpdump net 1.2.3.0/24
 ```
 
 **_Source: [Danielmiessler](https://danielmiessler.com/study/tcpdump/#protocol)_**

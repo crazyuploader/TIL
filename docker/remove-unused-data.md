@@ -5,7 +5,7 @@
 > Remove all unused containers, networks, images (both dangling and unreferenced), and optionally, volumes.
 
 ```bash
-$ docker system prune
+docker system prune
 
 WARNING! This will remove:
         - all stopped containers

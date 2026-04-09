@@ -5,16 +5,16 @@ We can use `-q, --quiet` argument which tells `grep` to run in quiet mode and no
 ## Example
 
 ```bash
-$ seq 5 | grep -q 3
-$ echo $?
+seq 5 | grep -q 3
+echo $?
 0
 ```
 
 Here, since `grep` found pattern "3", it exited with `0` exit code without displaying anything.
 
 ```bash
-$ seq 5 | grep -q 6
-$ echo $?
+seq 5 | grep -q 6
+echo $?
 1
 ```
 

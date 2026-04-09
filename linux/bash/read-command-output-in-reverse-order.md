@@ -7,7 +7,7 @@ We can use `tac` to read file(s) or `stdout` in reverse order.
 ### Example
 
 ```bash
-$ echo -e "Hello\nWorld" | tac
+echo -e "Hello\nWorld" | tac
 World
 Hello
 ```

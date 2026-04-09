@@ -29,13 +29,13 @@ end
 Start the Vagrant Machine with -
 
 ```bash
-$ vagrant start
+vagrant start
 ```
 
 Reload the Vagrant Machine -
 
 ```bash
-$ vagrant reload
+vagrant reload
 ```
 
 RAM and CPU should be configured, we can confirm with `free -m` and `nproc` command by running in Vagrant Machine.

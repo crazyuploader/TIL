@@ -5,37 +5,37 @@
 ## Ubuntu
 
 ```bash
-$ sudo apt-get install pavucontrol
+sudo apt-get install pavucontrol
 ```
 
 Or QT Version
 
 ```
-$ sudo apt-get install pavucontrol-gt
+sudo apt-get install pavucontrol-gt
 ```
 
 ## Arch
 
 ```bash
-$ sudo pacman -S pavucontrol
+sudo pacman -S pavucontrol
 ```
 
 Or QT Version
 
 ```bash
-$ sudo pacman -S pavucontrol-gt
+sudo pacman -S pavucontrol-gt
 ```
 
 ## Fedora
 
 ```bash
-$ sudo dnf install pavucontrol
+sudo dnf install pavucontrol
 ```
 
 Or QT Version
 
 ```bash
-$ sudo dnf install pavucontrol-gt
+sudo dnf install pavucontrol-gt
 ```
 
 ## OpenSUSE

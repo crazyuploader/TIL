@@ -3,7 +3,7 @@
 We can list all possible GOOS and GOARCH in Go using the following command -
 
 ```bash
-$ go tool dist list
+go tool dist list
 aix/ppc64
 android/386
 android/amd64

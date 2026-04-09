@@ -7,7 +7,7 @@ We can use `ccze` command to beautify/prettify logs of different types. Usage gi
 On Debian based systems, we can install it by running the following command -
 
 ```bash
-$ apt-get install -y ccze
+apt-get install -y ccze
 ```
 
 ## Examples
@@ -15,7 +15,7 @@ $ apt-get install -y ccze
 We can pipe differnet logs through standard output such as -
 
 ```
-$ cat /var/log/auth.log | ccze
+cat /var/log/auth.log | ccze
 ```
 
 **_Source: [CentOS Blog](https://www.centosblog.com/command-line-tool-day-ccze-prettify-logs-colours/)_**

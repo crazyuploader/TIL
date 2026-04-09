@@ -7,7 +7,7 @@ We can invert search in `grep` by using `-v, --invert-match` argument, `-v` only
 ## Example
 
 ```bash
-$ seq 5 | grep -v 3
+seq 5 | grep -v 3
 1
 2
 4

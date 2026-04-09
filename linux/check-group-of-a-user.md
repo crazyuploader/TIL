@@ -5,13 +5,13 @@ We can check group(s) a user is part of by following methods -
 ## Checking `/etc/group` File
 
 ```bash
-$ cat /etc/group
+cat /etc/group
 ```
 
 ## Using `groups` Command
 
 ```bash
-$ group {USER_NAME}
+group {USER_NAME}
 ```
 
 Example -

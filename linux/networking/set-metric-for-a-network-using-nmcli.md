@@ -7,7 +7,7 @@ For some reason my ISP started acting up today from few days, and result was no 
 We can check current metric value by issuing `ip route` command.
 
 ```code
-$ ip route
+ip route
 default via 192.168.53.52 dev wlp4s0 proto dhcp src 192.168.53.217 metric 600
 default via 10.71.72.1 dev enp3s0 proto static metric 100
 10.66.66.0/24 dev wg1 scope link
@@ -23,7 +23,7 @@ default via 10.71.72.1 dev enp3s0 proto static metric 100
 To change the metric value for an interface, we can use `nmcli` command -
 
 ```code
-$ sudo nmcli connection modify "Junglee Hotspot" ipv4.route-metric 50
+sudo nmcli connection modify "Junglee Hotspot" ipv4.route-metric 50
 ```
 
 Here, I am changing the metric value to 50 for the WiFi Network.
@@ -31,7 +31,7 @@ Here, I am changing the metric value to 50 for the WiFi Network.
 ## Check Metric Value Again
 
 ```code
-$ ip route
+ip route
 default via 192.168.53.52 dev wlp4s0 proto dhcp src 192.168.53.217 metric 50
 default via 10.71.72.1 dev enp3s0 proto static metric 100
 10.66.66.0/24 dev wg1 scope link
@@ -45,7 +45,7 @@ default via 10.71.72.1 dev enp3s0 proto static metric 100
 And of course, we can use `ip route` command to achieve the same result!
 
 ```code
-$ sudo ip route replace default via 192.168.53.52 dev wlp4s0 proto dhcp src 192.168.53.217 metric 50
+sudo ip route replace default via 192.168.53.52 dev wlp4s0 proto dhcp src 192.168.53.217 metric 50
 ```
 
 **_Source: [Baeldung Linux](https://www.baeldung.com/linux/change-network-routing-metric)_**
