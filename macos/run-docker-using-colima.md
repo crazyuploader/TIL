@@ -6,7 +6,7 @@ Docker Desktop can be quite resource hungry and full with bloatware, to have a m
 
 To install Colima, we can use brew:
 
-```bash
+```zsh
 brew install colima docker docker-compose
 ```
 
@@ -14,19 +14,19 @@ brew install colima docker docker-compose
 
 First we need to create a Virtual Machine (VM) which will run Docker, to initalize it using colima, run this command for M1 chips:
 
-```bash
+```zsh
 colima start --cpu 4 --memory 5 --disk 60 --vm-type vz --vz-rosetta
 ```
 
 Or Intel chips:
 
-```bash
+```zsh
 colima start --cpu 4 --memory 5 --disk 60
 ```
 
 Check status with:
 
-```bash
+```zsh
 colima status
 ```
 
@@ -34,14 +34,14 @@ colima status
 
 List and switch Docker's context using:
 
-```bash
+```zsh
 docker context ls
 docker context use colima
 ```
 
 To make it permanent, add `colima` context to `~/.zshrc`:
 
-```bash
+```zsh
 echo 'export DOCKER_CONTEXT=colima' >> ~/.zshrc
 source ~/.zshrc
 ```
@@ -50,27 +50,28 @@ source ~/.zshrc
 
 Docker Compose can work fine without this step, but I prefer using `docker compose` instead of `docker-compose`, in order to do that, run:
 
-```bash
+```zsh
 mkdir -p ~/.docker/cli-plugins
 ln -sfn $(brew --prefix)/opt/docker-compose/bin/docker-compose ~/.docker/cli-plugins/docker-compose
 ```
 
 Check Compose version:
 
-```bash
+```zsh
 docker compose version
 ```
 
 ## Manage Colima
 
-```bash
+```zsh
+colima start
 colima stop
 colima restart
 ```
 
 Make it start automatically upon boot:
 
-```bash
+```zsh
 brew services start colima
 ```
 
