@@ -36,4 +36,4 @@ jungle@DESKTOP-B73I3A0:~$ ps 1
 
 Enjoy systemd hack on WSL2!
 
-**_Source: ~GitHub~_**
+**_Source: ~~GitHub~~_**
